@@ -28,13 +28,11 @@
 
 8
 00:00:48,966 --> 00:00:55,303
-<i>♪ 这就是 Penelope ♪
-♪ 这就是 Penelope ♪</i>
+<i>♪ 这就是 Penelope ♪♪ 这就是 Penelope ♪</i>
 
 9
 00:00:55,389 --> 00:00:59,052
-<i>♪ Penelope ♪
-♪ 这就是 Penelope ♪</i>
+<i>♪ Penelope ♪♪ 这就是 Penelope ♪</i>
 
 10
 00:00:59,142 --> 00:01:02,600
@@ -58,18 +56,15 @@
 
 15
 00:01:17,160 --> 00:01:20,323
-<i>♪ Penelope ♪
-♪ 谁是 Penelope ？ ♪</i>
+<i>♪ Penelope ♪♪ 谁是 Penelope ？ ♪</i>
 
 16
 00:01:20,414 --> 00:01:23,781
-<i>♪ Penelope ♪
-♪ 谁是 Penelope ？ ♪</i>
+<i>♪ Penelope ♪♪ 谁是 Penelope ？ ♪</i>
 
 17
 00:01:23,875 --> 00:01:27,163
-<i>♪ Penelope ♪
-♪ 谁是 Penelope ？ ♪</i>
+<i>♪ Penelope ♪♪ 谁是 Penelope ？ ♪</i>
 
 18
 00:01:27,254 --> 00:01:33,875
@@ -85,23 +80,19 @@
 
 21
 00:01:46,898 --> 00:01:53,235
-<i>♪ 这就是 Penelope ♪
-♪ 这就是 Penelope ♪</i>
+<i>♪ 这就是 Penelope ♪♪ 这就是 Penelope ♪</i>
 
 22
 00:01:53,322 --> 00:01:56,940
-<i>♪ Penelope ♪
-♪ 这就是 Penelope ♪</i>
+<i>♪ Penelope ♪♪ 这就是 Penelope ♪</i>
 
 23
 00:01:57,034 --> 00:02:00,071
-<i>♪ Penelope ♪
-♪ 这就是 Penelope ♪</i>
+<i>♪ Penelope ♪♪ 这就是 Penelope ♪</i>
 
 24
 00:02:00,162 --> 00:02:03,746
-<i>♪ Penelope ♪
-♪ 这就是 Penelope ♪</i>
+<i>♪ Penelope ♪♪ 这就是 Penelope ♪</i>
 
 25
 00:02:30,776 --> 00:02:34,519
@@ -7180,6 +7171,5 @@ is as crazy as a mad magician ♪</i>
 
 1685
 01:37:39,145 --> 01:37:45,641
-<i>♪ this is Penelope ♪
-♪ this is Penelope... ♪</i>
+<i>♪ this is Penelope ♪♪ this is Penelope... ♪</i>
 
