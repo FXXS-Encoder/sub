@@ -955,8 +955,8 @@ Gregory, it's very simple...
 
 209
 00:13:55,960 --> 00:13:57,813
-Please, I-l don't wanna hear.
-I-l don't want to hear it.
+Please, I-I don't wanna hear.
+I-I don't want to hear it.
 
 210
 00:13:57,837 --> 00:13:59,919
@@ -1061,7 +1061,7 @@ Passed up a vital clue.
 
 232
 00:15:01,109 --> 00:15:05,944
-Now I-l want you to tell me
+Now I-I want you to tell me
 again from the beginning
 
 233
@@ -2970,12 +2970,12 @@ Isn't that true?
 
 661
 00:41:20,144 --> 00:41:24,683
-Uh, I-i-l never, I never thought
+Uh, I-i-I never, I never thought
 of it like that, hm.
 
 662
 00:41:24,774 --> 00:41:27,231
-Well, anyway, I-l could still
+Well, anyway, I-I could still
 look for your letters at home.
 
 663
@@ -5150,7 +5150,7 @@ What? You sure?
 
 1148
 01:08:49,584 --> 01:08:51,540
-Yeah, I-l find that hard
+Yeah, I-I find that hard
 to believe.
 
 1149
@@ -5697,7 +5697,7 @@ Oh, no. No, wait.
 
 1268
 01:14:02,271 --> 01:14:04,478
-Wait, I-i-l admit it.
+Wait, I-I-l admit it.
 
 1269
 01:14:04,565 --> 01:14:06,726
@@ -6623,7 +6623,7 @@ when she first started with you.
 
 1472
 01:23:51,151 --> 01:23:53,688
-Former? W-w-what do you mean by,
+Former? W-W-What do you mean by,
 uh, former? I don't understand.
 
 1473
@@ -7572,3 +7572,4 @@ is as crazy as a mad magician ♪</i>
 01:37:39,145 --> 01:37:45,641
 <i>♪ this is Penelope ♪
 ♪ this is Penelope... ♪</i>
+
