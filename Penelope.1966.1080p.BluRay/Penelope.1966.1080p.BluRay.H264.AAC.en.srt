@@ -8,13 +8,11 @@
 
 3
 00:00:22,481 --> 00:00:25,644
-<i>♪ Penelope ♪
-♪ who is Penelope? ♪</i>
+<i>♪ Penelope ♪ ♪ who is Penelope? ♪</i>
 
 4
 00:00:25,734 --> 00:00:28,976
-<i>♪ Penelope ♪
-♪ who is Penelope? ♪</i>
+<i>♪ Penelope ♪ ♪ who is Penelope? ♪</i>
 
 5
 00:00:29,071 --> 00:00:35,863
@@ -33,13 +31,11 @@ your mind could never dismiss ♪</i>
 
 8
 00:00:48,966 --> 00:00:55,303
-<i>♪ this is Penelope ♪
-♪ this is Penelope ♪</i>
+<i>♪ this is Penelope ♪ ♪ this is Penelope ♪</i>
 
 9
 00:00:55,389 --> 00:00:59,052
-<i>♪ Penelope ♪
-♪ this is Penelope ♪</i>
+<i>♪ Penelope ♪ ♪ this is Penelope ♪</i>
 
 10
 00:00:59,142 --> 00:01:02,600
@@ -52,8 +48,7 @@ planned her ♪</i>
 
 12
 00:01:05,983 --> 00:01:09,146
-<i>♪ there is no way
-to understand her ♪</i>
+<i>♪ there is no way to understand her ♪</i>
 
 13
 00:01:09,236 --> 00:01:14,526
@@ -66,18 +61,15 @@ who does is Penelope ♪</i>
 
 15
 00:01:17,160 --> 00:01:20,323
-<i>♪ Penelope ♪
-♪ who is Penelope? ♪</i>
+<i>♪ Penelope ♪ ♪ who is Penelope? ♪</i>
 
 16
 00:01:20,414 --> 00:01:23,781
-<i>♪ Penelope ♪
-♪ who is Penelope? ♪</i>
+<i>♪ Penelope ♪ ♪ who is Penelope? ♪</i>
 
 17
 00:01:23,875 --> 00:01:27,163
-<i>♪ Penelope ♪
-♪ who is Penelope? ♪</i>
+<i>♪ Penelope ♪ ♪ who is Penelope? ♪</i>
 
 18
 00:01:27,254 --> 00:01:33,875
@@ -96,23 +88,19 @@ who's your conception of bliss ♪</i>
 
 21
 00:01:46,898 --> 00:01:53,235
-<i>♪ this is Penelope ♪
-♪ this is Penelope ♪</i>
+<i>♪ this is Penelope ♪ ♪ this is Penelope ♪</i>
 
 22
 00:01:53,322 --> 00:01:56,940
-<i>♪ Penelope ♪
-♪ this is Penelope ♪</i>
+<i>♪ Penelope ♪ ♪ this is Penelope ♪</i>
 
 23
 00:01:57,034 --> 00:02:00,071
-<i>♪ Penelope ♪
-♪ this is Penelope ♪</i>
+<i>♪ Penelope ♪ ♪ this is Penelope ♪</i>
 
 24
 00:02:00,162 --> 00:02:03,746
-<i>♪ Penelope ♪
-♪ this is Penelope ♪</i>
+<i>♪ Penelope ♪ ♪ this is Penelope ♪</i>
 
 25
 00:02:30,776 --> 00:02:34,519
@@ -149,8 +137,7 @@ Oh, I hope you don't mind.
 
 32
 00:02:57,761 --> 00:03:01,094
-Oh, miss Serena.
-What a sweet name.
+Oh, miss Serena. What a sweet name.
 
 33
 00:03:01,264 --> 00:03:02,549
@@ -178,8 +165,7 @@ ought to be calm and serene.
 
 38
 00:03:15,404 --> 00:03:18,316
-That's good,
-because this is a stickup.
+That's good, because this is a stickup.
 
 39
 00:03:18,407 --> 00:03:20,147
@@ -192,8 +178,7 @@ on that alarm button
 
 41
 00:03:22,285 --> 00:03:24,241
-or I shall be forced
-to blast you.
+or I shall be forced to blast you.
 
 42
 00:03:24,329 --> 00:03:28,868
@@ -219,8 +204,7 @@ on them? $1000 bills?
 
 47
 00:03:44,391 --> 00:03:47,508
-Let me have
-a handful of those too.
+Let me have a handful of those too.
 
 48
 00:03:53,400 --> 00:03:54,731
@@ -275,12 +259,12 @@ Not him. Lady.
 
 60
 00:05:12,562 --> 00:05:14,928
-Relax. -Old...
+Relax.
+-Old...
 
 61
 00:05:35,085 --> 00:05:37,542
-Come on,
-release the electronic doors.
+Come on, release the electronic doors.
 
 62
 00:05:37,629 --> 00:05:39,165
@@ -293,8 +277,7 @@ with your hands up.
 
 64
 00:05:43,218 --> 00:05:45,880
-A gun! That horrible old lady's
-got a gun!
+A gun! That horrible old lady's got a gun!
 
 65
 00:05:45,971 --> 00:05:48,462
@@ -307,8 +290,7 @@ You first. I'm not even married.
 
 67
 00:05:52,853 --> 00:05:55,435
-I couldn't find the button,
-Mr. Elcott.
+I couldn't find the button, Mr. Elcott.
 
 68
 00:06:15,625 --> 00:06:18,458
@@ -316,13 +298,11 @@ Mr. Elcott! Mr. Elcott!
 
 69
 00:06:18,545 --> 00:06:20,536
-They've trapped her
-in the ladies' room.
+They've trapped her in the ladies' room.
 
 70
 00:06:30,640 --> 00:06:33,131
-Alright, little old lady,
-are you coming out
+Alright, little old lady, are you coming out
 
 71
 00:06:33,226 --> 00:06:34,932
@@ -338,13 +318,11 @@ Do you have a dime?
 
 74
 00:06:55,415 --> 00:06:56,871
-In deference to your years,
-madam
+In deference to your years, madam
 
 75
 00:06:56,958 --> 00:06:58,869
-I urge you not to do
-anything foolish.
+I urge you not to do anything foolish.
 
 76
 00:07:00,503 --> 00:07:02,619
@@ -387,8 +365,7 @@ What seems to be the trouble?
 
 85
 00:08:41,187 --> 00:08:43,269
-Stickup
-at the city federal bank.
+Stickup at the city federal bank.
 
 86
 00:08:43,356 --> 00:08:45,221
@@ -405,8 +382,7 @@ No!
 
 89
 00:08:48,987 --> 00:08:52,104
-Got away
-with over 130,000 bucks!
+Got away with over 130,000 bucks!
 
 90
 00:08:52,198 --> 00:08:54,234
@@ -435,8 +411,7 @@ Throw this nut out!
 
 96
 00:09:07,297 --> 00:09:09,629
-He's not a nut.
-He's a police lieutenant.
+He's not a nut. He's a police lieutenant.
 
 97
 00:09:09,716 --> 00:09:11,752
@@ -450,13 +425,11 @@ much of a bank president.
 
 99
 00:09:14,763 --> 00:09:16,970
-And a good bony leg.
-Did you notice?
+And a good bony leg. Did you notice?
 
 100
 00:09:17,057 --> 00:09:19,218
-I lost my trouser
-defending my bank.
+I lost my trouser defending my bank.
 
 101
 00:09:19,309 --> 00:09:20,745
@@ -512,13 +485,11 @@ We have all the serial numbers.
 
 112
 00:09:43,833 --> 00:09:44,935
-I guess
-it would be kind of tough
+I guess it would be kind of tough
 
 113
 00:09:44,959 --> 00:09:47,075
-trying to break $1000 bill
-in an automat.
+trying to break $1000 bill in an automat.
 
 114
 00:09:47,170 --> 00:09:48,706
@@ -539,13 +510,11 @@ You find grand larceny amusing?
 
 118
 00:09:55,804 --> 00:09:58,386
-You're tense.
-You're much too tense.
+You're tense. You're much too tense.
 
 119
 00:09:58,473 --> 00:10:00,839
-Very bad for the digestion.
-Relax.
+Very bad for the digestion. Relax.
 
 120
 00:10:00,934 --> 00:10:02,799
@@ -554,13 +523,11 @@ let them be tense.
 
 121
 00:10:02,894 --> 00:10:04,304
-They have to make good
-your losses.
+They have to make good your losses.
 
 122
 00:10:04,395 --> 00:10:05,915
-I'm concerned
-with our loss of prestige.
+I'm concerned with our loss of prestige.
 
 123
 00:10:05,939 --> 00:10:08,084
@@ -616,18 +583,15 @@ of a new bank's operation.
 
 134
 00:10:29,045 --> 00:10:30,910
-Rothschild, get these down
-to the lab.
+Rothschild, get these down to the lab.
 
 135
 00:10:31,005 --> 00:10:32,916
-We're going
-to the movies tonight.
+We're going to the movies tonight.
 
 136
 00:10:35,718 --> 00:10:37,299
-Get me Mrs. Elcott.
-If she's not at home
+Get me Mrs. Elcott. If she's not at home
 
 137
 00:10:40,390 --> 00:10:42,430
@@ -670,8 +634,7 @@ to run away from reality?
 
 146
 00:11:13,965 --> 00:11:16,877
-A little running, yes.
-Little escaping too.
+A little running, yes. Little escaping too.
 
 147
 00:11:16,968 --> 00:11:19,425
@@ -689,13 +652,11 @@ anything like that before.
 
 150
 00:11:25,768 --> 00:11:28,601
-"In the spring,
-a young man's fancy?"
+"In the spring, a young man's fancy?"
 
 151
 00:11:28,688 --> 00:11:30,770
-Penelope, I am not in love
-with you,
+Penelope, I am not in love with you,
 
 152
 00:11:30,857 --> 00:11:33,064
@@ -708,8 +669,7 @@ analysis, you may think so.
 
 154
 00:11:36,487 --> 00:11:38,352
-Oh, I don't think
-I'm in love with you.
+Oh, I don't think I'm in love with you.
 
 155
 00:11:39,824 --> 00:11:42,486
@@ -738,8 +698,7 @@ That's good.
 
 161
 00:11:57,008 --> 00:11:59,420
-So you had
-an interesting day, huh?
+So you had an interesting day, huh?
 
 162
 00:11:59,802 --> 00:12:01,212
@@ -765,8 +724,7 @@ new exhibit there.
 
 167
 00:12:10,772 --> 00:12:13,434
-Then I had lunch
-at the, uh, Plaza.
+Then I had lunch at the, uh, Plaza.
 
 168
 00:12:13,524 --> 00:12:14,684
@@ -778,8 +736,7 @@ Eggs Benedict.
 
 170
 00:12:16,611 --> 00:12:19,819
-And then,
-a few minutes before 3 o'clock
+And then, a few minutes before 3 o'clock
 
 171
 00:12:19,906 --> 00:12:22,147
@@ -804,13 +761,11 @@ How do you mean?
 
 176
 00:12:44,847 --> 00:12:45,908
-I mean, you said
-you went shopping.
+I mean, you said you went shopping.
 
 177
 00:12:45,932 --> 00:12:47,243
-You went to the museum,
-you had lunch.
+You went to the museum, you had lunch.
 
 178
 00:12:47,267 --> 00:12:48,757
@@ -823,8 +778,7 @@ entirely irrelevant.
 
 180
 00:12:51,896 --> 00:12:54,603
-Gregory, it's you
-who's not associating.
+Gregory, it's you who's not associating.
 
 181
 00:12:54,691 --> 00:12:56,807
@@ -851,8 +805,7 @@ I know what you're capable of
 
 186
 00:13:02,865 --> 00:13:04,526
-and I know
-what you're not capable of.
+and I know what you're not capable of.
 
 187
 00:13:04,617 --> 00:13:05,617
@@ -864,8 +817,7 @@ My reputation in psychiatry
 
 189
 00:13:07,203 --> 00:13:08,943
-against anything
-you care to put up.
+against anything you care to put up.
 
 190
 00:13:09,038 --> 00:13:10,949
@@ -877,8 +829,7 @@ What's that?
 
 192
 00:13:14,335 --> 00:13:16,542
-Well, I think
-it's called the loot.
+Well, I think it's called the loot.
 
 193
 00:13:17,005 --> 00:13:19,542
@@ -890,8 +841,7 @@ P-Penelope, would-would you...
 
 195
 00:13:27,807 --> 00:13:30,469
-So you think
-you robbed a bank, huh?
+So you think you robbed a bank, huh?
 
 196
 00:13:30,560 --> 00:13:32,767
@@ -908,18 +858,15 @@ Do you like it?
 
 199
 00:13:36,858 --> 00:13:39,144
-Penelope, do you expect me
-to believe
+Penelope, do you expect me to believe
 
 200
 00:13:39,235 --> 00:13:41,066
-that you robbed
-your husband's bank
+that you robbed your husband's bank
 
 201
 00:13:41,154 --> 00:13:42,815
-and went blithely
-off to Bergdorf's
+and went blithely off to Bergdorf's
 
 202
 00:13:42,905 --> 00:13:45,612
@@ -933,8 +880,7 @@ on dresses and minks?
 
 204
 00:13:48,036 --> 00:13:50,152
-No, I wouldn't spend
-stolen money.
+No, I wouldn't spend stolen money.
 
 205
 00:13:50,246 --> 00:13:51,406
@@ -942,8 +888,7 @@ I have a charge account.
 
 206
 00:13:51,497 --> 00:13:52,862
-You still insist
-you robbed a bank.
+You still insist you robbed a bank.
 
 207
 00:13:52,957 --> 00:13:54,322
@@ -960,8 +905,7 @@ I-I don't want to hear it.
 
 210
 00:13:57,837 --> 00:13:59,919
-I-I-I-I don't wanna hear
-about it.
+I-I-I-I don't wanna hear about it.
 
 211
 00:14:00,173 --> 00:14:03,631
@@ -970,18 +914,15 @@ you an accessory after the fact.
 
 212
 00:14:03,718 --> 00:14:06,255
-Gregory, I'm sorry.
-Don't be upset.
+Gregory, I'm sorry. Don't be upset.
 
 213
 00:14:06,346 --> 00:14:08,428
-We'll just forget
-I ever mentioned it.
+We'll just forget I ever mentioned it.
 
 214
 00:14:08,514 --> 00:14:10,596
-We're not going to forget
-about anything.
+We're not going to forget about anything.
 
 215
 00:14:12,477 --> 00:14:14,263
@@ -1010,13 +951,11 @@ into a bank
 
 221
 00:14:24,739 --> 00:14:27,151
-and pick up $60,000
-by asking for it.
+and pick up $60,000 by asking for it.
 
 222
 00:14:27,241 --> 00:14:29,823
-Of course, you can.
-If you have a gun.
+Of course, you can. If you have a gun.
 
 223
 00:14:29,911 --> 00:14:31,276
@@ -1024,8 +963,7 @@ You don't own a gun!
 
 224
 00:14:31,371 --> 00:14:33,828
-Oh, Gregory,
-you're always so positive.
+Oh, Gregory, you're always so positive.
 
 225
 00:14:33,915 --> 00:14:35,184
@@ -1033,13 +971,11 @@ What do you think this is?
 
 226
 00:14:36,292 --> 00:14:39,750
-Oh, I'm sorry.
-I didn't know it was loaded.
+Oh, I'm sorry. I didn't know it was loaded.
 
 227
 00:14:39,837 --> 00:14:41,748
-I bought it
-in the five and dime.
+I bought it in the five and dime.
 
 228
 00:14:42,799 --> 00:14:47,042
@@ -1071,13 +1007,11 @@ that you took something.
 
 234
 00:15:10,034 --> 00:15:12,946
-You mean stole something,
-don't you?
+You mean stole something, don't you?
 
 235
 00:15:13,037 --> 00:15:14,823
-Gregory, we might
-as well face it.
+Gregory, we might as well face it.
 
 236
 00:15:14,914 --> 00:15:16,120
@@ -1085,8 +1019,7 @@ I'm a kleptomaniac.
 
 237
 00:15:16,207 --> 00:15:19,324
-I refuse to accept
-that word clinically.
+I refuse to accept that word clinically.
 
 238
 00:15:19,419 --> 00:15:23,662
@@ -1102,8 +1035,7 @@ Was my last week in college.
 
 241
 00:15:31,973 --> 00:15:33,964
-I was all dressed up
-for the senior prom
+I was all dressed up for the senior prom
 
 242
 00:15:34,058 --> 00:15:36,390
@@ -1121,8 +1053,7 @@ to show me some pictures
 
 245
 00:15:41,232 --> 00:15:43,314
-of the Okokos tribe
-in his laboratory.
+of the Okokos tribe in his laboratory.
 
 246
 00:15:45,695 --> 00:15:49,028
@@ -1135,8 +1066,7 @@ Well, they certainly did,
 
 248
 00:15:52,076 --> 00:15:53,987
-but no stranger
-than Professor Klobb's.
+but no stranger than Professor Klobb's.
 
 249
 00:16:05,715 --> 00:16:07,125
@@ -1168,13 +1098,11 @@ I didn't notice it at first,
 
 256
 00:17:09,195 --> 00:17:11,356
-but there was something
-in my hand.
+but there was something in my hand.
 
 257
 00:17:11,447 --> 00:17:13,187
-Somehow,
-sometime during our session
+Somehow, sometime during our session
 
 258
 00:17:13,282 --> 00:17:14,818
@@ -1182,8 +1110,7 @@ in primitive anthropology,
 
 259
 00:17:14,909 --> 00:17:16,524
-I had grabbed hold
-of Professor Klobb's
+I had grabbed hold of Professor Klobb's
 
 260
 00:17:16,619 --> 00:17:19,281
@@ -1191,8 +1118,7 @@ watch fob, diamond-studded.
 
 261
 00:17:19,372 --> 00:17:21,112
-I could have sent it back,
-of course,
+I could have sent it back, of course,
 
 262
 00:17:21,207 --> 00:17:22,697
@@ -1205,8 +1131,7 @@ customs of the Okokos tribe.
 
 264
 00:17:26,254 --> 00:17:29,621
-So that's where I began
-my life of crime.
+So that's where I began my life of crime.
 
 265
 00:17:29,715 --> 00:17:31,330
@@ -1218,8 +1143,7 @@ When was the next incident?
 
 267
 00:17:38,099 --> 00:17:39,930
-Well, there were some
-odds and ends
+Well, there were some odds and ends
 
 268
 00:17:40,017 --> 00:17:41,848
@@ -1272,8 +1196,7 @@ When I came to think about it,
 
 279
 00:18:28,524 --> 00:18:30,936
-I couldn't seem to locate
-Mildred either.
+I couldn't seem to locate Mildred either.
 
 280
 00:18:31,027 --> 00:18:32,892
@@ -1294,8 +1217,7 @@ In situations like this,
 
 284
 00:18:40,578 --> 00:18:43,035
-I always think
-of clever things to say.
+I always think of clever things to say.
 
 285
 00:18:43,122 --> 00:18:44,737
@@ -1316,13 +1238,11 @@ Yes, I heard you.
 
 289
 00:18:51,505 --> 00:18:53,166
-Well, everybody always kisses
-the bride,
+Well, everybody always kisses the bride,
 
 290
 00:18:53,257 --> 00:18:55,748
-but-but-but no one thinks
-of the groom.
+but-but-but no one thinks of the groom.
 
 291
 00:18:55,843 --> 00:18:57,049
@@ -1366,8 +1286,7 @@ wasn't sharp enough.
 
 300
 00:19:20,576 --> 00:19:22,692
-Would you care
-for an explanation?
+Would you care for an explanation?
 
 301
 00:19:23,663 --> 00:19:25,995
@@ -1383,8 +1302,7 @@ I could take it or leave it.
 
 304
 00:19:34,048 --> 00:19:36,004
-Have you got
-all of her lipstick off?
+Have you got all of her lipstick off?
 
 305
 00:19:36,467 --> 00:19:38,253
@@ -1407,8 +1325,7 @@ let's see you hit a future bride.
 
 309
 00:20:03,828 --> 00:20:05,989
-I can still see Mildred
-looking up at me.
+I can still see Mildred looking up at me.
 
 310
 00:20:06,080 --> 00:20:08,162
@@ -1421,13 +1338,11 @@ plus a very superior expression.
 
 312
 00:20:12,086 --> 00:20:14,077
-It was time to toss
-the wedding bouquet.
+It was time to toss the wedding bouquet.
 
 313
 00:20:15,798 --> 00:20:17,254
-I decided
-I'd let Mildred have it.
+I decided I'd let Mildred have it.
 
 314
 00:20:19,093 --> 00:20:21,505
@@ -1503,8 +1418,7 @@ I'm sorry, Gregory.
 
 330
 00:21:06,974 --> 00:21:09,010
-Now, I want you to think
-very carefully
+Now, I want you to think very carefully
 
 331
 00:21:09,101 --> 00:21:10,591
@@ -1559,8 +1473,7 @@ possibly feel cheerful.
 
 343
 00:21:36,253 --> 00:21:38,118
-Which is one fault
-that I do not have.
+Which is one fault that I do not have.
 
 344
 00:21:38,214 --> 00:21:39,624
@@ -1576,18 +1489,15 @@ You are not a kleptomaniac.
 
 347
 00:21:42,009 --> 00:21:43,749
-A kleptomaniac steals
-out of compulsion,
+A kleptomaniac steals out of compulsion,
 
 348
 00:21:43,844 --> 00:21:46,176
-but you steal
-because you enjoy it.
+but you steal because you enjoy it.
 
 349
 00:21:54,522 --> 00:21:57,104
-You're angry with me.
-You bet I am.
+You're angry with me. You bet I am.
 
 350
 00:21:57,191 --> 00:21:58,831
@@ -1621,8 +1531,7 @@ Mr. Elcott is calling Mrs. Elcott.
 
 357
 00:22:17,962 --> 00:22:20,419
-Oh, I wonder
-what could be so urgent.
+Oh, I wonder what could be so urgent.
 
 358
 00:22:20,506 --> 00:22:24,124
@@ -1675,8 +1584,7 @@ Oh, thank you, darling.
 
 370
 00:22:44,989 --> 00:22:47,571
-Yes, yes, yes,
-I promise I won't be late.
+Yes, yes, yes, I promise I won't be late.
 
 371
 00:22:47,658 --> 00:22:48,818
@@ -1693,8 +1601,7 @@ see them with the police.
 
 374
 00:22:52,913 --> 00:22:55,074
-I'm on film.
-Isn't that exciting?
+I'm on film. Isn't that exciting?
 
 375
 00:22:55,165 --> 00:22:57,451
@@ -1722,8 +1629,7 @@ When do I see you again?
 
 380
 00:23:14,768 --> 00:23:16,633
-With good behavior,
-in about 20 years.
+With good behavior, in about 20 years.
 
 381
 00:23:16,729 --> 00:23:18,845
@@ -1808,8 +1714,7 @@ for your sallow complexion.
 
 399
 00:25:03,752 --> 00:25:08,337
-And yellow?
-On a woman of your years?
+And yellow? On a woman of your years?
 
 400
 00:25:08,424 --> 00:25:10,460
@@ -1818,8 +1723,7 @@ to pay for this, lady?
 
 401
 00:25:10,551 --> 00:25:13,634
-Well, uh, uh, $20.
-That seems fair.
+Well, uh, uh, $20. That seems fair.
 
 402
 00:25:13,721 --> 00:25:16,963
@@ -1869,8 +1773,7 @@ It couldn't be.
 
 413
 00:25:55,345 --> 00:25:57,085
-But it couldn't be
-anything else.
+But it couldn't be anything else.
 
 414
 00:25:57,181 --> 00:26:00,844
@@ -1895,8 +1798,7 @@ Your rich angel.
 
 419
 00:26:13,947 --> 00:26:18,532
-In the shop,
-we'll get $500 for this.
+In the shop, we'll get $500 for this.
 
 420
 00:26:18,619 --> 00:26:20,655
@@ -1908,8 +1810,7 @@ Please help the poor.
 
 422
 00:26:35,010 --> 00:26:37,547
-Please, friends,
-open your hearts.
+Please, friends, open your hearts.
 
 423
 00:26:41,100 --> 00:26:43,307
@@ -1917,8 +1818,7 @@ The lord loves a cheerful giver.
 
 424
 00:26:49,525 --> 00:26:51,982
-Please, friends,
-open your hearts.
+Please, friends, open your hearts.
 
 425
 00:26:52,444 --> 00:26:53,980
@@ -1952,8 +1852,7 @@ Thank you. Thank you.
 
 432
 00:27:36,989 --> 00:27:39,321
-Hey, wait a minute,
-I forgot my...
+Hey, wait a minute, I forgot my...
 
 433
 00:27:39,408 --> 00:27:40,944
@@ -1965,8 +1864,7 @@ Cracker Jack?
 
 435
 00:28:05,642 --> 00:28:07,257
-We're coming up
-on our first good look
+We're coming up on our first good look
 
 436
 00:28:07,352 --> 00:28:09,183
@@ -2037,13 +1935,11 @@ I left them in the taxi.
 
 451
 00:28:58,570 --> 00:29:00,106
-Last week,
-it was in the elevator.
+Last week, it was in the elevator.
 
 452
 00:29:00,197 --> 00:29:02,062
-I could send out
-an all-points bulletin.
+I could send out an all-points bulletin.
 
 453
 00:29:02,157 --> 00:29:03,760
@@ -2052,8 +1948,7 @@ with my wife's shoes
 
 454
 00:29:03,784 --> 00:29:05,220
-than you're having
-with my bank robbery.
+than you're having with my bank robbery.
 
 455
 00:29:05,244 --> 00:29:07,986
@@ -2138,8 +2033,7 @@ Yeah, when viewed from behind,
 
 475
 00:30:24,364 --> 00:30:26,650
-she has
-a very attractive wiggle.
+she has a very attractive wiggle.
 
 476
 00:30:26,742 --> 00:30:29,654
@@ -2156,8 +2050,7 @@ No. What a shame.
 
 479
 00:30:34,416 --> 00:30:37,032
-Everyone else's face
-was so clear.
+Everyone else's face was so clear.
 
 480
 00:30:37,127 --> 00:30:38,663
@@ -2165,8 +2058,7 @@ You were very good, James.
 
 481
 00:30:38,754 --> 00:30:40,995
-And miss Serena
-was just fabulous.
+And miss Serena was just fabulous.
 
 482
 00:30:41,089 --> 00:30:44,172
@@ -2210,8 +2102,7 @@ Good work, officer.
 
 491
 00:31:10,202 --> 00:31:12,693
-We set up a roadblock
-in Times Square.
+We set up a roadblock in Times Square.
 
 492
 00:31:17,542 --> 00:31:20,124
@@ -2219,8 +2110,7 @@ Lieutenant, how dear of you.
 
 493
 00:31:20,212 --> 00:31:23,579
-Oh, James,
-wasn't that sweet of him?
+Oh, James, wasn't that sweet of him?
 
 494
 00:31:23,673 --> 00:31:24,913
@@ -2244,8 +2134,7 @@ I'm very busy.
 
 499
 00:31:34,851 --> 00:31:36,162
-Well, that's a fine way
-for a lieutenant
+Well, that's a fine way for a lieutenant
 
 500
 00:31:36,186 --> 00:31:37,471
@@ -2321,8 +2210,7 @@ Anything else? Yes.
 
 517
 00:32:27,154 --> 00:32:30,942
-She spoke
-with a French accent and...
+She spoke with a French accent and...
 
 518
 00:32:32,325 --> 00:32:34,361
@@ -2338,13 +2226,11 @@ Thank you.
 
 521
 00:32:40,584 --> 00:32:42,324
-Can you remember
-anything she said?
+Can you remember anything she said?
 
 522
 00:32:42,419 --> 00:32:44,785
-Yes, I believe
-her exact words were
+Yes, I believe her exact words were
 
 523
 00:32:44,880 --> 00:32:49,089
@@ -2365,13 +2251,11 @@ Cheerful? Cheerful.
 
 527
 00:32:55,891 --> 00:32:58,678
-Yes, yes, that's the exact word.
-Cheerful.
+Yes, yes, that's the exact word. Cheerful.
 
 528
 00:32:58,768 --> 00:33:00,884
-Yeah, she seemed
-such a sweet person.
+Yeah, she seemed such a sweet person.
 
 529
 00:33:03,607 --> 00:33:05,393
@@ -2383,8 +2267,7 @@ Well, not for you, major.
 
 531
 00:33:07,694 --> 00:33:09,150
-This bill was stolen
-this afternoon
+This bill was stolen this afternoon
 
 532
 00:33:09,237 --> 00:33:11,102
@@ -2408,13 +2291,11 @@ Major, wait!
 
 537
 00:33:25,086 --> 00:33:27,828
-Lieutenant Bixbee,
-this is unfair.
+Lieutenant Bixbee, this is unfair.
 
 538
 00:33:27,923 --> 00:33:29,834
-It doesn't have to be fair.
-It's the law.
+It doesn't have to be fair. It's the law.
 
 539
 00:33:29,925 --> 00:33:32,837
@@ -2448,8 +2329,7 @@ I'm afraid not.
 
 546
 00:33:46,942 --> 00:33:50,309
-Well, then, James,
-you do something.
+Well, then, James, you do something.
 
 547
 00:33:50,403 --> 00:33:52,109
@@ -2466,8 +2346,7 @@ Write major Higgins a check.
 
 550
 00:33:57,911 --> 00:34:00,698
-That's what
-you're taking from him.
+That's what you're taking from him.
 
 551
 00:34:00,789 --> 00:34:02,871
@@ -2476,8 +2355,7 @@ you're taking from him.
 
 552
 00:34:02,958 --> 00:34:05,370
-And besides,
-you'll be breaking even.
+And besides, you'll be breaking even.
 
 553
 00:34:05,460 --> 00:34:07,872
@@ -2491,13 +2369,11 @@ gave you back your $1000.
 
 555
 00:34:11,299 --> 00:34:14,336
-You give him back his $1000.
-Simple.
+You give him back his $1000. Simple.
 
 556
 00:34:16,054 --> 00:34:19,091
-Am I hearing right?
-I can't believe this.
+Am I hearing right? I can't believe this.
 
 557
 00:34:19,182 --> 00:34:20,888
@@ -2505,8 +2381,7 @@ James!
 
 558
 00:34:20,976 --> 00:34:23,638
-If you don't give
-major Higgins a check,
+If you don't give major Higgins a check,
 
 559
 00:34:23,728 --> 00:34:25,218
@@ -2564,8 +2439,7 @@ that he broke even on the deal.
 
 572
 00:35:22,078 --> 00:35:23,943
-Maybe he was just
-being stubborn.
+Maybe he was just being stubborn.
 
 573
 00:35:24,039 --> 00:35:26,746
@@ -2573,8 +2447,7 @@ No, he's just confused.
 
 574
 00:35:26,833 --> 00:35:29,245
-For a banker,
-I think that's pretty strange.
+For a banker, I think that's pretty strange.
 
 575
 00:35:36,760 --> 00:35:38,967
@@ -2582,13 +2455,11 @@ Is all this milk good for you?
 
 576
 00:35:40,764 --> 00:35:42,755
-It's not for me,
-it's for my ulcer.
+It's not for me, it's for my ulcer.
 
 577
 00:35:44,184 --> 00:35:46,516
-You know,
-lieutenant Bixbee was so nice
+You know, lieutenant Bixbee was so nice
 
 578
 00:35:46,603 --> 00:35:48,514
@@ -2616,13 +2487,11 @@ Penelope.
 
 584
 00:36:04,245 --> 00:36:06,406
-Penelope, did you,
-did you ever think
+Penelope, did you, did you ever think
 
 585
 00:36:06,498 --> 00:36:08,238
-of going
-to another psychiatrist?
+of going to another psychiatrist?
 
 586
 00:36:09,209 --> 00:36:11,791
@@ -2669,13 +2538,11 @@ Why are you writing left-handed?
 
 596
 00:36:37,278 --> 00:36:39,564
-I'm being an accessory
-after the fact.
+I'm being an accessory after the fact.
 
 597
 00:36:44,452 --> 00:36:46,363
-Would you mind
-licking this for me?
+Would you mind licking this for me?
 
 598
 00:36:47,831 --> 00:36:49,162
@@ -2711,8 +2578,7 @@ a couple of months.
 
 605
 00:37:09,853 --> 00:37:11,844
-It was my first real job
-in New York.
+It was my first real job in New York.
 
 606
 00:37:13,481 --> 00:37:18,896
@@ -2732,18 +2598,15 @@ in New York.
 
 610
 00:37:34,878 --> 00:37:40,089
-<i>♪ you can make me
-touch the sky ♪</i>
+<i>♪ you can make me touch the sky ♪</i>
 
 611
 00:37:40,175 --> 00:37:45,511
-<i>♪ give me wings
-and help me fly ♪</i>
+<i>♪ give me wings and help me fly ♪</i>
 
 612
 00:37:45,597 --> 00:37:49,089
-<i>♪ but without you
-night and day ♪</i>
+<i>♪ but without you night and day ♪</i>
 
 613
 00:37:49,184 --> 00:37:53,803
@@ -2759,23 +2622,19 @@ night and day ♪</i>
 
 616
 00:38:02,697 --> 00:38:09,193
-<i>♪ scatter stars
-throughout the sky ♪</i>
+<i>♪ scatter stars throughout the sky ♪</i>
 
 617
 00:38:09,287 --> 00:38:14,247
-<i>♪ all of the good things
-within me ♪</i>
+<i>♪ all of the good things within me ♪</i>
 
 618
 00:38:14,334 --> 00:38:19,829
-<i>♪ must first be seen
-through your eye ♪</i>
+<i>♪ must first be seen through your eye ♪</i>
 
 619
 00:38:23,092 --> 00:38:27,756
-<i>♪ there is only
-one thing wrong ♪</i>
+<i>♪ there is only one thing wrong ♪</i>
 
 620
 00:38:28,932 --> 00:38:33,596
@@ -2805,8 +2664,7 @@ you won't have to scrunch over.
 
 626
 00:39:43,631 --> 00:39:46,748
-I'd offer you a drink,
-but it's only water.
+I'd offer you a drink, but it's only water.
 
 627
 00:39:46,843 --> 00:39:48,799
@@ -2815,8 +2673,7 @@ while I take out my eyes?
 
 628
 00:39:55,018 --> 00:39:59,762
-I'm James Elcott,
-city federal bank.
+I'm James Elcott, city federal bank.
 
 629
 00:39:59,856 --> 00:40:02,063
@@ -2824,8 +2681,7 @@ Hm, contacts.
 
 630
 00:40:02,150 --> 00:40:03,731
-Oh, now I can see you
-much better.
+Oh, now I can see you much better.
 
 631
 00:40:08,448 --> 00:40:10,359
@@ -2849,13 +2705,11 @@ in the last two months.
 
 635
 00:40:19,834 --> 00:40:22,450
-Oh, you really love folk songs,
-do you?
+Oh, you really love folk songs, do you?
 
 636
 00:40:22,545 --> 00:40:25,207
-Not exactly.
-No, this is business.
+Not exactly. No, this is business.
 
 637
 00:40:25,298 --> 00:40:28,540
@@ -2864,8 +2718,7 @@ trusteeship of a modest estate
 
 638
 00:40:28,635 --> 00:40:30,250
-left to you
-by your mother's cousin.
+left to you by your mother's cousin.
 
 639
 00:40:30,345 --> 00:40:32,506
@@ -2914,13 +2767,11 @@ in a drawer someplace
 
 649
 00:40:52,075 --> 00:40:55,693
-and then I always forget it
-or it gets lost.
+and then I always forget it or it gets lost.
 
 650
 00:40:56,287 --> 00:40:58,323
-Don't you lose
-a lot of friends that way?
+Don't you lose a lot of friends that way?
 
 651
 00:40:58,414 --> 00:41:00,996
@@ -2946,13 +2797,11 @@ and answer to my second.
 
 656
 00:41:09,342 --> 00:41:10,569
-And then I have to write you
-a third
+And then I have to write you a third
 
 657
 00:41:10,593 --> 00:41:11,924
-and you have to send me
-a fourth.
+and you have to send me a fourth.
 
 658
 00:41:12,011 --> 00:41:14,365
@@ -2961,8 +2810,7 @@ writing letters to each other
 
 659
 00:41:14,389 --> 00:41:16,175
-we haven't got time
-to be friends.
+we haven't got time to be friends.
 
 660
 00:41:18,393 --> 00:41:20,054
@@ -2984,8 +2832,7 @@ Would that help?
 
 664
 00:41:28,403 --> 00:41:30,644
-Well, we ought
-to discuss them, yes.
+Well, we ought to discuss them, yes.
 
 665
 00:41:32,323 --> 00:41:34,063
@@ -3002,8 +2849,7 @@ I'm always losing them.
 
 668
 00:41:38,371 --> 00:41:39,736
-Oh, oh,
-don't get your pants dirty.
+Oh, oh, don't get your pants dirty.
 
 669
 00:41:39,831 --> 00:41:41,742
@@ -3011,8 +2857,7 @@ Oh, that's alright.
 
 670
 00:41:41,833 --> 00:41:44,495
-Do you, um, do you think
-we could, uh,
+Do you, um, do you think we could, uh,
 
 671
 00:41:44,585 --> 00:41:46,746
@@ -3024,8 +2869,7 @@ Oh, sure, how about dinner?
 
 673
 00:41:48,840 --> 00:41:50,751
-I-I'm gonna have
-some friends in.
+I-I'm gonna have some friends in.
 
 674
 00:41:50,842 --> 00:41:53,754
@@ -3033,8 +2877,7 @@ Uh, that's wonderful.
 
 675
 00:41:53,845 --> 00:41:56,632
-Oh, these contacts,
-they're so tiny.
+Oh, these contacts, they're so tiny.
 
 676
 00:41:56,723 --> 00:41:58,259
@@ -3055,8 +2898,7 @@ Oh, much better.
 
 680
 00:42:03,479 --> 00:42:04,969
-I think this optometrist
-I was dating
+I think this optometrist I was dating
 
 681
 00:42:05,064 --> 00:42:06,770
@@ -3077,8 +2919,7 @@ my eyes look luminous.
 
 685
 00:42:16,159 --> 00:42:18,070
-I think
-they're luminous already.
+I think they're luminous already.
 
 686
 00:42:19,871 --> 00:42:21,236
@@ -3099,8 +2940,7 @@ So am I.
 
 690
 00:42:35,887 --> 00:42:37,843
-I'm looking forward
-to tomorrow night.
+I'm looking forward to tomorrow night.
 
 691
 00:42:38,431 --> 00:42:39,762
@@ -3108,8 +2948,7 @@ So am I.
 
 692
 00:42:46,731 --> 00:42:48,892
-And now I'd like
-to get up, please.
+And now I'd like to get up, please.
 
 693
 00:42:48,983 --> 00:42:50,018
@@ -3183,8 +3022,7 @@ Got it.
 
 710
 00:44:11,983 --> 00:44:14,269
-I hope I'm not overdressed
-for the village.
+I hope I'm not overdressed for the village.
 
 711
 00:44:14,360 --> 00:44:15,725
@@ -3200,8 +3038,7 @@ Everybody, meet James Elcott.
 
 714
 00:44:33,212 --> 00:44:35,578
-You're dressed funny
-for a banker.
+You're dressed funny for a banker.
 
 715
 00:44:35,673 --> 00:44:38,460
@@ -3293,8 +3130,7 @@ of "Greensleeves?"
 
 735
 00:45:18,799 --> 00:45:20,209
-Just a minute, boom boom.
-He's mine.
+Just a minute, boom boom. He's mine.
 
 736
 00:45:20,301 --> 00:45:22,212
@@ -3311,8 +3147,7 @@ I bet you fit in any place.
 
 739
 00:45:35,149 --> 00:45:36,980
-Did that come
-with the lease too?
+Did that come with the lease too?
 
 740
 00:45:37,068 --> 00:45:40,185
@@ -3320,8 +3155,7 @@ No. I used to date this welder.
 
 741
 00:45:40,279 --> 00:45:42,486
-He must have been
-an awful driver.
+He must have been an awful driver.
 
 742
 00:45:42,573 --> 00:45:46,282
@@ -3330,8 +3164,7 @@ who owns a junkyard.
 
 743
 00:45:46,369 --> 00:45:48,030
-You got a lot of boyfriends,
-haven't you?
+You got a lot of boyfriends, haven't you?
 
 744
 00:45:48,120 --> 00:45:50,281
@@ -3343,8 +3176,7 @@ Why all this shopping around?
 
 746
 00:45:51,707 --> 00:45:53,447
-Well, if you don't try
-everything
+Well, if you don't try everything
 
 747
 00:45:53,542 --> 00:45:55,828
@@ -3369,18 +3201,15 @@ They're all here.
 
 752
 00:46:47,888 --> 00:46:49,924
-Three weeks later,
-we got married.
+Three weeks later, we got married.
 
 753
 00:46:50,016 --> 00:46:53,474
-All in a rush.
-Like if we didn't, we'd die.
+All in a rush. Like if we didn't, we'd die.
 
 754
 00:46:53,561 --> 00:46:55,643
-And if your husband
-was still the same
+And if your husband was still the same
 
 755
 00:46:55,730 --> 00:46:57,846
@@ -3392,8 +3221,7 @@ would you be stealing now?
 
 757
 00:46:59,900 --> 00:47:02,391
-Oh, James hasn't got time
-for romance.
+Oh, James hasn't got time for romance.
 
 758
 00:47:02,486 --> 00:47:04,522
@@ -3439,8 +3267,7 @@ You burned it?
 
 768
 00:47:24,675 --> 00:47:27,041
-No, I gave it away
-to a thrift shop.
+No, I gave it away to a thrift shop.
 
 769
 00:47:27,136 --> 00:47:28,421
@@ -3448,8 +3275,7 @@ Thrift shop?
 
 770
 00:47:28,512 --> 00:47:30,032
-Do you realize
-the chance you're taking?
+Do you realize the chance you're taking?
 
 771
 00:47:30,056 --> 00:47:31,842
@@ -3469,8 +3295,7 @@ Penny, look.
 
 775
 00:47:37,229 --> 00:47:39,185
-Are you trying
-to get caught, mm?
+Are you trying to get caught, mm?
 
 776
 00:47:39,273 --> 00:47:41,168
@@ -3550,8 +3375,7 @@ Well, they got it the same way
 
 793
 00:48:38,207 --> 00:48:40,619
-that major Higgins
-got his $1000 bill.
+that major Higgins got his $1000 bill.
 
 794
 00:48:40,709 --> 00:48:43,701
@@ -3579,8 +3403,7 @@ to pick up the phone.
 
 799
 00:48:54,348 --> 00:48:56,339
-Well, that's that.
-You've got it.
+Well, that's that. You've got it.
 
 800
 00:48:56,434 --> 00:48:58,925
@@ -3607,13 +3430,11 @@ while we pick it up?
 
 805
 00:49:07,736 --> 00:49:09,146
-Do I get to ride
-in a police car?
+Do I get to ride in a police car?
 
 806
 00:49:09,238 --> 00:49:11,900
-Yeah, with a siren
-and everything.
+Yeah, with a siren and everything.
 
 807
 00:49:19,123 --> 00:49:21,705
@@ -3631,8 +3452,7 @@ I've ever been invited to.
 
 810
 00:49:28,007 --> 00:49:29,713
-Are you gonna break down
-the door?
+Are you gonna break down the door?
 
 811
 00:49:29,800 --> 00:49:32,257
@@ -3682,8 +3502,7 @@ Oh, cherie.
 
 822
 00:50:06,212 --> 00:50:09,579
-Now that's what I call
-a vintage pastrami.
+Now that's what I call a vintage pastrami.
 
 823
 00:50:09,673 --> 00:50:11,413
@@ -3703,18 +3522,15 @@ Is nothing to throw rocks at.
 
 827
 00:50:22,978 --> 00:50:26,721
-I feel a slight heartburn
-building up.
+I feel a slight heartburn building up.
 
 828
 00:50:26,815 --> 00:50:28,851
-Quickly, my angel,
-the cream soda.
+Quickly, my angel, the cream soda.
 
 829
 00:50:44,500 --> 00:50:48,413
-Ah, good afternoon,
-lady and gentleman.
+Ah, good afternoon, lady and gentleman.
 
 830
 00:50:48,504 --> 00:50:50,836
@@ -3840,8 +3656,7 @@ That's just what I was thinking.
 
 857
 00:52:22,598 --> 00:52:24,964
-So was I.
-It's absolutely divine.
+So was I. It's absolutely divine.
 
 858
 00:52:25,059 --> 00:52:26,765
@@ -3867,8 +3682,7 @@ keeps this creation for herself.
 
 863
 00:52:39,990 --> 00:52:42,402
-Sadaba cannot bear
-to part with it.
+Sadaba cannot bear to part with it.
 
 864
 00:52:52,336 --> 00:52:53,336
@@ -3890,8 +3704,7 @@ you got a lot of guts.
 
 868
 00:53:03,180 --> 00:53:05,637
-Is that the way
-to talk to royalty?
+Is that the way to talk to royalty?
 
 869
 00:53:05,724 --> 00:53:09,967
@@ -3913,18 +3726,15 @@ The lady is not my wife.
 
 873
 00:53:23,033 --> 00:53:26,742
-Sadaba will never
-breathe a word.
+Sadaba will never breathe a word.
 
 874
 00:53:26,829 --> 00:53:29,195
-Sadaba can breathe
-all she wants.
+Sadaba can breathe all she wants.
 
 875
 00:53:29,289 --> 00:53:33,032
-I'm lieutenant Bixbee,
-New York police.
+I'm lieutenant Bixbee, New York police.
 
 876
 00:53:39,675 --> 00:53:41,040
@@ -3936,13 +3746,11 @@ The cops.
 
 878
 00:53:49,977 --> 00:53:52,514
-Uh, we didn't do
-nothing illegal.
+Uh, we didn't do nothing illegal.
 
 879
 00:53:52,604 --> 00:53:54,435
-There's no law
-against overcharge.
+There's no law against overcharge.
 
 880
 00:53:54,523 --> 00:53:55,854
@@ -3950,13 +3758,11 @@ Just relax, your majesty.
 
 881
 00:53:55,941 --> 00:53:58,227
-Nobody is accusing anybody
-of anything.
+Nobody is accusing anybody of anything.
 
 882
 00:53:58,318 --> 00:54:00,604
-The suit is evidence
-in a bank robbery.
+The suit is evidence in a bank robbery.
 
 883
 00:54:00,696 --> 00:54:02,152
@@ -3977,8 +3783,7 @@ It'll look lovely on you.
 
 887
 00:54:10,080 --> 00:54:12,412
-No, Mrs. Elcott,
-we're taking it.
+No, Mrs. Elcott, we're taking it.
 
 888
 00:54:12,499 --> 00:54:15,036
@@ -3995,8 +3800,7 @@ Seven bucks down the drain.
 
 891
 00:54:19,798 --> 00:54:22,255
-Relax.
-Compliments of Merrill lynch.
+Relax. Compliments of Merrill lynch.
 
 892
 00:54:22,342 --> 00:54:25,425
@@ -4070,12 +3874,12 @@ mentioning a Givenchy suit.
 
 908
 00:55:18,190 --> 00:55:20,806
-At least not while
-you were there.
+At least not while you were there.
 
 909
 00:55:20,901 --> 00:55:22,687
-She didn't? -No!
+She didn't?
+-No!
 
 910
 00:55:24,279 --> 00:55:26,144
@@ -4087,8 +3891,7 @@ Oh, she did say Paris.
 
 912
 00:55:28,033 --> 00:55:29,819
-I must have put
-two and two together.
+I must have put two and two together.
 
 913
 00:55:30,828 --> 00:55:32,443
@@ -4114,13 +3917,11 @@ much time in a joint like this.
 
 918
 00:55:55,811 --> 00:55:56,996
-You know,
-I think this is probably
+You know, I think this is probably
 
 919
 00:55:57,020 --> 00:55:59,432
-my most favorite place
-in New York.
+my most favorite place in New York.
 
 920
 00:56:00,649 --> 00:56:02,810
@@ -4164,8 +3965,7 @@ I just chew the gum.
 
 929
 00:56:35,893 --> 00:56:38,600
-You know, it's a funny thing
-about crime.
+You know, it's a funny thing about crime.
 
 930
 00:56:38,687 --> 00:56:39,847
@@ -4173,13 +3973,11 @@ But it's the innocent suspect
 
 931
 00:56:39,897 --> 00:56:41,808
-that usually looks
-the most guilty.
+that usually looks the most guilty.
 
 932
 00:56:41,899 --> 00:56:43,293
-That's because
-he's got nothing to hide.
+That's because he's got nothing to hide.
 
 933
 00:56:43,317 --> 00:56:45,228
@@ -4220,8 +4018,7 @@ did you have?
 
 941
 00:57:03,962 --> 00:57:05,668
-The kind with braces
-on your teeth.
+The kind with braces on your teeth.
 
 942
 00:57:05,756 --> 00:57:08,748
@@ -4267,7 +4064,8 @@ doesn't have a chance.
 
 951
 00:57:36,954 --> 00:57:39,286
-Mm. -overconfident.
+Mm.
+-overconfident.
 
 952
 00:57:40,457 --> 00:57:41,935
@@ -4280,8 +4078,7 @@ a kid had three chances.
 
 954
 00:57:43,961 --> 00:57:45,313
-He could be a hood,
-he could be a cop,
+He could be a hood, he could be a cop,
 
 955
 00:57:45,337 --> 00:57:47,328
@@ -4316,8 +4113,7 @@ When we ran the film
 
 962
 00:58:03,981 --> 00:58:06,347
-you knew the teller's name
-just like that.
+you knew the teller's name just like that.
 
 963
 00:58:06,441 --> 00:58:07,897
@@ -4325,8 +4121,7 @@ Well, of course I knew her name.
 
 964
 00:58:07,985 --> 00:58:10,067
-It was on a plaque
-on the counter.
+It was on a plaque on the counter.
 
 965
 00:58:10,153 --> 00:58:11,393
@@ -4334,8 +4129,7 @@ Didn't you see it?
 
 966
 00:58:11,488 --> 00:58:13,149
-Well, I guess
-I'm not as good at my job
+Well, I guess I'm not as good at my job
 
 967
 00:58:13,240 --> 00:58:15,151
@@ -4399,8 +4193,7 @@ Don't you see it?
 
 981
 00:58:54,781 --> 00:58:57,113
-You feel left
-out of your husband's life
+You feel left out of your husband's life
 
 982
 00:58:57,200 --> 00:59:00,533
@@ -4431,8 +4224,7 @@ pretty much up in the air.
 
 988
 00:59:12,466 --> 00:59:14,673
-So I next tried hobbies
-for James.
+So I next tried hobbies for James.
 
 989
 00:59:15,510 --> 00:59:19,344
@@ -4448,8 +4240,7 @@ Good boy.
 
 992
 00:59:23,268 --> 00:59:25,554
-Well, at least
-he patted me first.
+Well, at least he patted me first.
 
 993
 00:59:26,313 --> 00:59:27,974
@@ -4470,13 +4261,11 @@ Burglary.
 
 997
 00:59:35,655 --> 00:59:38,021
-Not burglary.
-That's forcible entry.
+Not burglary. That's forcible entry.
 
 998
 00:59:38,116 --> 00:59:40,027
-All you committed
-was simple larceny.
+All you committed was simple larceny.
 
 999
 00:59:40,118 --> 00:59:42,985
@@ -4494,8 +4283,7 @@ did you burglarize?
 
 1002
 00:59:48,752 --> 00:59:50,208
-And whom did you choose
-to burgle?
+And whom did you choose to burgle?
 
 1003
 00:59:50,295 --> 00:59:53,162
@@ -4520,8 +4308,7 @@ Yes.
 
 1008
 01:00:00,806 --> 01:00:04,594
-For some reason,
-I just hated them.
+For some reason, I just hated them.
 
 1009
 01:00:04,684 --> 01:00:05,964
@@ -4538,13 +4325,11 @@ from the world of finance.
 
 1012
 01:00:09,898 --> 01:00:11,854
-brought selling pressure
-into the market.
+brought selling pressure into the market.
 
 1013
 01:00:11,942 --> 01:00:13,382
-And though
-he did reiterate that...
+And though he did reiterate that...
 
 1014
 01:00:13,443 --> 01:00:15,479
@@ -4552,8 +4337,7 @@ Oh, let's go for a little swim.
 
 1015
 01:00:15,570 --> 01:00:17,811
-Eh, well... don't you think
-it's late, isn't it?
+Eh, well... don't you think it's late, isn't it?
 
 1016
 01:00:17,906 --> 01:00:19,442
@@ -4561,13 +4345,11 @@ Oh, come on.
 
 1017
 01:00:19,533 --> 01:00:21,819
-At Newport,
-it was Johanna Keller,
+At Newport, it was Johanna Keller,
 
 1018
 01:00:21,910 --> 01:00:23,491
-one of the bank's
-biggest depositors.
+one of the bank's biggest depositors.
 
 1019
 01:00:23,578 --> 01:00:25,239
@@ -4590,8 +4372,7 @@ like the night at the block,
 
 1023
 01:00:58,822 --> 01:01:00,528
-sooner or later,
-James' banking friends
+sooner or later, James' banking friends
 
 1024
 01:01:00,615 --> 01:01:02,822
@@ -4634,8 +4415,7 @@ Couldn't you just die?
 
 1033
 01:01:22,971 --> 01:01:25,553
-When the music stops,
-we all fall down.
+When the music stops, we all fall down.
 
 1034
 01:01:43,992 --> 01:01:45,983
@@ -4696,8 +4476,7 @@ to this whole thing.
 
 1047
 01:02:22,113 --> 01:02:24,274
-Well, the way
-my marriage was headed
+Well, the way my marriage was headed
 
 1048
 01:02:24,366 --> 01:02:25,856
@@ -4705,8 +4484,7 @@ and the state of nerves I was in,
 
 1049
 01:02:25,951 --> 01:02:27,657
-if it hadn't been
-for kleptomania
+if it hadn't been for kleptomania
 
 1050
 01:02:27,744 --> 01:02:29,655
@@ -4714,8 +4492,7 @@ I might have gone a little kook.
 
 1051
 01:02:32,666 --> 01:02:34,873
-Penny, do you have any idea
-how difficult
+Penny, do you have any idea how difficult
 
 1052
 01:02:34,960 --> 01:02:36,496
@@ -4723,8 +4500,7 @@ it is being your analyst?
 
 1053
 01:02:36,586 --> 01:02:38,372
-Oh, Gregory,
-you should have known me
+Oh, Gregory, you should have known me
 
 1054
 01:02:38,463 --> 01:02:39,999
@@ -4736,13 +4512,11 @@ I was vague, frivolous.
 
 1056
 01:02:42,425 --> 01:02:44,381
-You might even say
-a bit of a ding.
+You might even say a bit of a ding.
 
 1057
 01:02:44,469 --> 01:02:46,960
-Thank heaven,
-I've settled down. Bye.
+Thank heaven, I've settled down. Bye.
 
 1058
 01:02:55,188 --> 01:02:56,598
@@ -4765,13 +4539,11 @@ I'm off to the park Lane galleries.
 
 1062
 01:03:04,531 --> 01:03:06,613
-There's a Rembrandt there
-that's a steal.
+There's a Rembrandt there that's a steal.
 
 1063
 01:03:10,120 --> 01:03:13,032
-A Rembrandt.
-Penny, you wouldn't.
+A Rembrandt. Penny, you wouldn't.
 
 1064
 01:03:15,166 --> 01:03:17,157
@@ -4795,8 +4567,7 @@ What? Police.
 
 1069
 01:03:58,084 --> 01:04:00,700
-They may have followed me.
-Police?
+They may have followed me. Police?
 
 1070
 01:04:00,795 --> 01:04:03,832
@@ -4804,13 +4575,11 @@ Gregory, what have you done?
 
 1071
 01:04:03,923 --> 01:04:05,788
-Nothing.
-I haven't done anything.
+Nothing. I haven't done anything.
 
 1072
 01:04:06,885 --> 01:04:07,987
-Well,
-if you haven't done anything
+Well, if you haven't done anything
 
 1073
 01:04:08,011 --> 01:04:09,071
@@ -4845,8 +4614,7 @@ Oh, that money.
 
 1080
 01:04:25,028 --> 01:04:28,737
-Well, frankly,
-that's had me very worried.
+Well, frankly, that's had me very worried.
 
 1081
 01:04:28,823 --> 01:04:31,360
@@ -4855,8 +4623,7 @@ lying around any place.
 
 1082
 01:04:31,451 --> 01:04:34,284
-You know,
-that could be very dodgy.
+You know, that could be very dodgy.
 
 1083
 01:04:34,371 --> 01:04:36,282
@@ -4864,8 +4631,7 @@ I carry it with... oh!
 
 1084
 01:04:46,841 --> 01:04:48,377
-Your lieutenant Bixbee,
-he knows.
+Your lieutenant Bixbee, he knows.
 
 1085
 01:04:48,468 --> 01:04:49,583
@@ -4873,8 +4639,7 @@ He just came to see me.
 
 1086
 01:04:49,677 --> 01:04:52,293
-I thought he acted
-strangely yesterday.
+I thought he acted strangely yesterday.
 
 1087
 01:04:52,389 --> 01:04:53,925
@@ -4904,8 +4669,7 @@ Now. How?
 
 1093
 01:05:09,656 --> 01:05:11,271
-I can't just walk in
-and hand it over.
+I can't just walk in and hand it over.
 
 1094
 01:05:11,366 --> 01:05:12,776
@@ -4961,8 +4725,7 @@ Gregory, you're very sweet.
 
 1106
 01:05:51,906 --> 01:05:53,942
-But why do you insist
-on doing this?
+But why do you insist on doing this?
 
 1107
 01:05:54,033 --> 01:05:55,819
@@ -5000,8 +4763,7 @@ and try to act very natural.
 
 1114
 01:06:27,692 --> 01:06:28,919
-That bell
-ought to bring somebody.
+That bell ought to bring somebody.
 
 1115
 01:06:28,943 --> 01:06:31,855
@@ -5046,8 +4808,7 @@ opening the gate, please?
 
 1124
 01:06:51,174 --> 01:06:53,335
-You in there,
-what are you up to?
+You in there, what are you up to?
 
 1125
 01:06:53,426 --> 01:06:54,962
@@ -5072,13 +4833,11 @@ Oh, right behind that cabinet.
 
 1130
 01:07:04,812 --> 01:07:05,956
-No, we weren't.
-We weren't hiding.
+No, we weren't. We weren't hiding.
 
 1131
 01:07:05,980 --> 01:07:07,345
-We were standing.
-We were standing.
+We were standing. We were standing.
 
 1132
 01:07:07,440 --> 01:07:09,726
@@ -5090,13 +4849,11 @@ Well, that's just the trouble.
 
 1134
 01:07:11,319 --> 01:07:13,901
-If you were open,
-we could leave.
+If you were open, we could leave.
 
 1135
 01:07:13,988 --> 01:07:16,149
-And don't you dare try
-to search us
+And don't you dare try to search us
 
 1136
 01:07:16,241 --> 01:07:17,526
@@ -5112,8 +4869,7 @@ You didn't mean that.
 
 1139
 01:07:23,540 --> 01:07:26,282
-What are you, lady?
-Some kind of a nut?
+What are you, lady? Some kind of a nut?
 
 1140
 01:07:26,376 --> 01:07:28,492
@@ -5121,8 +4877,7 @@ I don't care for your attitude.
 
 1141
 01:07:28,586 --> 01:07:29,980
-And for your information,
-you have seen
+And for your information, you have seen
 
 1142
 01:07:30,004 --> 01:07:32,416
@@ -5150,8 +4905,7 @@ What? You sure?
 
 1148
 01:08:49,584 --> 01:08:51,540
-Yeah, I-I find that hard
-to believe.
+Yeah, I-I find that hard to believe.
 
 1149
 01:08:53,796 --> 01:08:55,502
@@ -5206,13 +4960,11 @@ concerned with money matters?
 
 1161
 01:09:26,788 --> 01:09:29,029
-I'm just showing
-a little wifely interest.
+I'm just showing a little wifely interest.
 
 1162
 01:09:34,796 --> 01:09:37,913
-Well, that's funny.
-The financial section?
+Well, that's funny. The financial section?
 
 1163
 01:09:39,092 --> 01:09:40,798
@@ -5225,13 +4977,11 @@ No, I was just hoping...
 
 1165
 01:09:42,303 --> 01:09:43,759
-I just thought maybe
-there might be
+I just thought maybe there might be
 
 1166
 01:09:43,846 --> 01:09:45,115
-some good news
-about the robbery.
+some good news about the robbery.
 
 1167
 01:09:45,139 --> 01:09:47,004
@@ -5245,8 +4995,7 @@ You could get the money back.
 
 1169
 01:09:50,645 --> 01:09:52,306
-That wouldn't be
-in the financial section.
+That wouldn't be in the financial section.
 
 1170
 01:09:52,397 --> 01:09:54,888
@@ -5255,8 +5004,7 @@ under miracles.
 
 1171
 01:09:54,982 --> 01:09:57,564
-Well, you already got
-that $1000 back.
+Well, you already got that $1000 back.
 
 1172
 01:09:57,652 --> 01:09:59,296
@@ -5278,8 +5026,7 @@ Now I do, I do, I do.
 
 1176
 01:10:05,993 --> 01:10:07,304
-Now, please,
-don't explain it again.
+Now, please, don't explain it again.
 
 1177
 01:10:07,328 --> 01:10:09,865
@@ -5297,8 +5044,7 @@ you're just being stubborn.
 
 1180
 01:10:20,466 --> 01:10:23,048
-Oh, Dr. Mannix says that,
-does he?
+Oh, Dr. Mannix says that, does he?
 
 1181
 01:10:23,136 --> 01:10:24,296
@@ -5373,8 +5119,7 @@ I knew it.
 
 1198
 01:11:01,340 --> 01:11:03,046
-Seems I underestimated you,
-Bixbee.
+Seems I underestimated you, Bixbee.
 
 1199
 01:11:03,134 --> 01:11:05,112
@@ -5383,8 +5128,7 @@ to go down to headquarters.
 
 1200
 01:11:05,136 --> 01:11:08,469
-You see, we also got the girl
-who stole it.
+You see, we also got the girl who stole it.
 
 1201
 01:11:08,556 --> 01:11:10,547
@@ -5406,8 +5150,7 @@ took me by surprise too.
 
 1205
 01:11:17,231 --> 01:11:20,064
-I thought I had this case
-all figured out.
+I thought I had this case all figured out.
 
 1206
 01:11:20,151 --> 01:11:22,062
@@ -5416,8 +5159,7 @@ all figured out.
 
 1207
 01:11:22,320 --> 01:11:24,060
-Wait a minute.
-James, I'll go with you.
+Wait a minute. James, I'll go with you.
 
 1208
 01:11:24,155 --> 01:11:26,508
@@ -5452,8 +5194,7 @@ Oh, hi, doll.
 
 1215
 01:11:50,973 --> 01:11:52,884
-Well, you're new in here,
-aren't you?
+Well, you're new in here, aren't you?
 
 1216
 01:11:52,975 --> 01:11:54,787
@@ -5474,8 +5215,7 @@ You must be doing pretty good.
 
 1220
 01:12:02,985 --> 01:12:04,850
-That almost looks like
-for-real mink.
+That almost looks like for-real mink.
 
 1221
 01:12:04,946 --> 01:12:07,653
@@ -5502,8 +5242,7 @@ Oh.
 
 1226
 01:12:19,001 --> 01:12:20,787
-Well, she looks
-pretty enough to be...
+Well, she looks pretty enough to be...
 
 1227
 01:12:20,878 --> 01:12:22,243
@@ -5511,8 +5250,7 @@ What's your right name, honey?
 
 1228
 01:12:22,338 --> 01:12:24,750
-Well, I told you.
-Honeysuckle Rose.
+Well, I told you. Honeysuckle Rose.
 
 1229
 01:12:24,841 --> 01:12:26,832
@@ -5520,8 +5258,7 @@ My sister's Mexicali Rose.
 
 1230
 01:12:26,926 --> 01:12:29,793
-I know, the roses
-of Washington square.
+I know, the roses of Washington square.
 
 1231
 01:12:29,887 --> 01:12:31,468
@@ -5544,8 +5281,7 @@ be a good girl
 
 1235
 01:12:37,728 --> 01:12:39,764
-and just give us
-a full confession?
+and just give us a full confession?
 
 1236
 01:12:41,357 --> 01:12:43,769
@@ -5558,8 +5294,7 @@ up park Avenue
 
 1238
 01:12:48,030 --> 01:12:49,986
-around, uh, 3 o'clock
-this morning
+around, uh, 3 o'clock this morning
 
 1239
 01:12:50,074 --> 01:12:54,818
@@ -5568,18 +5303,15 @@ on the sidewalk... practically.
 
 1240
 01:12:54,912 --> 01:12:56,868
-Correction.
-You walked into my bank
+Correction. You walked into my bank
 
 1241
 01:12:56,956 --> 01:12:58,141
-around 3 o'clock
-in the afternoon
+around 3 o'clock in the afternoon
 
 1242
 01:12:58,165 --> 01:13:00,076
-two days ago
-and stole the money.
+two days ago and stole the money.
 
 1243
 01:13:00,167 --> 01:13:01,953
@@ -5601,8 +5333,7 @@ at 3 o'clock in the morning?
 
 1247
 01:13:09,677 --> 01:13:11,633
-I don't see
-anything wrong with that.
+I don't see anything wrong with that.
 
 1248
 01:13:11,721 --> 01:13:13,461
@@ -5623,8 +5354,7 @@ You see?
 
 1252
 01:13:20,146 --> 01:13:22,228
-Well, I'm glad
-we got that decided.
+Well, I'm glad we got that decided.
 
 1253
 01:13:22,315 --> 01:13:25,807
@@ -5638,8 +5368,7 @@ against miss Rose here
 
 1255
 01:13:29,155 --> 01:13:32,272
-is not cat-walking,
-it's bank-robbing.
+is not cat-walking, it's bank-robbing.
 
 1256
 01:13:32,366 --> 01:13:34,072
@@ -5678,8 +5407,7 @@ making it tough on yourself
 
 1264
 01:13:53,804 --> 01:13:55,795
-by sticking to this
-cockamamie story.
+by sticking to this cockamamie story.
 
 1265
 01:13:55,890 --> 01:13:58,256
@@ -5688,8 +5416,7 @@ cockamamie story I know!
 
 1266
 01:13:58,351 --> 01:13:59,786
-Alright, matron,
-get her out of here.
+Alright, matron, get her out of here.
 
 1267
 01:13:59,810 --> 01:14:02,176
@@ -5710,8 +5437,7 @@ on the sidewalk.
 
 1271
 01:14:09,362 --> 01:14:12,229
-I-it was sticking
-out of the deposit slot.
+I-it was sticking out of the deposit slot.
 
 1272
 01:14:12,323 --> 01:14:16,066
@@ -5733,13 +5459,11 @@ Wait a minute. Wait a minute.
 
 1276
 01:14:23,459 --> 01:14:25,324
-You're making
-a terrible mistake.
+You're making a terrible mistake.
 
 1277
 01:14:25,419 --> 01:14:27,080
-Honey, they know
-what they're doing.
+Honey, they know what they're doing.
 
 1278
 01:14:27,171 --> 01:14:29,503
@@ -5768,23 +5492,19 @@ in the middle of the night?
 
 1283
 01:14:41,852 --> 01:14:44,264
-The thief, that's who.
-The bank robber.
+The thief, that's who. The bank robber.
 
 1284
 01:14:44,355 --> 01:14:46,095
-For what possible reason,
-darling?
+For what possible reason, darling?
 
 1285
 01:14:46,190 --> 01:14:48,647
-Because she was trying
-to get rid of it.
+Because she was trying to get rid of it.
 
 1286
 01:14:49,986 --> 01:14:52,443
-In the same bank
-that she stole it from?
+In the same bank that she stole it from?
 
 1287
 01:14:52,530 --> 01:14:54,191
@@ -5802,13 +5522,11 @@ the money in the first place.
 
 1290
 01:15:01,288 --> 01:15:03,529
-Because she couldn't
-help herself.
+Because she couldn't help herself.
 
 1291
 01:15:03,624 --> 01:15:05,364
-Uh, we appreciate your help,
-Mrs. Elcott,
+Uh, we appreciate your help, Mrs. Elcott,
 
 1292
 01:15:05,459 --> 01:15:08,451
@@ -5848,8 +5566,7 @@ from the bank robber.
 
 1300
 01:15:23,894 --> 01:15:25,680
-From the woman
-who robbed your bank
+From the woman who robbed your bank
 
 1301
 01:15:25,771 --> 01:15:28,683
@@ -5871,8 +5588,7 @@ why it had to be your bank.
 
 1305
 01:15:36,907 --> 01:15:38,772
-But right now,
-the most important thing
+But right now, the most important thing
 
 1306
 01:15:38,868 --> 01:15:40,108
@@ -5885,8 +5601,7 @@ doesn't have to go to jail.
 
 1308
 01:15:45,583 --> 01:15:47,790
-So if you will call
-a stenographer
+So if you will call a stenographer
 
 1309
 01:15:47,877 --> 01:15:49,146
@@ -5899,8 +5614,7 @@ I'm afraid you're under a strain.
 
 1311
 01:15:51,672 --> 01:15:52,899
-Perhaps
-you better take her home.
+Perhaps you better take her home.
 
 1312
 01:15:52,923 --> 01:15:54,629
@@ -5933,8 +5647,7 @@ Uh, you know, sometimes, uh...
 
 1319
 01:16:15,237 --> 01:16:17,102
-Well, we all need help
-sometimes.
+Well, we all need help sometimes.
 
 1320
 01:16:18,365 --> 01:16:21,198
@@ -5942,8 +5655,7 @@ Well, I am not under a strain.
 
 1321
 01:16:21,285 --> 01:16:23,116
-And as far as my head,
-it has never been
+And as far as my head, it has never been
 
 1322
 01:16:23,204 --> 01:16:24,535
@@ -5969,13 +5681,11 @@ I'm sorry, miss Rose.
 
 1327
 01:16:35,216 --> 01:16:37,878
-But don't worry,
-they can't keep you long.
+But don't worry, they can't keep you long.
 
 1328
 01:16:37,968 --> 01:16:40,175
-I'll make them believe me.
-I promise you.
+I'll make them believe me. I promise you.
 
 1329
 01:16:40,262 --> 01:16:41,672
@@ -6000,8 +5710,7 @@ My poor darling.
 
 1334
 01:17:00,825 --> 01:17:03,441
-Oh, I'm so disappointed
-in you, James.
+Oh, I'm so disappointed in you, James.
 
 1335
 01:17:03,536 --> 01:17:05,276
@@ -6014,8 +5723,7 @@ A thief? A bank robber?
 
 1337
 01:17:08,082 --> 01:17:09,868
-Darling, would you
-believe that of me?
+Darling, would you believe that of me?
 
 1338
 01:17:09,959 --> 01:17:10,959
@@ -6023,13 +5731,11 @@ Of course.
 
 1339
 01:17:11,043 --> 01:17:12,749
-If you really
-and truly wanted me
+If you really and truly wanted me
 
 1340
 01:17:12,837 --> 01:17:14,748
-to believe that you were a thief,
-I would.
+to believe that you were a thief, I would.
 
 1341
 01:17:14,839 --> 01:17:17,171
@@ -6038,8 +5744,7 @@ I would.
 
 1342
 01:17:17,258 --> 01:17:18,318
-Last night at 3:00
-in the morning
+Last night at 3:00 in the morning
 
 1343
 01:17:18,342 --> 01:17:19,923
@@ -6074,8 +5779,7 @@ of helping you
 
 1350
 01:17:33,023 --> 01:17:35,685
-by humoring
-these fantasies of yours.
+by humoring these fantasies of yours.
 
 1351
 01:17:35,776 --> 01:17:38,313
@@ -6099,8 +5803,7 @@ Tell me what you want.
 
 1355
 01:17:47,037 --> 01:17:49,403
-Anything, anything you want,
-darling.
+Anything, anything you want, darling.
 
 1356
 01:17:52,877 --> 01:17:55,038
@@ -6118,8 +5821,7 @@ Name it.
 
 1359
 01:17:59,049 --> 01:18:00,710
-I'd like to give
-a nice cocktail party
+I'd like to give a nice cocktail party
 
 1360
 01:18:00,801 --> 01:18:02,291
@@ -6177,8 +5879,7 @@ Have a seat, Mrs. Elcott.
 
 1373
 01:19:01,779 --> 01:19:03,610
-Is there something
-I can do for you?
+Is there something I can do for you?
 
 1374
 01:19:03,697 --> 01:19:07,155
@@ -6191,13 +5892,11 @@ Oh, well, I'm expecting guests.
 
 1376
 01:19:09,536 --> 01:19:11,447
-Uh, if you're here
-to sell me a dress...
+Uh, if you're here to sell me a dress...
 
 1377
 01:19:11,538 --> 01:19:13,199
-Much more important
-than a dress.
+Much more important than a dress.
 
 1378
 01:19:13,290 --> 01:19:15,906
@@ -6205,13 +5904,11 @@ We come to sell you freedom.
 
 1379
 01:19:16,835 --> 01:19:19,702
-Oh! Oh, well,
-that's a wonderful cause.
+Oh! Oh, well, that's a wonderful cause.
 
 1380
 01:19:19,797 --> 01:19:21,583
-I'm always interested
-in freedom.
+I'm always interested in freedom.
 
 1381
 01:19:21,674 --> 01:19:24,131
@@ -6257,8 +5954,7 @@ Really? Are you positive?
 
 1391
 01:19:55,165 --> 01:19:57,156
-You didn't hear her
-just tell you?
+You didn't hear her just tell you?
 
 1392
 01:19:58,335 --> 01:19:59,450
@@ -6288,8 +5984,7 @@ You recognize the lady?
 
 1398
 01:20:17,896 --> 01:20:21,184
-Ducky, sweetheart,
-read the words.
+Ducky, sweetheart, read the words.
 
 1399
 01:20:21,275 --> 01:20:24,312
@@ -6348,13 +6043,11 @@ Here is my word.
 
 1412
 01:21:00,606 --> 01:21:03,643
-What does she mean,
-depend on it?
+What does she mean, depend on it?
 
 1413
 01:21:03,734 --> 01:21:06,942
-Oh, he ought to be along
-any minute.
+Oh, he ought to be along any minute.
 
 1414
 01:21:07,029 --> 01:21:08,314
@@ -6416,13 +6109,11 @@ crooked in the place.
 
 1427
 01:21:40,020 --> 01:21:41,931
-Please,
-you're spoiling everything!
+Please, you're spoiling everything!
 
 1428
 01:21:42,022 --> 01:21:44,308
-We swallow the evidence!
-Swallow!
+We swallow the evidence! Swallow!
 
 1429
 01:21:44,400 --> 01:21:46,732
@@ -6439,8 +6130,7 @@ Princess Sadaba and Ducky.
 
 1432
 01:21:52,741 --> 01:21:55,699
-And they came here
-to blackmail me.
+And they came here to blackmail me.
 
 1433
 01:21:55,786 --> 01:21:59,620
@@ -6458,8 +6148,7 @@ in an evening gown.
 
 1436
 01:22:06,755 --> 01:22:09,872
-Out of the blue,
-suddenly I'm hearing
+Out of the blue, suddenly I'm hearing
 
 1437
 01:22:09,967 --> 01:22:11,548
@@ -6499,23 +6188,19 @@ to believe them or me?
 
 1445
 01:22:28,152 --> 01:22:29,983
-Honey,
-you're imagining things again.
+Honey, you're imagining things again.
 
 1446
 01:22:30,070 --> 01:22:33,312
-Imagining things?
-Imagining things?
+Imagining things? Imagining things?
 
 1447
 01:22:33,407 --> 01:22:36,114
-Alright, ask him
-what he's eating.
+Alright, ask him what he's eating.
 
 1448
 01:22:37,870 --> 01:22:39,986
-Excuse me, sir,
-what are you eating?
+Excuse me, sir, what are you eating?
 
 1449
 01:22:41,081 --> 01:22:44,073
@@ -6536,8 +6221,7 @@ I'm sorry.
 
 1453
 01:22:55,679 --> 01:22:57,761
-If there's any way
-I can make amends...
+If there's any way I can make amends...
 
 1454
 01:22:59,099 --> 01:23:01,010
@@ -6553,8 +6237,7 @@ James, such a fun party.
 
 1457
 01:23:14,615 --> 01:23:16,606
-When's your Penelope
-going to appear?
+When's your Penelope going to appear?
 
 1458
 01:23:16,700 --> 01:23:18,900
@@ -6584,8 +6267,7 @@ You did. Now you don't.
 
 1464
 01:23:34,176 --> 01:23:35,837
-Isn't that a rather
-childish thing to do?
+Isn't that a rather childish thing to do?
 
 1465
 01:23:35,928 --> 01:23:37,543
@@ -6657,13 +6339,11 @@ When?
 
 1480
 01:24:16,718 --> 01:24:19,334
-As soon as Mildred Halliday
-gets here.
+As soon as Mildred Halliday gets here.
 
 1481
 01:24:19,429 --> 01:24:21,715
-What's Mildred Halliday
-got to do with it?
+What's Mildred Halliday got to do with it?
 
 1482
 01:24:23,809 --> 01:24:25,140
@@ -6702,8 +6382,7 @@ Or open my door.
 
 1490
 01:24:46,790 --> 01:24:48,951
-Hello, Mildred.
-Welcome to the party.
+Hello, Mildred. Welcome to the party.
 
 1491
 01:24:54,047 --> 01:24:57,756
@@ -6734,13 +6413,11 @@ Well, honestly, I do,
 
 1497
 01:25:10,105 --> 01:25:12,892
-but I just don't
-enjoy it as much.
+but I just don't enjoy it as much.
 
 1498
 01:25:21,033 --> 01:25:24,446
-A double scotch.
-Soda or over the rocks?
+A double scotch. Soda or over the rocks?
 
 1499
 01:25:24,536 --> 01:25:26,868
@@ -6760,8 +6437,7 @@ Good evening, James.
 
 1503
 01:25:51,396 --> 01:25:54,012
-Penny, what's all this?
-You'll see.
+Penny, what's all this? You'll see.
 
 1504
 01:25:59,279 --> 01:26:01,565
@@ -6792,8 +6468,7 @@ You lost your tiara.
 
 1510
 01:26:24,471 --> 01:26:26,837
-James, is this her idea
-of a joke?
+James, is this her idea of a joke?
 
 1511
 01:26:28,433 --> 01:26:30,674
@@ -6822,13 +6497,11 @@ Dear Penelope, you always did
 
 1517
 01:26:45,075 --> 01:26:47,282
-have such a quaint
-sense of humor.
+have such a quaint sense of humor.
 
 1518
 01:26:47,369 --> 01:26:49,576
-I never saw those emeralds
-in my life.
+I never saw those emeralds in my life.
 
 1519
 01:26:53,125 --> 01:26:56,208
@@ -6876,8 +6549,7 @@ All night long.
 
 1529
 01:28:06,323 --> 01:28:09,065
-I tell you
-I'm frantic with worry.
+I tell you I'm frantic with worry.
 
 1530
 01:28:09,159 --> 01:28:10,365
@@ -6903,8 +6575,7 @@ she can trust.
 
 1535
 01:28:17,709 --> 01:28:19,825
-Yours truly.
-Just calm down, Elcott.
+Yours truly. Just calm down, Elcott.
 
 1536
 01:28:19,920 --> 01:28:21,626
@@ -6912,8 +6583,7 @@ We're doing everything we can.
 
 1537
 01:28:21,713 --> 01:28:23,078
-If your wife feels
-in any danger,
+If your wife feels in any danger,
 
 1538
 01:28:23,173 --> 01:28:26,085
@@ -6944,13 +6614,11 @@ Alright, let me... watch out.
 
 1544
 01:29:10,554 --> 01:29:13,045
-I'm not afraid of you,
-you big bully.
+I'm not afraid of you, you big bully.
 
 1545
 01:29:13,139 --> 01:29:16,131
-The idea of an old woman
-taking a...
+The idea of an old woman taking a...
 
 1546
 01:29:16,893 --> 01:29:18,349
@@ -6998,8 +6666,7 @@ and I believed her.
 
 1556
 01:30:09,070 --> 01:30:12,187
-Her with those big,
-sad brown eyes,
+Her with those big, sad brown eyes,
 
 1557
 01:30:12,282 --> 01:30:14,819
@@ -7011,8 +6678,7 @@ What did she look like?
 
 1559
 01:30:19,080 --> 01:30:23,915
-Young, pretty,
-white evening gown
+Young, pretty, white evening gown
 
 1560
 01:30:24,002 --> 01:30:26,960
@@ -7068,8 +6734,7 @@ come out of the bank.
 
 1572
 01:31:06,336 --> 01:31:07,826
-Which, which-which way
-did she go?
+Which, which-which way did she go?
 
 1573
 01:31:07,921 --> 01:31:09,411
@@ -7119,13 +6784,11 @@ Who else would I come to?
 
 1584
 01:31:47,919 --> 01:31:49,063
-You want me to go ahead
-without you?
+You want me to go ahead without you?
 
 1585
 01:31:49,087 --> 01:31:50,668
-Listen,
-you're not gonna believe this,
+Listen, you're not gonna believe this,
 
 1586
 01:31:50,755 --> 01:31:53,041
@@ -7147,8 +6810,7 @@ Twice.
 
 1590
 01:32:05,729 --> 01:32:09,813
-Sergeant, I just solved
-the Elcott case.
+Sergeant, I just solved the Elcott case.
 
 1591
 01:32:10,692 --> 01:32:13,775
@@ -7231,8 +6893,7 @@ to the crazy doctor.
 
 1609
 01:33:47,080 --> 01:33:49,162
-I don't think
-whisky's your answer.
+I don't think whisky's your answer.
 
 1610
 01:33:51,292 --> 01:33:53,203
@@ -7252,8 +6913,7 @@ Oh, who else could I turn to?
 
 1614
 01:33:59,259 --> 01:34:00,920
-Thank heaven
-you're safe and sound.
+Thank heaven you're safe and sound.
 
 1615
 01:34:01,010 --> 01:34:02,750
@@ -7275,8 +6935,7 @@ get it through my head
 
 1619
 01:34:10,019 --> 01:34:12,556
-that I didn't actually
-steal all those jewels.
+that I didn't actually steal all those jewels.
 
 1620
 01:34:12,647 --> 01:34:14,353
@@ -7288,8 +6947,7 @@ You did steal the jewels.
 
 1622
 01:34:18,862 --> 01:34:20,005
-They stuck
-the insurance companies
+They stuck the insurance companies
 
 1623
 01:34:20,029 --> 01:34:21,394
@@ -7327,8 +6985,7 @@ Of course.
 
 1631
 01:34:44,053 --> 01:34:45,759
-Because the whole time
-I was doing it
+Because the whole time I was doing it
 
 1632
 01:34:45,847 --> 01:34:47,428
@@ -7349,8 +7006,7 @@ It made me feel rotten.
 
 1636
 01:34:52,812 --> 01:34:55,178
-So that means
-I'm not a kleptomaniac.
+So that means I'm not a kleptomaniac.
 
 1637
 01:34:55,273 --> 01:34:56,729
@@ -7362,8 +7018,7 @@ That's terrible.
 
 1639
 01:34:59,402 --> 01:35:02,314
-No more stealing.
-No more hobbies.
+No more stealing. No more hobbies.
 
 1640
 01:35:02,405 --> 01:35:04,191
@@ -7391,13 +7046,11 @@ I know it sounds unethical,
 
 1646
 01:35:14,626 --> 01:35:15,991
-and you'd probably
-have difficulty
+and you'd probably have difficulty
 
 1647
 01:35:16,085 --> 01:35:18,076
-readjusting me
-from a father figure
+readjusting me from a father figure
 
 1648
 01:35:18,171 --> 01:35:19,627
@@ -7405,8 +7058,7 @@ to a lover image.
 
 1649
 01:35:20,423 --> 01:35:22,539
-And I'm probably
-too tall for you.
+And I'm probably too tall for you.
 
 1650
 01:35:22,634 --> 01:35:24,170
@@ -7419,8 +7071,7 @@ enough closet space
 
 1652
 01:35:26,095 --> 01:35:27,960
-for my clothes
-in your apartment.
+for my clothes in your apartment.
 
 1653
 01:35:28,389 --> 01:35:30,254
@@ -7440,13 +7091,11 @@ I need help!
 
 1657
 01:35:44,572 --> 01:35:46,052
-How could you do this to me,
-Penelope?
+How could you do this to me, Penelope?
 
 1658
 01:35:46,115 --> 01:35:49,107
-You know
-I can't stand rejection.
+You know I can't stand rejection.
 
 1659
 01:35:57,210 --> 01:35:58,620
@@ -7476,8 +7125,7 @@ And just now when I came in,
 
 1665
 01:36:13,476 --> 01:36:15,637
-even you looked
-like Penelope to me.
+even you looked like Penelope to me.
 
 1666
 01:36:15,728 --> 01:36:18,060
@@ -7504,8 +7152,7 @@ Oh, no, don't stop now.
 
 1671
 01:36:28,449 --> 01:36:30,405
-You're just getting
-to the good part.
+You're just getting to the good part.
 
 1672
 01:36:30,493 --> 01:36:32,905
@@ -7522,8 +7169,7 @@ if I could only find her
 
 1675
 01:36:38,334 --> 01:36:40,825
-and tell her
-how much I need her.
+and tell her how much I need her.
 
 1676
 01:36:49,637 --> 01:36:51,343
@@ -7535,23 +7181,19 @@ Everybody does these days.
 
 1678
 01:36:52,849 --> 01:36:54,326
-The only difference is,
-we well-adjusted
+The only difference is, we well-adjusted
 
 1679
 01:36:54,350 --> 01:36:56,591
-maladjusted ones
-realize it in time.
+maladjusted ones realize it in time.
 
 1680
 01:36:58,313 --> 01:37:00,474
-And besides,
-the best help of all
+And besides, the best help of all
 
 1681
 01:37:00,565 --> 01:37:02,476
-is the kind
-you can only get at home.
+is the kind you can only get at home.
 
 1682
 01:37:14,787 --> 01:37:16,698
