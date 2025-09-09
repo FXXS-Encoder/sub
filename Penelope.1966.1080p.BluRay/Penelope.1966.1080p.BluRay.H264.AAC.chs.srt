@@ -3922,157 +3922,147 @@ Penelope。怎么了？
 
 966
 00:58:11,488 --> 00:58:13,149
-Well, I guess I'm not as good at my job
+唔，我看来并不像
 
 967
 00:58:13,240 --> 00:58:15,151
-as I thought I was. I missed it.
+我以为的那么称职，我没注意到。
 
 968
 00:58:15,242 --> 00:58:16,903
-Oh.
+哦。
 
 969
 00:58:16,994 --> 00:58:18,325
-Oh, dear.
+哦，亲爱的。
 
 970
 00:58:18,412 --> 00:58:19,572
-What's the matter?
+怎么了？
 
 971
 00:58:19,663 --> 00:58:21,949
-I was supposed to meet James
-ten minutes ago.
+我本来十分钟前该去见 James 的。
 
 972
 00:58:23,458 --> 00:58:25,449
-Do I get to keep Ron Swoboda?
+那我能留住 Ron Swoboda 吗？
 
 973
 00:58:29,673 --> 00:58:31,163
-Hey, Horatio, watch.
+喂，Horatio，看这个。
 
 974
 00:58:34,803 --> 00:58:36,009
-Not bad, hm?
+不错吧，嗯？
 
 975
 00:58:36,930 --> 00:58:38,420
-Terrific.
+太棒了。
 
 976
 00:58:40,434 --> 00:58:43,926
-Then James began to get promoted
-at the bank.
+后来 James 在银行开始升职。
 
 977
 00:58:44,021 --> 00:58:48,105
-Third vice president,
-second vice president,
+第三副总裁，第二副总裁，
 
 978
 00:58:48,191 --> 00:58:49,601
-first vice president.
+第一副总裁。
 
 979
 00:58:49,693 --> 00:58:52,651
-At last, we're getting
-to the crux of your problem!
+终于，我们要说到你问题的关键了！
 
 980
 00:58:52,738 --> 00:58:54,694
-Don't you see it?
+你看不到吗？
 
 981
 00:58:54,781 --> 00:58:57,113
-You feel left out of your husband's life
+你觉得在你丈夫的生活中被排除在外，
 
 982
 00:58:57,200 --> 00:59:00,533
-so you compensate
-for his lack of attention.
+于是你通过补偿他对你的冷淡来弥补。
 
 983
 00:59:01,747 --> 00:59:02,953
-I do?
+是吗？
 
 984
 00:59:04,082 --> 00:59:07,245
-In desperation,
-I began taking up hobbies.
+绝望之下，我开始培养一些爱好。
 
 985
 00:59:07,335 --> 00:59:08,916
-First, hobbies with James.
+首先，是和 James 一起的爱好。
 
 986
 00:59:09,004 --> 00:59:10,244
-James! James!
+James！James！
 
 987
 00:59:10,338 --> 00:59:12,374
-Things were still
-pretty much up in the air.
+事情仍然很不确定。
 
 988
 00:59:12,466 --> 00:59:14,673
-So I next tried hobbies for James.
+于是我接着尝试为 James 而做的爱好。
 
 989
 00:59:15,510 --> 00:59:19,344
-James! James! Look what we won!
+James！James！看看我们赢了什么！
 
 990
 00:59:19,431 --> 00:59:21,342
-Good girl.
+乖孩子。
 
 991
 00:59:21,433 --> 00:59:23,173
-Good boy.
+好男孩。
 
 992
 00:59:23,268 --> 00:59:25,554
-Well, at least he patted me first.
+好吧，至少他先拍了我一下。
 
 993
 00:59:26,313 --> 00:59:27,974
-Nothing worked.
+什么办法都没用。
 
 994
 00:59:28,940 --> 00:59:30,555
-It's funny.
+有趣的是。
 
 995
 00:59:30,650 --> 00:59:34,484
-There's only one hobby
-that seemed to cheer me up.
+只有一种爱好似乎能让我高兴起来。
 
 996
 00:59:34,571 --> 00:59:35,571
-Burglary.
+入室盗窃。
 
 997
 00:59:35,655 --> 00:59:38,021
-Not burglary. That's forcible entry.
+不是入室盗窃。那是强行进入。
 
 998
 00:59:38,116 --> 00:59:40,027
-All you committed was simple larceny.
+你犯的只是普通盗窃。
 
 999
 00:59:40,118 --> 00:59:42,985
-Please, Gregory, I'd rather
-think of it as burglary.
+拜托，Gregory，我宁愿把它当成入室盗窃来看。
 
 1000
 00:59:43,080 --> 00:59:44,911
-It's more exciting.
+那样更刺激。
 
 1001
 00:59:44,998 --> 00:59:48,661
-Penelope, how many victims
-did you burglarize?
+Penelope，你入室行窃的受害者有多少？
 
 1002
 00:59:48,752 --> 00:59:50,208
