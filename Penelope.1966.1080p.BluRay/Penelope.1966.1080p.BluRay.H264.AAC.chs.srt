@@ -4219,151 +4219,144 @@ Penny，别说了。别说了。
 
 1040
 01:02:03,303 --> 01:02:05,794
-But there's lots more.
-I could go on for hours.
+但那还远远不止这些。
+我可以讲好几个小时。
 
 1041
 01:02:05,889 --> 01:02:08,175
-Maybe you could, but I couldn't.
+也许你可以，但我可做不到。
 
 1042
 01:02:08,266 --> 01:02:11,099
-Gregory, you mustn't let this
-depress you.
+Gregory，你千万别因此沮丧。
 
 1043
 01:02:12,062 --> 01:02:13,643
-Depression is a luxury
+沮丧是一种奢侈，
 
 1044
 01:02:13,730 --> 01:02:16,187
-not permitted
-the experienced psychiatrist.
+经验丰富的精神科医生是不能沉溺其中的。
 
 1045
 01:02:16,274 --> 01:02:17,559
-Well, that's good.
+嗯，那很好。
 
 1046
 01:02:17,651 --> 01:02:19,651
-Because there is a bright side
-to this whole thing.
+因为这件事也有积极的一面。
 
 1047
 01:02:22,113 --> 01:02:24,274
-Well, the way my marriage was headed
+按我那时婚姻的走向来看，
 
 1048
 01:02:24,366 --> 01:02:25,856
-and the state of nerves I was in,
+以及我那时的神经状态，
 
 1049
 01:02:25,951 --> 01:02:27,657
-if it hadn't been for kleptomania
+要不是有窃盗癖在，我
 
 1050
 01:02:27,744 --> 01:02:29,655
-I might have gone a little kook.
+可能真会有点儿精神失常。
 
 1051
 01:02:32,666 --> 01:02:34,873
-Penny, do you have any idea how difficult
+Penny，你知道当你的分析师有多难吗？
 
 1052
 01:02:34,960 --> 01:02:36,496
-it is being your analyst?
+你知道吗，做你的分析师可不容易。
 
 1053
 01:02:36,586 --> 01:02:38,372
-Oh, Gregory, you should have known me
+哦，Gregory，你应该在认识我之前就见过我，
 
 1054
 01:02:38,463 --> 01:02:39,999
-in the days before you knew me.
+那时候的我
 
 1055
 01:02:40,090 --> 01:02:42,331
-I was vague, frivolous.
+很模糊、很轻浮。
 
 1056
 01:02:42,425 --> 01:02:44,381
-You might even say a bit of a ding.
+你甚至可以说我有点儿神经质。
 
 1057
 01:02:44,469 --> 01:02:46,960
-Thank heaven, I've settled down. Bye.
+谢天谢地，我已经安定下来了。再见。
 
 1058
 01:02:55,188 --> 01:02:56,598
-What do you suppose it means
+你认为忘鞋子意味着什么呢？
 
 1059
 01:02:56,690 --> 01:02:59,898
-when you keep forgetting
-your shoes? Hm.
+当你老是忘记鞋子时，这意味着什么？嗯。
 
 1060
 01:02:59,985 --> 01:03:01,963
-Where are you rushing to?
-You still have seven minutes left.
+你要急到哪里去？你还有七分钟。
 
 1061
 01:03:01,987 --> 01:03:04,444
-Oh, you can owe me.
-I'm off to the park Lane galleries.
+哦，你可以记在账上。我得去 Park Lane 画廊了。
 
 1062
 01:03:04,531 --> 01:03:06,613
-There's a Rembrandt there that's a steal.
+那里有一幅伦勃朗，简直是捡便宜。
 
 1063
 01:03:10,120 --> 01:03:13,032
-A Rembrandt. Penny, you wouldn't.
+伦勃朗。Penny，你不会真的去偷吧。
 
 1064
 01:03:15,166 --> 01:03:17,157
-Taxi! Taxi!
+出租车！出租车！
 
 1065
 01:03:50,577 --> 01:03:52,192
-Psst.
+噓。
 
 1066
 01:03:52,287 --> 01:03:53,948
-Psst.
+噓。
 
 1067
 01:03:54,039 --> 01:03:55,039
-Gregory. Shh!
+Gregory。嘘！
 
 1068
 01:03:55,123 --> 01:03:56,408
-What? Police.
+什么？警察来了。
 
 1069
 01:03:58,084 --> 01:04:00,700
-They may have followed me. Police?
+他们可能跟踪我来了。警察？
 
 1070
 01:04:00,795 --> 01:04:03,832
-Gregory, what have you done?
+Gregory，你到底做了什么？
 
 1071
 01:04:03,923 --> 01:04:05,788
-Nothing. I haven't done anything.
+什么都没做。我什么都没做。
 
 1072
 01:04:06,885 --> 01:04:07,987
-Well, if you haven't done anything
+好吧，如果你什么都没做，
 
 1073
 01:04:08,011 --> 01:04:09,071
-then why would the police...
+那警察为什么会——
 
 1074
 01:04:09,095 --> 01:04:13,259
-Penelope, I don't want to get
-into a discussion, not now.
+Penelope，我现在不想争论。现在告诉我，你把钱藏在哪儿了？
 
 1075
 01:04:13,350 --> 01:04:16,683
@@ -4431,50 +4424,47 @@ Oh, never mind. Ooh!
 
 1090
 01:05:04,859 --> 01:05:05,859
-Penny, listen to me.
+Penny，听我说。
 
 1091
 01:05:05,944 --> 01:05:07,671
-You've got to get that money
-back to the bank today.
+你必须今天就把那笔钱送回银行。
 
 1092
 01:05:07,695 --> 01:05:09,560
-Now. How?
+现在。怎么做？
 
 1093
 01:05:09,656 --> 01:05:11,271
-I can't just walk in and hand it over.
+我不能就走进去把钱交上去。
 
 1094
 01:05:11,366 --> 01:05:12,776
-Well, I figured that...
+嗯，我想过……
 
 1095
 01:05:12,867 --> 01:05:13,982
-Oh, give me the money
+哦，把钱给我吧，
 
 1096
 01:05:14,077 --> 01:05:16,284
-and I'll, I'll stick it
-in the night deposit chute.
+我会把它放进夜间存款口。
 
 1097
 01:05:16,371 --> 01:05:19,113
-Oh, Gregory, I don't like
-to see you get involved.
+哦，Gregory，我不想你牵扯进来。
 
 1098
 01:05:19,207 --> 01:05:20,868
-Neither do I.
+我也不想。
 
 1099
 01:05:20,959 --> 01:05:22,870
-Come on. All of it.
+来吧，把所有的都给我。
 
 1100
 01:05:26,840 --> 01:05:28,171
-Oh, penny.
+哦，Penny。
 
 1101
 01:05:42,480 --> 01:05:43,765
@@ -4482,149 +4472,143 @@ Penny.
 
 1102
 01:05:43,857 --> 01:05:45,472
-- Alright, how do I look?
-- Frightened.
+- 好了，我看起来如何？
+- 看起来很害怕。
 
 1103
 01:05:45,567 --> 01:05:47,808
-Oh, no, I mean up here.
+哦，不，我是说头部这儿。
 
 1104
 01:05:47,902 --> 01:05:49,733
-- Like Batman.
-- Thanks.
+- 像蝙蝠侠。
+- 谢谢。
 
 1105
 01:05:49,821 --> 01:05:51,812
-Gregory, you're very sweet.
+Gregory，你真体贴。
 
 1106
 01:05:51,906 --> 01:05:53,942
-But why do you insist on doing this?
+但你为什么非要这么做不可？
 
 1107
 01:05:54,033 --> 01:05:55,819
-Because I'm in love with you.
+因为我爱你。
 
 1108
 01:05:55,910 --> 01:05:57,696
-- Because I'm crazy about you.
-- Gregory.
+因为我对你痴狂。
 
 1109
 01:05:57,787 --> 01:06:00,529
-And when I say crazy,
-I'm using the word medically.
+——当我说痴狂时，我是医学上说的那种。
 
 1110
 01:06:00,623 --> 01:06:02,143
-- But just the other day...
-- Forget it.
+- 但就在前几天……
+- 算了。
 
 1111
 01:06:02,167 --> 01:06:04,624
-- You said...
-- Forget it. Forget it!
+- 你说了……
+- 算了，算了！
 
 1112
 01:06:04,711 --> 01:06:09,421
-Now let's get out of here
-and try to act very natural.
+现在我们走吧，尽量表现得很自然。
 
 1113
 01:06:24,939 --> 01:06:27,601
-- They locked us in!
-- Don't worry.
+- 他们把我们锁起来了！
+- 别担心。
 
 1114
 01:06:27,692 --> 01:06:28,919
-That bell ought to bring somebody.
+那铃铛应该会有人来。
 
 1115
 01:06:28,943 --> 01:06:31,855
-That bell will bring everybody.
-That's a burglar alarm.
+那铃铛会把所有人都引来。那是盗贼警报。
 
 1116
 01:06:31,946 --> 01:06:33,857
-- What if they search us?
-- Well, what of it?
+- 要是他们搜我们怎么办？
+- 那又怎样？
 
 1117
 01:06:33,948 --> 01:06:36,010
-- We haven't stolen anything.
-- Not today, we haven't.
+- 我们没有偷东西。
+- 今天没偷东西。
 
 1118
 01:06:36,034 --> 01:06:37,194
-What do you think this is?
+你以为这是什么地方？
 
 1119
 01:06:37,285 --> 01:06:39,742
-- Oh, penny.
-- They wouldn't dare search us.
+- 哦，Penny。
+- 他们不敢搜我们。
 
 1120
 01:06:39,829 --> 01:06:42,741
-Yoo-hoo, somebody! Yoo-hoo!
+喂喂，有人在吗？喂！
 
 1121
 01:06:42,832 --> 01:06:44,322
-Not yet! Not yet!
+还不行！还不行！
 
 1122
 01:06:44,417 --> 01:06:46,282
-Yoo-hoo! Yoo-hoo!
+喂！喂！
 
 1123
 01:06:48,671 --> 01:06:51,083
-Good evening. Would you mind
-opening the gate, please?
+晚上好。你介意开门吗？
 
 1124
 01:06:51,174 --> 01:06:53,335
-You in there, what are you up to?
+你们在里面，干什么呢？
 
 1125
 01:06:53,426 --> 01:06:54,962
-Nothing. I swear it.
+什么也没干。我发誓。
 
 1126
 01:06:55,053 --> 01:06:56,964
-Please call the manager.
+请叫经理来。
 
 1127
 01:06:57,972 --> 01:07:00,384
-I am the manager.
+我就是经理。
 
 1128
 01:07:00,475 --> 01:07:02,841
-Where were you hiding
-when we locked up?
+关门时你们藏在哪里了？
 
 1129
 01:07:02,936 --> 01:07:04,722
-Oh, right behind that cabinet.
+哦，就在那个橱柜后面。
 
 1130
 01:07:04,812 --> 01:07:05,956
-No, we weren't. We weren't hiding.
+不，我们没有。我们没藏。
 
 1131
 01:07:05,980 --> 01:07:07,345
-We were standing. We were standing.
+我们站着，我们站着。
 
 1132
 01:07:07,440 --> 01:07:09,726
-Don't you realize we're closed?
+你们不知道我们已经关门了吗？
 
 1133
 01:07:09,817 --> 01:07:11,227
-Well, that's just the trouble.
+那正是问题所在。
 
 1134
 01:07:11,319 --> 01:07:13,901
-If you were open, we could leave.
+如果你们开门，我们就能离开。
 
 1135
 01:07:13,988 --> 01:07:16,149
