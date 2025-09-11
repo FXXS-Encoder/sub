@@ -4896,554 +4896,510 @@ Toshi，我的帽子！
 
 1207
 01:11:22,320 --> 01:11:24,060
-Wait a minute. James, I'll go with you.
+等一下，James，我要跟你一起去。
 
 1208
 01:11:24,155 --> 01:11:26,508
-No, no, darling, there's no need
-for you to be involved in this.
+不，不，亲爱的，你没必要卷进这件事。
 
 1209
 01:11:26,532 --> 01:11:28,488
-Wait for me! Wait for me!
+等我！等我！
 
 1210
 01:11:33,206 --> 01:11:37,495
-Horatio, what if you've
-arrested the wrong girl?
+Horatio，如果你们逮错人怎么办？
 
 1211
 01:11:37,585 --> 01:11:38,585
-Not a chance.
+绝无可能。
 
 1212
 01:11:38,669 --> 01:11:41,206
-She had the money on her
-when we picked her up.
+我们抓她的时候，她身上就有那笔钱。
 
 1213
 01:11:41,297 --> 01:11:43,583
-Alright. Right this way.
+好吧。往这边来。
 
 1214
 01:11:48,971 --> 01:11:50,882
-Oh, hi, doll.
+哦，嗨，宝贝。
 
 1215
 01:11:50,973 --> 01:11:52,884
-Well, you're new in here, aren't you?
+你是新来的吗，不是吗？
 
 1216
 01:11:52,975 --> 01:11:54,787
-I mean, I don't recall
-making your acquaintance
-
-1217
-01:11:54,811 --> 01:11:56,642
-in night court or nothin'.
+我是说，我不记得在夜间法庭见过你。
 
 1218
 01:11:58,981 --> 01:12:00,972
-Mine's honeysuckle Rose.
+我叫 Honeysuckle Rose。
 
 1219
 01:12:01,150 --> 01:12:02,890
-You must be doing pretty good.
+看起来你过得不错。
 
 1220
 01:12:02,985 --> 01:12:04,850
-That almost looks like for-real mink.
+那件看起来差点像是真的貂皮。
 
 1221
 01:12:04,946 --> 01:12:07,653
-Alright, miss Rose.
-Just hold it. Relax a minute.
+好了，Rose小姐。别动，放松一下。
 
 1222
 01:12:07,740 --> 01:12:09,571
-No offense, Mrs. Elcott.
+不是冒犯您，Elcott太太。
 
 1223
 01:12:09,659 --> 01:12:12,947
-The lady in the genuine mink
-is the wife of this gentleman,
+那穿真貂皮的女士是这位先生的太太，
 
 1224
 01:12:13,037 --> 01:12:15,870
-who happens to be the president
-of the bank that you hit.
+正好是你们被抢的那家银行的行长。
 
 1225
 01:12:17,208 --> 01:12:18,493
-Oh.
+哦。
 
 1226
 01:12:19,001 --> 01:12:20,787
-Well, she looks pretty enough to be...
+她看起来确实有点像…
 
 1227
 01:12:20,878 --> 01:12:22,243
-What's your right name, honey?
+你真名叫什么，亲爱的？
 
 1228
 01:12:22,338 --> 01:12:24,750
-Well, I told you. Honeysuckle Rose.
+我不是跟你说了吗，Honeysuckle Rose。
 
 1229
 01:12:24,841 --> 01:12:26,832
-My sister's Mexicali Rose.
+我姐姐叫 Mexicali Rose。
 
 1230
 01:12:26,926 --> 01:12:29,793
-I know, the roses of Washington square.
+我知道，都是 Washington Square 的那些“玫瑰”。
 
 1231
 01:12:29,887 --> 01:12:31,468
-Huntington, West Virginia.
+Huntington，West Virginia。
 
 1232
 01:12:31,556 --> 01:12:33,763
-We drove through there once,
-James, remember?
+我们曾经开车经过那里，James，还记得吗？
 
 1233
 01:12:33,850 --> 01:12:35,702
-Penelope, please.
-Can't we get on with this, hm?
+Penelope，拜托。我们能继续了吗？
 
 1234
 01:12:35,726 --> 01:12:37,637
-Honeysuckle, why don't you
-be a good girl
+Honeysuckle，你能不能做个乖孩子
 
 1235
 01:12:37,728 --> 01:12:39,764
-and just give us a full confession?
+好好把话说清楚，坦白承认？
 
 1236
 01:12:41,357 --> 01:12:43,769
-Hm, okay.
+嗯，好吧。
 
 1237
 01:12:43,860 --> 01:12:47,944
-Um, I was walking my cat
-up park Avenue
+呃，我昨晚在 Park Avenue 遛猫
 
 1238
 01:12:48,030 --> 01:12:49,986
-around, uh, 3 o'clock this morning
+大约，呃，凌晨三点左右
 
 1239
 01:12:50,074 --> 01:12:54,818
-when I see that lying
-on the sidewalk... practically.
+我看到那东西几乎就躺在人行道上。
 
 1240
 01:12:54,912 --> 01:12:56,868
-Correction. You walked into my bank
+更正一下。你是走进了我的银行
 
 1241
 01:12:56,956 --> 01:12:58,141
-around 3 o'clock in the afternoon
+大约下午3点左右
 
 1242
 01:12:58,165 --> 01:13:00,076
-two days ago and stole the money.
+两天前，偷走了那笔钱。
 
 1243
 01:13:00,167 --> 01:13:01,953
-Now wait a minute.
+等会儿。
 
 1244
 01:13:02,044 --> 01:13:04,956
-Do I look like a person
-who'd stick up a bank?
+我看起来像会抢银行的人吗？
 
 1245
 01:13:05,047 --> 01:13:06,207
-Of course not.
+当然不是。
 
 1246
 01:13:06,299 --> 01:13:09,587
-Oh, come now, walking a cat
-at 3 o'clock in the morning?
+哎呦，凌晨三点遛猫有什么不对吗？
 
 1247
 01:13:09,677 --> 01:13:11,633
-I don't see anything wrong with that.
+我看不出有什么不对。
 
 1248
 01:13:11,721 --> 01:13:13,461
-She probably does night work.
+她可能做的是夜班工作。
 
 1249
 01:13:13,556 --> 01:13:15,842
-- Do you?
-- Well, uh...
+- 你是吗？
+- 嗯，呃……
 
 1250
 01:13:17,143 --> 01:13:18,178
-Yeah.
+是的。
 
 1251
 01:13:18,895 --> 01:13:20,055
-You see?
+看吧？
 
 1252
 01:13:20,146 --> 01:13:22,228
-Well, I'm glad we got that decided.
+好吧，事情总算定下来了。
 
 1253
 01:13:22,315 --> 01:13:25,807
-Penelope, I don't think
-you're getting the full picture.
+Penelope，我觉得你并没有看清全貌。
 
 1254
 01:13:25,902 --> 01:13:29,065
-You see, the charge
-against miss Rose here
+你看，对 Rose 小姐的指控
 
 1255
 01:13:29,155 --> 01:13:32,272
-is not cat-walking, it's bank-robbing.
+不是遛猫，而是抢银行。
 
 1256
 01:13:32,366 --> 01:13:34,072
-Well, it's a frame.
+这是陷害。
 
 1257
 01:13:34,160 --> 01:13:37,243
-I never set foot inside
-that bank, I swear it.
+我发誓我从没进过那家银行。
 
 1258
 01:13:37,330 --> 01:13:38,911
-I believe you.
+我相信你。
 
 1259
 01:13:39,373 --> 01:13:42,410
-Well, but they don't.
+但他们不信。
 
 1260
 01:13:42,501 --> 01:13:44,867
-Well, look at their faces!
+看看他们的表情！
 
 1261
 01:13:44,962 --> 01:13:47,294
-Oh, this is no 30 days and out rap.
+哦，这可不是30天服刑就完事的案子。
 
 1262
 01:13:47,381 --> 01:13:50,214
-They-they wanna lock me up
-and throw away the key.
+他们要把我关起来，扔掉钥匙。
 
 1263
 01:13:50,301 --> 01:13:53,714
-Honey, believe me, you're only
-making it tough on yourself
+亲爱的，相信我，你坚持这个荒谬的说法只会让自己更难受
 
 1264
 01:13:53,804 --> 01:13:55,795
-by sticking to this cockamamie story.
+一直坚持这种荒唐的故事。
 
 1265
 01:13:55,890 --> 01:13:58,256
-Well, that's the only
-cockamamie story I know!
+那是我唯一会编的荒诞故事！
 
 1266
 01:13:58,351 --> 01:13:59,786
-Alright, matron, get her out of here.
+好了，女管理员，把她带出去。
 
 1267
 01:13:59,810 --> 01:14:02,176
-Oh, no. No, wait.
+哦，不，等等。
 
 1268
 01:14:02,271 --> 01:14:04,478
-Wait, I-I-l admit it.
+等等，我…我承认。
 
 1269
 01:14:04,565 --> 01:14:06,726
-Lied.
+我撒谎了。
 
 1270
 01:14:06,817 --> 01:14:09,274
-The-the money w-wasn't
-on the sidewalk.
+那钱并不是放在路边的。
 
 1271
 01:14:09,362 --> 01:14:12,229
-I-it was sticking out of the deposit slot.
+是从存款口里露出来的。
 
 1272
 01:14:12,323 --> 01:14:16,066
-Well, I was gonna return it.
-Maybe collect a reward even.
+本来我是要把它送回去的，或许还能拿点赏金。
 
 1273
 01:14:16,160 --> 01:14:18,071
-But that doesn't make me
-a bank robber, does it?
+但那不会让我成了抢银行的坏人，对吧？
 
 1274
 01:14:18,162 --> 01:14:20,744
-I mean, not-not like they mean.
+我是说，不是他们所说的那种意思。
 
 1275
 01:14:20,831 --> 01:14:23,368
-Wait a minute. Wait a minute.
+等等，等等。
 
 1276
 01:14:23,459 --> 01:14:25,324
-You're making a terrible mistake.
+你们犯了个可怕的错误。
 
 1277
 01:14:25,419 --> 01:14:27,080
-Honey, they know what they're doing.
+亲爱的，他们知道自己在做什么。
 
 1278
 01:14:27,171 --> 01:14:29,503
-Well, how do you know
-that she isn't telling the truth?
+那你怎么知道她没有说实话？
 
 1279
 01:14:29,590 --> 01:14:32,548
-It's my theory. It could have
-happened exactly as she said it.
+这是我的推测。事情完全可能按她说的那样发生过。
 
 1280
 01:14:32,635 --> 01:14:35,672
-You mean somebody
-actually left $59,000
+你是说有人真的把59,000美元
 
 1281
 01:14:35,763 --> 01:14:38,470
-on the doorstep of a bank
-in the middle of the night?
+在深夜放在银行门口？
 
 1282
 01:14:38,557 --> 01:14:40,718
-- Yes!
-- Who, Mrs. Elcott?
+- 是的！
+- 谁，Elcott太太？
 
 1283
 01:14:41,852 --> 01:14:44,264
-The thief, that's who. The bank robber.
+小偷，就是那人。抢银行的那位。
 
 1284
 01:14:44,355 --> 01:14:46,095
-For what possible reason, darling?
+亲爱的，出于什么理由呢？
 
 1285
 01:14:46,190 --> 01:14:48,647
-Because she was trying to get rid of it.
+因为她想摆脱那笔钱。
 
 1286
 01:14:49,986 --> 01:14:52,443
-In the same bank that she stole it from?
+在她从中偷走钱的同一家银行里？
 
 1287
 01:14:52,530 --> 01:14:54,191
-Certainly.
+当然。
 
 1288
 01:14:54,281 --> 01:14:57,023
-You see, she never wanted
-the money in the first place.
+你看，她从来就不想要那钱。
 
 1289
 01:14:57,118 --> 01:14:59,860
-- She only took it because...
-- Because why?
+- 她之所以拿走是因为...
+- 为什么？
 
 1290
 01:15:01,288 --> 01:15:03,529
-Because she couldn't help herself.
+因为她控制不了自己。
 
 1291
 01:15:03,624 --> 01:15:05,364
-Uh, we appreciate your help, Mrs. Elcott,
+呃，Elcott太太，我们感谢你的帮助，
 
 1292
 01:15:05,459 --> 01:15:08,451
-but your theory is based
-on sympathy for the suspect,
+但你的理论是出于对嫌疑人的同情，
 
 1293
 01:15:08,546 --> 01:15:09,546
-not fact.
+而不是事实。
 
 1294
 01:15:09,630 --> 01:15:11,120
-Okay, matron.
+好了，女管理员。
 
 1295
 01:15:11,215 --> 01:15:12,580
-No!
+不！
 
 1296
 01:15:13,175 --> 01:15:14,585
-Alright.
+好吧。
 
 1297
 01:15:15,302 --> 01:15:18,044
-You wanted a confession
-and I'll see that you get one.
+你们想要供词，我会确保你们得到一个。
 
 1298
 01:15:18,139 --> 01:15:20,801
-Thanks a lot,
-but miss Rose is not talking.
+非常感谢，但 Rose小姐不愿意说话。
 
 1299
 01:15:20,891 --> 01:15:23,803
-No, not from miss Rose,
-from the bank robber.
+不是从 Rose小姐那里，是从真正的抢劫犯那里。
 
 1300
 01:15:23,894 --> 01:15:25,680
-From the woman who robbed your bank
+就是那个抢你们银行的女人
 
 1301
 01:15:25,771 --> 01:15:28,683
-and escaped in a red wig
-and a yellow suit.
+戴着红色假发、穿黄色套装逃走的那位。
 
 1302
 01:15:28,774 --> 01:15:29,889
-Me.
+我。
 
 1303
 01:15:31,944 --> 01:15:33,650
-I'm sorry, James.
+对不起，James。
 
 1304
 01:15:33,738 --> 01:15:36,821
-I'll just have to explain later
-why it had to be your bank.
+改天我再解释为什么非得选你们的银行。
 
 1305
 01:15:36,907 --> 01:15:38,772
-But right now, the most important thing
+但现在最重要的是
 
 1306
 01:15:38,868 --> 01:15:40,108
-is to get to the truth of this
+揪出事实真相
 
 1307
 01:15:40,202 --> 01:15:42,909
-so that this poor innocent girl
-doesn't have to go to jail.
+这样这个可怜的无辜女孩就不必入狱。
 
 1308
 01:15:45,583 --> 01:15:47,790
-So if you will call a stenographer
+所以请叫个速记员来吧，
 
 1309
 01:15:47,877 --> 01:15:49,146
-I will dictate a full statement.
+我会口述一份完整的陈述。
 
 1310
 01:15:49,170 --> 01:15:51,582
-Now, Mrs. Elcott,
-I'm afraid you're under a strain.
+现在，Elcott太太，我担心你有些紧张过度。
 
 1311
 01:15:51,672 --> 01:15:52,899
-Perhaps you better take her home.
+或许你最好把她送回家。
 
 1312
 01:15:52,923 --> 01:15:54,629
-You know, a nap or somethin'.
+你知道，打个盹什么的。
 
 1313
 01:15:58,220 --> 01:16:00,552
-Why, you don't believe me.
+你们不相信我吗？
 
 1314
 01:16:00,931 --> 01:16:02,387
-None of you.
+你们任何人都不相信。
 
 1315
 01:16:02,933 --> 01:16:05,925
-You don't recognize the truth
-when it slaps you in the face.
+当真相就摆在你面前时，你们都看不出来。
 
 1316
 01:16:09,648 --> 01:16:11,263
-You think I'm crazy, don't you?
+你觉得我疯了吗，不是吗？
 
 1317
 01:16:11,358 --> 01:16:12,848
-Oh, no, certainly not. No.
+哦，不，当然不是。不是。
 
 1318
 01:16:12,943 --> 01:16:15,150
-Uh, you know, sometimes, uh...
+呃，你知道，有时候，呃……
 
 1319
 01:16:15,237 --> 01:16:17,102
-Well, we all need help sometimes.
+嗯，我们有时都需要帮助。
 
 1320
 01:16:18,365 --> 01:16:21,198
-Well, I am not under a strain.
+嗯，我并不处于紧张状态。
 
 1321
 01:16:21,285 --> 01:16:23,116
-And as far as my head, it has never been
+至于我的头脑，从来没有
 
 1322
 01:16:23,204 --> 01:16:24,535
-clearer than at this moment.
+像此刻这般清晰。
 
 1323
 01:16:24,622 --> 01:16:26,362
-And as far as my needing help
-is concerned,
+至于我是否需要帮助，
 
 1324
 01:16:26,457 --> 01:16:29,870
-let me assure you that I see my
-psychiatrist five times a week.
+让我向你保证：我每周都见精神科医生五次。
 
 1325
 01:16:31,545 --> 01:16:32,876
-Matron.
+女管理员。
 
 1326
 01:16:33,464 --> 01:16:35,125
-I'm sorry, miss Rose.
+对不起，Rose小姐。
 
 1327
 01:16:35,216 --> 01:16:37,878
-But don't worry, they can't keep you long.
+但别担心，他们不会关你太久。
 
 1328
 01:16:37,968 --> 01:16:40,175
-I'll make them believe me. I promise you.
+我会让他们相信我。我向你保证。
 
 1329
 01:16:40,262 --> 01:16:41,672
-Thank you.
+谢谢。
 
 1330
 01:16:41,764 --> 01:16:43,925
-But-but you know something,
-Mrs. Elcott,
+但是——你知道吗，Elcott太太，
 
 1331
 01:16:44,016 --> 01:16:45,972
-a-and it's a shame,
+呃——这真可惜，
 
 1332
 01:16:46,477 --> 01:16:48,513
-even I don't believe you.
+就连我也不相信你。
 
 1333
 01:16:59,406 --> 01:17:00,737
-My poor darling.
+我可怜的宝贝。
 
 1334
 01:17:00,825 --> 01:17:03,441
