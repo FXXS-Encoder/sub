@@ -3534,8 +3534,7 @@ Ah, good afternoon, lady and gentleman.
 
 830
 00:50:48,504 --> 00:50:50,836
-Welcome to the salon
-of Princess Sadaba.
+Welcome to the salon of Princess Sadaba.
 
 831
 00:50:50,923 --> 00:50:53,289
@@ -3548,8 +3547,7 @@ The boutique très chic.
 
 833
 00:50:58,764 --> 00:51:02,803
-Ah, and what can
-Princess Sadaba do for you?
+Ah, and what can Princess Sadaba do for you?
 
 834
 00:51:02,893 --> 00:51:05,680
