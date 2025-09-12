@@ -6078,788 +6078,743 @@ Penny，开门！
 
 1501
 01:25:46,516 --> 01:25:48,848
-Good evening. Good evening.
+晚上好。晚上好。
 
 1502
 01:25:49,478 --> 01:25:51,309
-Good evening, James.
+晚上好，James。
 
 1503
 01:25:51,396 --> 01:25:54,012
-Penny, what's all this? You'll see.
+Penny，这都是怎么回事？你会看的。
 
 1504
 01:25:59,279 --> 01:26:01,565
-Dear miss Heller,
-so good of you to come.
+亲爱的Heller小姐，很高兴你能来。
 
 1505
 01:26:01,657 --> 01:26:04,740
-Have you seen the bottom of any
-good swimming pools lately?
+你最近有看到什么好游泳池的底部吗？
 
 1506
 01:26:09,456 --> 01:26:11,822
-Mistaken? I...
+搞错了？我……
 
 1507
 01:26:17,089 --> 01:26:19,296
-Daphne. Daphne, darling.
+Daphne。Daphne，亲爱的。
 
 1508
 01:26:19,383 --> 01:26:22,625
-The next time you go discothequeing,
-you should be more careful.
+下次你去跳迪斯科的时候，要小心点。
 
 1509
 01:26:22,719 --> 01:26:24,380
-You lost your tiara.
+你把你的王冠弄丢了。
 
 1510
 01:26:24,471 --> 01:26:26,837
-James, is this her idea of a joke?
+James，这是她的恶作剧吗？
 
 1511
 01:26:28,433 --> 01:26:30,674
-Penny darling, come inside.
+Penny，亲爱的，进来吧。
 
 1512
 01:26:33,355 --> 01:26:35,016
-Mildred, for some reason
+Mildred，不知为什么
 
 1513
 01:26:35,107 --> 01:26:37,143
-they don't seem
-to want their jewelry back.
+他们似乎不想把首饰要回去。
 
 1514
 01:26:37,234 --> 01:26:38,815
-But I'm sure you will.
+但我确定你会的。
 
 1515
 01:26:38,902 --> 01:26:41,063
-A memento of my wedding day.
+我婚礼那天的纪念物。
 
 1516
 01:26:42,906 --> 01:26:44,988
-Dear Penelope, you always did
+亲爱的 Penelope，你总是
 
 1517
 01:26:45,075 --> 01:26:47,282
-have such a quaint sense of humor.
+有那么古怪的幽默感。
 
 1518
 01:26:47,369 --> 01:26:49,576
-I never saw those emeralds in my life.
+我这辈子从没见过那些绿宝石。
 
 1519
 01:26:53,125 --> 01:26:56,208
-- Mildred!
-- Penny, please.
+- Mildred！ - Penny，求你了。
 
 1520
 01:26:56,294 --> 01:26:59,411
-James, something's wrong.
+James，有些不对劲。
 
 1521
 01:26:59,506 --> 01:27:01,462
-Something's terribly wrong.
+非常严重的不对劲。
 
 1522
 01:27:01,550 --> 01:27:03,211
-I'm frightened.
+我很害怕。
 
 1523
 01:27:03,301 --> 01:27:04,666
-Penelope, wait!
+Penelope，等等！
 
 1524
 01:27:07,305 --> 01:27:10,342
-- Penelope! Penelope, wait!
-- Jimmy, let her go.
+- Penelope！ Penelope，等等！ - Jimmy，让她走。
 
 1525
 01:27:10,434 --> 01:27:12,328
-She knows she's made a fool
-of herself and she's embarrassed.
+她知道自己出丑了，感到很尴尬。
 
 1526
 01:27:12,352 --> 01:27:14,638
-- I've got to stop her.
-- Oh, you'll be sorry if you do.
+- 我得阻止她。
+- 哦，如果你阻止她你会后悔的。
 
 1527
 01:27:14,730 --> 01:27:16,140
-I'll be sorry if I don't.
+如果我不阻止她，我会后悔。
 
 1528
 01:28:04,029 --> 01:28:06,236
-All night long.
+整晚。
 
 1529
 01:28:06,323 --> 01:28:09,065
-I tell you I'm frantic with worry.
+我跟你说我担心得要命。
 
 1530
 01:28:09,159 --> 01:28:10,365
-If you think of anything...
+如果你想起什么...
 
 1531
 01:28:10,452 --> 01:28:12,443
-Well, it's obvious
-she thinks you've failed her.
+很明显她觉得你辜负了她。
 
 1532
 01:28:12,537 --> 01:28:13,743
-She's confused.
+她很困惑。
 
 1533
 01:28:13,830 --> 01:28:15,070
-And in her confusion
+而在她的困惑中
 
 1534
 01:28:15,165 --> 01:28:17,622
-she'll turn to the one person
-she can trust.
+她会转向她唯一信任的人。
 
 1535
 01:28:17,709 --> 01:28:19,825
-Yours truly. Just calm down, Elcott.
+就是我。冷静点，Elcott。
 
 1536
 01:28:19,920 --> 01:28:21,626
-We're doing everything we can.
+我们正在尽一切努力。
 
 1537
 01:28:21,713 --> 01:28:23,078
-If your wife feels in any danger,
+如果你妻子觉得有危险，
 
 1538
 01:28:23,173 --> 01:28:26,085
-no offense, it's me that
-she'll come to for protection.
+无冒犯之意，她会来找我寻求保护。
 
 1539
 01:28:44,861 --> 01:28:46,476
-Miss Serena.
+Serena 小姐。
 
 1540
 01:28:46,571 --> 01:28:48,812
-- Oh, what a sweet name.
-- Thank you.
+- 哦，多甜的名字。 - 谢谢。
 
 1541
 01:28:48,907 --> 01:28:51,023
-I always think that names
-have a great influence...
+我总认为名字有很大影响...
 
 1542
 01:29:05,549 --> 01:29:07,631
-Who do you think... ow!
+你以为是谁... 哎呦！
 
 1543
 01:29:07,717 --> 01:29:09,799
-Alright, let me... watch out.
+好，让我来... 小心。
 
 1544
 01:29:10,554 --> 01:29:13,045
-I'm not afraid of you, you big bully.
+我不怕你，你这个大恶霸。
 
 1545
 01:29:13,139 --> 01:29:16,131
-The idea of an old woman taking a...
+一个老太太拿走...（这个主意）
 
 1546
 01:29:16,893 --> 01:29:18,349
-Shame on you!
+可耻！
 
 1547
 01:29:36,454 --> 01:29:38,570
-Shatterproof, ha!
+防碎的，哈！
 
 1548
 01:29:38,665 --> 01:29:41,077
-Shut that damn thing off!
+把那该死的东西关掉！
 
 1549
 01:29:41,167 --> 01:29:42,532
-Thank you.
+谢谢。
 
 1550
 01:29:48,508 --> 01:29:53,298
-Oh, my fertile eggs
-and my yogurt. I'll sue you.
+啊，我的可育鸡蛋和酸奶。我要告你。
 
 1551
 01:29:53,388 --> 01:29:57,347
-Now let's see who's under
-this ridiculous-looking mask.
+现在看看是谁戴着这张可笑的面具。
 
 1552
 01:30:00,020 --> 01:30:02,136
-She didn't say nothin'
-about nose-tweaking
+她给我十块钱的时候可没提过要捏鼻子這事。
 
 1553
 01:30:02,230 --> 01:30:03,686
-when she give me the ten bucks.
+她给我十块钱的时候可没提过。
 
 1554
 01:30:03,773 --> 01:30:05,604
-She? Who?
+她？谁？
 
 1555
 01:30:05,692 --> 01:30:08,980
-A practical joke, she said,
-and I believed her.
+她说是个恶作剧，我信了她。
 
 1556
 01:30:09,070 --> 01:30:12,187
-Her with those big, sad brown eyes,
+她那双又大又悲伤的褐色眼睛，
 
 1557
 01:30:12,282 --> 01:30:14,819
-and how she could cry.
+她还能那么会哭。
 
 1558
 01:30:17,120 --> 01:30:18,985
-What did she look like?
+她长什么样？
 
 1559
 01:30:19,080 --> 01:30:23,915
-Young, pretty, white evening gown
+年轻、漂亮，穿着白色晚礼服，
 
 1560
 01:30:24,002 --> 01:30:26,960
-and about so big.
+大概就是这样子。
 
 1561
 01:30:29,257 --> 01:30:30,713
-Penelope.
+Penelope。
 
 1562
 01:30:36,056 --> 01:30:38,422
-- Oh!
-- Darling, it's me.
+- 哦！ - 亲爱的，是我。
 
 1563
 01:30:39,726 --> 01:30:41,057
-It isn't you.
+不是你。
 
 1564
 01:30:41,144 --> 01:30:44,227
-We've been robbed. Back there
-while we were all up here.
+我们被抢了。就在后面，当我们都在这儿的时候。
 
 1565
 01:30:45,440 --> 01:30:46,771
-Penelope.
+Penelope。
 
 1566
 01:30:55,075 --> 01:30:56,906
-Elcott, wait a minute.
+Elcott，等一下。
 
 1567
 01:30:56,993 --> 01:30:58,654
-I know. Follow the cab.
+我知道。跟着那辆出租车。
 
 1568
 01:30:58,745 --> 01:31:00,485
-No, no, I'm looking for a girl.
+不，不，我在找一个女孩。
 
 1569
 01:31:00,580 --> 01:31:01,820
-Who ain't?
+谁不是？
 
 1570
 01:31:01,915 --> 01:31:04,076
-And she'd have just
-come out of the bank.
+她应该刚从银行出来。
 
 1571
 01:31:04,167 --> 01:31:06,249
-- With a real nice wiggle?
-- Yes, yes.
+- 甩得很迷人？ - 是的，是的。
 
 1572
 01:31:06,336 --> 01:31:07,826
-Which, which-which way did she go?
+她，她，她往哪边走了？
 
 1573
 01:31:07,921 --> 01:31:09,411
-Downtown.
+往市区方向。
 
 1574
 01:31:14,344 --> 01:31:15,834
-Downtown?
+往市区？
 
 1575
 01:31:18,014 --> 01:31:19,754
-What you starin' at, Mac?
+你盯着什么看，Mac？
 
 1576
 01:31:21,101 --> 01:31:22,386
-That face.
+那张脸。
 
 1577
 01:31:25,480 --> 01:31:29,098
-Oh, for-for a moment,
-you looked just like my wife.
+哦，刚才那一刻，你看起来就像我太太。
 
 1578
 01:31:30,360 --> 01:31:32,601
-And I thought mine was a dog.
+我还以为我娶的是条狗。
 
 1579
 01:31:34,572 --> 01:31:36,028
-Downtown, you said?
+你说往市区？
 
 1580
 01:31:36,366 --> 01:31:38,982
-Uh, take me to centre street,
-police headquarters.
+呃，带我去中心街，警察局总部。
 
 1581
 01:31:41,788 --> 01:31:43,198
-Penelope?
+Penelope？
 
 1582
 01:31:44,374 --> 01:31:46,490
-I was right. You came to me.
+我说得对。你来找我了。
 
 1583
 01:31:46,584 --> 01:31:47,824
-Who else would I come to?
+我还能去找谁？
 
 1584
 01:31:47,919 --> 01:31:49,063
-You want me to go ahead without you?
+你要我先走吗，不等你？
 
 1585
 01:31:49,087 --> 01:31:50,668
-Listen, you're not gonna believe this,
+听着，你不会相信的，
 
 1586
 01:31:50,755 --> 01:31:53,041
-but somebody just knocked over
-your husband's bank.
+可有人刚抢了你丈夫的银行。
 
 1587
 01:31:53,133 --> 01:31:55,920
-Well, you won't believe this,
-but I believe you.
+嗯，你可能不信，但我信你。
 
 1588
 01:31:57,762 --> 01:31:59,718
-You robbed your husband's bank?
+你抢了你丈夫的银行？
 
 1589
 01:31:59,806 --> 01:32:00,921
-Twice.
+不止一次。两次。
 
 1590
 01:32:05,729 --> 01:32:09,813
-Sergeant, I just solved the Elcott case.
+中士，我刚破了 Elcott 案。
 
 1591
 01:32:10,692 --> 01:32:13,775
-When I grow up,
-I wanna be a cop just like you.
+长大后我想当个像你这样的警察。
 
 1592
 01:32:14,529 --> 01:32:16,465
-You'll have to release
-honeysuckle now, won't you?
+你现在得放了 Honeysuckle，是吧？
 
 1593
 01:32:16,489 --> 01:32:18,150
-Scout's honor.
+以童子军的名誉发誓。
 
 1594
 01:32:19,617 --> 01:32:21,824
-I'm going, I'm going.
+我来了，我来了。
 
 1595
 01:32:23,872 --> 01:32:29,117
-Well, I, uh, I guess we won't
-be seeing one another anymore.
+嗯，我想我们可能不会再见面了。
 
 1596
 01:32:29,210 --> 01:32:30,620
-Aren't you gonna arrest me?
+你们不会要逮捕我吗？
 
 1597
 01:32:30,712 --> 01:32:32,828
-Not unless the bank president
-presses charges,
+除非银行行长提出起诉，
 
 1598
 01:32:32,922 --> 01:32:34,537
-which is hardly likely.
+否则几乎不太可能。
 
 1599
 01:32:36,051 --> 01:32:37,712
-Thank you, Horatio.
+谢谢你，Horatio。
 
 1600
 01:32:38,845 --> 01:32:40,301
-You're welcome, Penelope.
+不客气，Penelope。
 
 1601
 01:32:43,183 --> 01:32:45,845
-Well, it was a great criminal career
-while it lasted.
+好吧，这段犯罪生涯虽短，但很精彩。
 
 1602
 01:32:54,402 --> 01:32:56,563
-One of the best.
+算是最棒的之一。
 
 1603
 01:33:18,426 --> 01:33:20,633
-Mr. Elcott, come on in.
+Elcott 先生，进来吧。
 
 1604
 01:33:26,726 --> 01:33:28,933
-I've never seen you
-take a drink before 5:00.
+我从没见你在五点之前喝东西。
 
 1605
 01:33:29,479 --> 01:33:31,219
-It's gotta be 5:00 someplace.
+总有地方是五点钟。
 
 1606
 01:33:33,733 --> 01:33:35,348
-But you're not Penelope.
+可你不是 Penelope。
 
 1607
 01:33:36,319 --> 01:33:37,604
-Hear that?
+听到了吗？
 
 1608
 01:33:37,695 --> 01:33:40,311
-And this guy sends his wife
-to the crazy doctor.
+这个人居然把他妻子送去看疯医生。
 
 1609
 01:33:47,080 --> 01:33:49,162
-I don't think whisky's your answer.
+我不认为威士忌是你的解药。
 
 1610
 01:33:51,292 --> 01:33:53,203
-Gregory.
+Gregory。
 
 1611
 01:33:53,294 --> 01:33:54,294
-Gregory?
+Gregory？
 
 1612
 01:33:54,379 --> 01:33:55,960
-I told him you would turn to me.
+我告诉他你会来找我。
 
 1613
 01:33:56,047 --> 01:33:59,164
-Oh, who else could I turn to?
+哦，我还能去找谁呢？
 
 1614
 01:33:59,259 --> 01:34:00,920
-Thank heaven you're safe and sound.
+感谢上天你平安无事。
 
 1615
 01:34:01,010 --> 01:34:02,750
-Safe but not sound.
+安全但不正常。
 
 1616
 01:34:02,846 --> 01:34:05,303
-Gregory, I'm really frightened.
+Gregory，我真的很害怕。
 
 1617
 01:34:05,390 --> 01:34:07,722
-There must be something
-terribly wrong with me.
+我一定有很严重的问题。
 
 1618
 01:34:07,809 --> 01:34:09,925
-I mean, I just cannot
-get it through my head
+我的意思是，我就是无法理解
 
 1619
 01:34:10,019 --> 01:34:12,556
-that I didn't actually steal all those jewels.
+我并没有真的偷那些珠宝这件事。
 
 1620
 01:34:12,647 --> 01:34:14,353
-And yet I know I couldn't have.
+然而我知道我不可能偷。
 
 1621
 01:34:14,440 --> 01:34:16,101
-You did steal the jewels.
+你确实偷了那些珠宝。
 
 1622
 01:34:18,862 --> 01:34:20,005
-They stuck the insurance companies
+他们让保险公司
 
 1623
 01:34:20,029 --> 01:34:21,394
-with their claims but good,
+承担了这些索赔，吃了大亏，
 
 1624
 01:34:21,489 --> 01:34:23,855
-so naturally, they didn't
-want the stuff back.
+所以自然他们不想要这些东西回去。
 
 1625
 01:34:31,040 --> 01:34:32,621
-Then I'm completely cured.
+那我就完全痊愈了。
 
 1626
 01:34:33,918 --> 01:34:35,078
-You are?
+真的吗？
 
 1627
 01:34:35,170 --> 01:34:37,035
-Yes. Didn't I tell you?
+是的。我不是告诉过你吗？
 
 1628
 01:34:37,130 --> 01:34:40,247
-I just finished
-robbing James' bank again.
+我刚又把 James 的银行抢了一次。
 
 1629
 01:34:40,341 --> 01:34:42,502
-But you're completely cured?
+可你已经完全康复了？
 
 1630
 01:34:42,594 --> 01:34:43,959
-Of course.
+当然了。
 
 1631
 01:34:44,053 --> 01:34:45,759
-Because the whole time I was doing it
+因为当我做那事的时候
 
 1632
 01:34:45,847 --> 01:34:47,428
-I was crying like anything.
+我哭得很厉害。
 
 1633
 01:34:47,515 --> 01:34:48,721
-Don't you get it?
+你不明白吗？
 
 1634
 01:34:48,808 --> 01:34:51,390
-You see, the stealing didn't
-make me cheerful anymore.
+看，偷东西不再让我开心了。
 
 1635
 01:34:51,477 --> 01:34:52,717
-It made me feel rotten.
+它让我感觉很糟糕。
 
 1636
 01:34:52,812 --> 01:34:55,178
-So that means I'm not a kleptomaniac.
+所以这意味着我不是窃盗癖。
 
 1637
 01:34:55,273 --> 01:34:56,729
-Isn't that wonderful?
+这不是很好吗？
 
 1638
 01:34:57,609 --> 01:34:59,315
-That's terrible.
+那真糟糕。
 
 1639
 01:34:59,402 --> 01:35:02,314
-No more stealing. No more hobbies.
+不再偷东西。不再有爱好。
 
 1640
 01:35:02,405 --> 01:35:04,191
-No more marriage.
+也不再有婚姻。
 
 1641
 01:35:04,282 --> 01:35:06,147
-Just feeling rotten.
+只有感到糟糕。
 
 1642
 01:35:06,242 --> 01:35:07,948
-Is that wonderful?
+这好吗？
 
 1643
 01:35:09,120 --> 01:35:10,656
-What next?
+接下来怎么办？
 
 1644
 01:35:10,997 --> 01:35:12,703
-Well, you could marry me.
+嗯，你可以嫁给我。
 
 1645
 01:35:12,790 --> 01:35:14,530
-I know it sounds unethical,
+我知道这听起来不道德，
 
 1646
 01:35:14,626 --> 01:35:15,991
-and you'd probably have difficulty
+而且你可能会难以
 
 1647
 01:35:16,085 --> 01:35:18,076
-readjusting me from a father figure
+把我从父亲般的角色调整为情人形象。
 
 1648
 01:35:18,171 --> 01:35:19,627
-to a lover image.
+把我从父亲形象调整为情人形象。
 
 1649
 01:35:20,423 --> 01:35:22,539
-And I'm probably too tall for you.
+而且我可能对你来说太高了。
 
 1650
 01:35:22,634 --> 01:35:24,170
-Too old.
+太老了。
 
 1651
 01:35:24,260 --> 01:35:26,000
-I'm sure you don't have
-enough closet space
+我敢肯定你没有足够的壁橱空间
 
 1652
 01:35:26,095 --> 01:35:27,960
-for my clothes in your apartment.
+给我的衣服放在你公寓里。
 
 1653
 01:35:28,389 --> 01:35:30,254
-I do snore a lot and...
+我会打呼噜，而且...
 
 1654
 01:35:31,851 --> 01:35:34,058
-I have this ulcer.
+我有胃溃疡。
 
 1655
 01:35:37,106 --> 01:35:39,597
-Dr. Knoblock!
+Dr. Knoblock！
 
 1656
 01:35:41,194 --> 01:35:42,855
-I need help!
+我需要帮助！
 
 1657
 01:35:44,572 --> 01:35:46,052
-How could you do this to me, Penelope?
+Penelope，你怎么能这样对我？
 
 1658
 01:35:46,115 --> 01:35:49,107
-You know I can't stand rejection.
+你知道我受不了被拒绝。
 
 1659
 01:35:57,210 --> 01:35:58,620
-Penelope.
+Penelope。
 
 1660
 01:36:00,213 --> 01:36:01,874
-Dr. Mannix.
+Dr. Mannix。
 
 1661
 01:36:03,216 --> 01:36:05,878
-Uh, you, you've got to help me.
+呃，你，你得帮我。
 
 1662
 01:36:05,969 --> 01:36:09,382
-Everywhere I look,
-all I can see is Penelope.
+我看哪里，眼里全是 Penelope。
 
 1663
 01:36:09,472 --> 01:36:12,179
-In the bank, in the cab,
-at the police station.
+在银行、出租车上、在警察局。
 
 1664
 01:36:12,267 --> 01:36:13,387
-And just now when I came in,
+就在刚才我进来时，
 
 1665
 01:36:13,476 --> 01:36:15,637
-even you looked like Penelope to me.
+连你在我眼里也像 Penelope。
 
 1666
 01:36:15,728 --> 01:36:18,060
-I know it's all mixed up
-with loving her and missing her
+我知道这一切都和爱她、想念她混在一起
 
 1667
 01:36:18,147 --> 01:36:20,058
-and, and feeling guilty
+还有，那种内疚感
 
 1668
 01:36:20,149 --> 01:36:23,186
-about shoving her aside
-for that stupid bank.
+因为那家愚蠢的银行而把她挤到一边。
 
 1669
 01:36:24,612 --> 01:36:26,898
-I probably shouldn't be
-boring you with all this.
+我可能不该把这些无聊事说给你听。
 
 1670
 01:36:26,990 --> 01:36:28,355
-Oh, no, don't stop now.
+哦，不，别停下来。
 
 1671
 01:36:28,449 --> 01:36:30,405
-You're just getting to the good part.
+你正说到精彩部分。
 
 1672
 01:36:30,493 --> 01:36:32,905
-Ah, now I'm really gone.
+啊，现在我真的迷失了。
 
 1673
 01:36:32,996 --> 01:36:34,987
-You even sound like her.
+你甚至听起来像她。
 
 1674
 01:36:35,081 --> 01:36:38,244
-If there was only some way,
-if I could only find her
+要是有什么办法，要是我能找到她
 
 1675
 01:36:38,334 --> 01:36:40,825
-and tell her how much I need her.
+告诉她我有多需要她。
 
 1676
 01:36:49,637 --> 01:36:51,343
-Dr. Mannix, you need help.
+Dr. Mannix，你需要帮助。
 
 1677
 01:36:51,431 --> 01:36:52,825
-Everybody does these days.
+现在大家都需要。
 
 1678
 01:36:52,849 --> 01:36:54,326
-The only difference is, we well-adjusted
+唯一不同的是，我们这些适应得较好的人
 
 1679
 01:36:54,350 --> 01:36:56,591
-maladjusted ones realize it in time.
+还能及时意识到。
 
 1680
 01:36:58,313 --> 01:37:00,474
-And besides, the best help of all
+而且，最好的帮助
 
 1681
 01:37:00,565 --> 01:37:02,476
-is the kind you can only get at home.
+就是在家里才能得到的那种帮助。
 
 1682
 01:37:14,787 --> 01:37:16,698
-What does it mean
-when you forget your shoes?
+忘记鞋子意味着什么？
 
 1683
 01:37:16,789 --> 01:37:19,326
-- Well...
-- It means we're cured, darling.
+- 嗯... 
+- 这意味着我们都治好了，亲爱的。
 
 1684
 01:37:32,513 --> 01:37:39,055
-<i>♪ Picture a girl whose life
-is as crazy as a mad magician ♪</i>
+<i>♪ 想象一个生活像疯狂魔术师的女孩 ♪</i>
 
 1685
 01:37:39,145 --> 01:37:45,641
-<i>♪ this is Penelope ♪♪ this is Penelope... ♪</i>
+<i>♪ 这就是 Penelope ♪ ♪ 这就是 Penelope... ♪</i>
 
