@@ -7321,7 +7321,7 @@ Maybe she's having zipper trouble. I'll just go and see.
 
 1459
 01:23:21,371 --> 01:23:23,032
-Dr. Mannix。
+Mannix 医生。
 Dr. Mannix.
 
 1460
@@ -8329,7 +8329,7 @@ Penelope.
 
 1660
 01:36:00,213 --> 01:36:01,874
-Dr. Mannix。
+Mannix 医生。
 Dr. Mannix.
 
 1661
@@ -8409,7 +8409,7 @@ and tell her how much I need her.
 
 1676
 01:36:49,637 --> 01:36:51,343
-Dr. Mannix，你需要帮助。
+Mannix 医生，你需要帮助。
 Dr. Mannix, you need help.
 
 1677
