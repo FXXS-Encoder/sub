@@ -4705,7 +4705,8 @@ No, I was just hoping...
 
 1164
 01:09:40,885 --> 01:09:42,216
-- Morning, Toshi. - Morning.
+- Morning, Toshi.
+- Morning.
 
 1165
 01:09:42,303 --> 01:09:43,759
