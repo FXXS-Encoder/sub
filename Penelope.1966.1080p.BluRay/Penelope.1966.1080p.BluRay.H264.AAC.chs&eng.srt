@@ -707,8 +707,7 @@ Send her in.
 
 139
 00:10:50,108 --> 00:10:52,520
-- 下午好，Gregory。
-- 晚上好。
+- 下午好，Gregory。 - 晚上好。
 - Good afternoon, Gregory. - Good evening.
 
 140
@@ -1029,8 +1028,7 @@ and spent the loot on dresses and minks?
 
 203
 00:13:45,700 --> 00:13:47,941
-- 当然不会。
-- 那就好。
+- 当然不会。 - 那就好。
 - Of course not. - Well, thank goodness.
 
 204
@@ -1607,8 +1605,7 @@ Ta.
 
 318
 00:20:31,188 --> 00:20:33,099
-- 再见，我的爱。
-- 再见。
+- 再见，我的爱。 - 再见。
 - Goodbye, my love. - Goodbye.
 
 319
@@ -1623,14 +1620,12 @@ please don't forget to live happily ever after.
 
 321
 00:20:38,320 --> 00:20:39,981
-- 我会的，再见。再见。
-- 再见，James。
+- 我会的，再见。再见。 - 再见，James。
 - I will, bye. Bye. - Goodbye, James.
 
 322
 00:20:40,072 --> 00:20:41,687
-- 再见，Douglas。
-- 再见！
+- 再见，Douglas。 - 再见！
 - Goodbye, Douglas. - Bye!
 
 323
@@ -1650,8 +1645,7 @@ the necklace and earrings were still in the potted palm jar.
 
 326
 00:20:53,335 --> 00:20:56,953
-- 你从未归还它们吗？
-- 没有。我为什么要还？
+- 你从未归还它们吗？ - 没有。我为什么要还？
 - And you never returned them? - No. Why should 1?
 
 327
@@ -1666,8 +1660,7 @@ I'm sorry, Gregory.
 
 329
 00:21:04,805 --> 00:21:06,887
-- 我会尽量做得更好。
-- 好吧。
+- 我会尽量做得更好。 - 好吧。
 - I'll try to do better. - Alright.
 
 330
@@ -1947,8 +1940,7 @@ You see, I've fallen in love with this bank robber...
 
 385
 00:24:28,467 --> 00:24:31,049
-- 哦，我能帮你吗？
-- 哦，是的，夫人。
+- 哦，我能帮你吗？ - 哦，是的，夫人。
 - Oh, may I help you? - Oh, oui, madame.
 
 386
@@ -1968,8 +1960,7 @@ Uh, to whom shall we make out the receipt?
 
 389
 00:24:37,518 --> 00:24:40,351
-- 再见。
-- 这可以免税，你知道的。
+- 再见。 - 这可以免税，你知道的。
 - Bye. - It's tax deductible, you know.
 
 390
@@ -1989,14 +1980,12 @@ It's gorgeous. I'll take it.
 
 393
 00:24:48,529 --> 00:24:50,611
-- 你来晚了！
-- 嘿！
+- 你来晚了！ - 嘿！
 - You are too late! - Say!
 
 394
 00:24:50,698 --> 00:24:52,050
-- 哦，求你了！
-- 你在干什么？
+- 哦，求你了！ - 你在干什么？
 - Oh, please! - What are you doing?
 
 395
