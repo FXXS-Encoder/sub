@@ -4639,14 +4639,12 @@ Most of the time I like my job?
 
 925
 00:56:17,583 --> 00:56:21,451
-- 那是什么？
-- 那个？泡泡糖。
+- 那是什么？ - 那个？泡泡糖。
 - What's that? - That? It's bubblegum.
 
 926
 00:56:21,545 --> 00:56:24,628
-- 我可以来一点吗？
-- 好，自己拿吧。
+- 我可以来一点吗？ - 好，自己拿吧。
 - May I have some? - Yeah, help yourself.
 
 927
@@ -4736,8 +4734,7 @@ and fill the pocket with air.
 
 944
 00:57:12,179 --> 00:57:13,715
-- 我做到了！
-- 初学者走运。
+- 我做到了！ - 初学者走运。
 - I did it! - Beginner's luck.
 
 945
@@ -5113,8 +5110,7 @@ one of the bank's biggest depositors.
 
 1019
 01:00:23,578 --> 01:00:25,239
-- 我最后吃的那根热狗……
-- 哦，拜托。
+- 我最后吃的那根热狗…… - 哦，拜托。
 - The last hot dog I ate... - Oh, come on.
 
 1020
@@ -5125,25 +5121,21 @@ Oh, please, miss...
 1021
 01:00:51,940 --> 01:00:54,807
 从那以后，我们就不怎么见到 Keller 小姐了。
-1022
-01:00:54,898 --> 01:00:56,??0
-即便我们去跳舞，比如街区那晚，
-1023
-01:00:57,???:??? --> 01:00:59,???
-迟早，James 的银行界朋友们
 After that, we didn't see so much of miss Keller.
 
 1022
-01:00:55,402 --> 01:00:58,735
+01:00:54,898 --> 01:00:58,735
+即便我们去跳舞，比如街区那晚，
 Even when we'd go dancing, like the night at the block,
 
 1023
 01:00:58,822 --> 01:01:00,528
+迟早，James 的银行界朋友们
 sooner or later, James' banking friends
 
 1024
 01:01:00,615 --> 01:01:02,822
-总会设法破坏我们的乐趣。
+会破坏我们的乐趣。
 would manage to spoil our fun.
 
 1025
