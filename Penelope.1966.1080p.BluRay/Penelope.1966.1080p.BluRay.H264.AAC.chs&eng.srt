@@ -1,0 +1,8518 @@
+﻿1
+00:00:16,308 --> 00:00:18,173
+<i>♪ 噗 ♪</i>
+<i>♪ Pum ♪</i>
+
+2
+00:00:19,603 --> 00:00:22,390
+<i>♪ 噗 ♪</i>
+<i>♪ pum ♪</i>
+
+3
+00:00:22,481 --> 00:00:25,644
+<i>♪ Penelope ♪ ♪ 谁是 Penelope ？ ♪</i>
+<i>♪ Penelope ♪ ♪ who is Penelope? ♪</i>
+
+4
+00:00:25,734 --> 00:00:28,976
+<i>♪ Penelope ♪ ♪ 谁是 Penelope ？ ♪</i>
+<i>♪ Penelope ♪ ♪ who is Penelope? ♪</i>
+
+5
+00:00:29,071 --> 00:00:35,863
+<i>♪ 想象一个步伐像母虎的女孩 ♪</i>
+<i>♪ Picture a girl who walks with the rhythm of a lady tiger ♪</i>
+
+6
+00:00:35,953 --> 00:00:42,324
+<i>♪ 想象一个说话像蜜蜂般甜美的女孩 ♪</i>
+<i>♪ picture a girl who talks with the sweetness of a honey bee ♪</i>
+
+7
+00:00:42,417 --> 00:00:48,879
+<i>♪ 想象一个你永远无法忘记的女孩 ♪</i>
+<i>♪ picture a girl your mind could never dismiss ♪</i>
+
+8
+00:00:48,966 --> 00:00:55,303
+<i>♪ 这就是 Penelope ♪♪ 这就是 Penelope ♪</i>
+<i>♪ this is Penelope ♪ ♪ this is Penelope ♪</i>
+
+9
+00:00:55,389 --> 00:00:59,052
+<i>♪ Penelope ♪♪ 这就是 Penelope ♪</i>
+<i>♪ Penelope ♪ ♪ this is Penelope ♪</i>
+
+10
+00:00:59,142 --> 00:01:02,600
+<i>♪ 天使制造者计划她的那一天 ♪</i>
+<i>♪ the day the angel-makers planned her ♪</i>
+
+11
+00:01:02,688 --> 00:01:05,896
+<i>♪ 她让整个宇宙都沸腾了 ♪</i>
+<i>♪ she set the universe abuzz ♪</i>
+
+12
+00:01:05,983 --> 00:01:09,146
+<i>♪ 没有人能理解她 ♪</i>
+<i>♪ there is no way to understand her ♪</i>
+
+13
+00:01:09,236 --> 00:01:14,526
+<i>♪ 事实上唯一懂她的人就是 Penelope ♪</i>
+<i>♪ in fact the only one who does is Penelope ♪</i>
+
+14
+00:01:14,616 --> 00:01:17,073
+<i>♪ 谁是 Penelope ？ ♪</i>
+<i>♪ who is Penelope? ♪</i>
+
+15
+00:01:17,160 --> 00:01:20,323
+<i>♪ Penelope ♪♪ 谁是 Penelope ？ ♪</i>
+<i>♪ Penelope ♪ ♪ who is Penelope? ♪</i>
+
+16
+00:01:20,414 --> 00:01:23,781
+<i>♪ Penelope ♪♪ 谁是 Penelope ？ ♪</i>
+<i>♪ Penelope ♪ ♪ who is Penelope? ♪</i>
+
+17
+00:01:23,875 --> 00:01:27,163
+<i>♪ Penelope ♪♪ 谁是 Penelope ？ ♪</i>
+<i>♪ Penelope ♪ ♪ who is Penelope? ♪</i>
+
+18
+00:01:27,254 --> 00:01:33,875
+<i>♪ 想象一个生活像疯狂魔术师的女孩 ♪</i>
+<i>♪ Picture a girl whose life is as crazy as a mad magician ♪</i>
+
+19
+00:01:33,969 --> 00:01:40,431
+<i>♪ 想象一个心像自由鸟般难以捉摸的女孩 ♪</i>
+<i>♪ picture a girl whose heart is elusive as a bird is free ♪</i>
+
+20
+00:01:40,517 --> 00:01:46,808
+<i>♪ 想象一个你心中的幸福化身 ♪</i>
+<i>♪ picture a girl who's your conception of bliss ♪</i>
+
+21
+00:01:46,898 --> 00:01:53,235
+<i>♪ 这就是 Penelope ♪♪ 这就是 Penelope ♪</i>
+<i>♪ this is Penelope ♪ ♪ this is Penelope ♪</i>
+
+22
+00:01:53,322 --> 00:01:56,940
+<i>♪ Penelope ♪♪ 这就是 Penelope ♪</i>
+<i>♪ Penelope ♪ ♪ this is Penelope ♪</i>
+
+23
+00:01:57,034 --> 00:02:00,071
+<i>♪ Penelope ♪♪ 这就是 Penelope ♪</i>
+<i>♪ Penelope ♪ ♪ this is Penelope ♪</i>
+
+24
+00:02:00,162 --> 00:02:03,746
+<i>♪ Penelope ♪♪ 这就是 Penelope ♪</i>
+<i>♪ Penelope ♪ ♪ this is Penelope ♪</i>
+
+25
+00:02:30,776 --> 00:02:34,519
+金库确实从坚硬的花岗岩中被炸出
+The vaults literally blasted out of the solid granite
+
+26
+00:02:34,613 --> 00:02:36,774
+曼哈顿岛的花岗岩。
+of Manhattan island.
+
+27
+00:02:37,407 --> 00:02:39,739
+是的，先生们，
+就像我那位苏格兰老祖父
+Yes, gentlemen, as my old Scottish grandfather
+
+28
+00:02:39,826 --> 00:02:42,863
+可能会说，
+“把你的钱放在我们这里
+might have said, "your money is safer with us
+
+29
+00:02:42,954 --> 00:02:45,821
+比交给尼斯湖水怪本人守护还要安全。”
+than if it were guarded by the loch Ness monster herself."
+
+30
+00:02:49,086 --> 00:02:51,246
+现在，请随我进行政套间。
+And now if you will follow me into the executive suite.
+
+31
+00:02:53,632 --> 00:02:56,089
+哦，希望您不介意。
+Oh, I hope you don't mind.
+
+32
+00:02:57,761 --> 00:03:01,094
+哦，塞雷娜小姐。
+真是个好听的名字。
+Oh, miss Serena. What a sweet name.
+
+33
+00:03:01,264 --> 00:03:02,549
+谢谢。
+Thank you.
+
+34
+00:03:02,641 --> 00:03:06,304
+我认为名字对性格有很大影响。
+I think names have a great influence on character.
+
+35
+00:03:06,395 --> 00:03:08,306
+- 难道不是吗？
+- 嗯，怎么说？
+- Don"t you? - Well, how's that?
+
+36
+00:03:08,397 --> 00:03:12,857
+名叫塞雷娜的小姐应该沉着而宁静。
+A lady named miss Serena ought to be calm and serene.
+
+37
+00:03:12,943 --> 00:03:15,309
+- 你是吗？
+- 我尽力而为。
+- Are you? - Well, I try to be.
+
+38
+00:03:15,404 --> 00:03:18,316
+那就好，
+因为这是抢劫。
+That's good, because this is a stickup.
+
+39
+00:03:18,407 --> 00:03:20,147
+现在，呃，别动。
+Now, ah, don't move.
+
+40
+00:03:20,242 --> 00:03:22,198
+别把脚放到那个警报按钮上
+And don't put your foot on that alarm button
+
+41
+00:03:22,285 --> 00:03:24,241
+否则我就不得不开枪。
+or I shall be forced to blast you.
+
+42
+00:03:24,329 --> 00:03:28,868
+亲爱的，把那些好看的新的500美元钞票捆给我。
+Dearie, hand me those nice new stacks of $500 bills.
+
+43
+00:03:32,462 --> 00:03:33,827
+更多。
+More.
+
+44
+00:03:36,133 --> 00:03:37,873
+哦。
+Ooh.
+
+45
+00:03:37,968 --> 00:03:41,552
+那些印着格罗弗·克利夫兰头像的钞票是什么？1000美元吗？
+What are those bills with dear grover Cleveland's picture
+
+46
+00:03:41,638 --> 00:03:44,300
+也给我一把那种。
+on them? $1000 bills?
+
+47
+00:03:44,391 --> 00:03:47,508
+让我也来一把那种。
+Let me have a handful of those too.
+
+48
+00:03:53,400 --> 00:03:54,731
+哦，还有一件事。
+Oh, one more thing.
+
+49
+00:03:55,694 --> 00:03:58,151
+女士洗手间怎么走？
+Which way is the ladies' room?
+
+50
+00:04:01,324 --> 00:04:05,112
+谢谢你，亲爱的。
+你帮了大忙。
+Thank you, dearie. You've been very helpful.
+
+51
+00:04:23,388 --> 00:04:26,095
+啦啦啦！
+Ra-ra-ra!
+
+52
+00:04:26,183 --> 00:04:28,549
+为啥要三呼？不！
+Three cheers for what? =no!
+
+53
+00:04:28,643 --> 00:04:30,759
+抢了！
+R-robbed!
+
+54
+00:04:30,854 --> 00:04:32,765
+被抢了？有人快去叫 Elcott 先生。
+Robbed? Someone call Mr. Elcott.
+
+55
+00:04:32,856 --> 00:04:34,187
+是谁干的？指出来。
+Who did it? Point him out.
+
+56
+00:04:35,650 --> 00:04:37,015
+大家往后退。
+Stand back, everybody.
+
+57
+00:05:03,929 --> 00:05:06,841
+不是他。是位女士。
+Not him. Lady.
+
+58
+00:05:06,932 --> 00:05:09,844
+- 老年女士。
+- 你能描述她吗？
+- Old lady. - Can you describe her?
+
+59
+00:05:09,935 --> 00:05:12,472
+- 老，老...
+- 冷静点，冷静！
+- Old, old... - Calm down, calm down!
+
+60
+00:05:12,562 --> 00:05:14,928
+放轻松。 - 老...
+Relax. -Old...
+
+61
+00:05:35,085 --> 00:05:37,542
+快，放开电子门。
+Come on, release the electronic doors.
+
+62
+00:05:37,629 --> 00:05:39,165
+马上， Elcott 先生。
+At once, Mr. Elcott.
+
+63
+00:05:40,590 --> 00:05:43,127
+好了，女士，举起手出来。
+Alright, lady, come out with your hands up.
+
+64
+00:05:43,218 --> 00:05:45,880
+有枪！那可怕的老奶奶有枪！
+A gun! That horrible old lady's got a gun!
+
+65
+00:05:45,971 --> 00:05:48,462
+在这座腐败的城市里没地方是安全的。
+A person isn't safe any place in this rotten city.
+
+66
+00:05:50,976 --> 00:05:52,762
+你先来。我还没结婚呢。
+You first. I'm not even married.
+
+67
+00:05:52,853 --> 00:05:55,435
+我找不到那个按钮， Elcott 先生。
+I couldn't find the button, Mr. Elcott.
+
+68
+00:06:15,625 --> 00:06:18,458
+Elcott 先生！ Elcott 先生！
+Mr. Elcott! Mr. Elcott!
+
+69
+00:06:18,545 --> 00:06:20,536
+他们把她困在女厕所里了。
+They've trapped her in the ladies' room.
+
+70
+00:06:30,640 --> 00:06:33,131
+好了，小老太太，
+您要出来吗
+Alright, little old lady, are you coming out
+
+71
+00:06:33,226 --> 00:06:34,932
+还是我们要进去？
+or are we coming in?
+
+72
+00:06:50,118 --> 00:06:51,528
+没有动静。
+Nothing.
+
+73
+00:06:51,620 --> 00:06:53,156
+你有一枚一角硬币吗？
+Do you have a dime?
+
+74
+00:06:55,415 --> 00:06:56,871
+出于对您年纪的尊重，女士
+In deference to your years, madam
+
+75
+00:06:56,958 --> 00:06:58,869
+我劝您别做傻事。
+I urge you not to do anything foolish.
+
+76
+00:07:00,503 --> 00:07:02,619
+- 没有。
+- 我不明白。
+- Nothing. - I don't get it.
+
+77
+00:07:02,714 --> 00:07:04,705
+我想我开始明白了。
+I think I'm beginning to.
+
+78
+00:07:04,799 --> 00:07:06,881
+有人丢了件外套！
+Someone lost a coat!
+
+79
+00:07:10,597 --> 00:07:12,963
+那个穿黄套装的女人！
+她在哪？
+That dame in a yellow suit! Where is she?
+
+80
+00:07:13,058 --> 00:07:16,050
+- 走吧！
+- 快走，伙计们，出去！
+- Let's go! - Come on, men, get out!
+
+81
+00:07:26,279 --> 00:07:28,065
+请接伯格多夫·古德曼（Bergdorf Goodman）。
+Bergdorf Goodman, please.
+
+82
+00:08:29,134 --> 00:08:30,419
+出租车！
+Taxi!
+
+83
+00:08:33,847 --> 00:08:34,882
+你怎么样？
+How are you?
+
+84
+00:08:39,936 --> 00:08:41,096
+出了什么事？
+What seems to be the trouble?
+
+85
+00:08:41,187 --> 00:08:43,269
+市联邦银行发生抢劫。
+Stickup at the city federal bank.
+
+86
+00:08:43,356 --> 00:08:45,221
+想象一下！
+Imagine!
+
+87
+00:08:45,316 --> 00:08:47,773
+五名匪徒，携带机关枪和催泪瓦斯。
+Five bandits with machine guns and tear gas.
+
+88
+00:08:47,861 --> 00:08:48,896
+不！
+No!
+
+89
+00:08:48,987 --> 00:08:52,104
+他们抢走了超过十三万美元！
+Got away with over 130,000 bucks!
+
+90
+00:08:52,198 --> 00:08:54,234
+竟有那么多？
+As much as that?
+
+91
+00:08:54,325 --> 00:08:55,735
+天哪。
+Good gracious.
+
+92
+00:08:58,872 --> 00:09:00,487
+Elcott 先生？
+Mr. Elcott?
+
+93
+00:09:00,582 --> 00:09:03,619
+恭喜，你刚刚打破了世界纪录。
+Congratulations, you've just broken the world's record.
+
+94
+00:09:03,710 --> 00:09:05,575
+开业当天就被抢。
+Robbed the same day you opened.
+
+95
+00:09:05,670 --> 00:09:07,206
+把这个疯子扔出去！
+Throw this nut out!
+
+96
+00:09:07,297 --> 00:09:09,629
+他不是疯子。
+他是警察中尉。
+He's not a nut. He's a police lieutenant.
+
+97
+00:09:09,716 --> 00:09:11,752
+听起来不像个了不起的警察中尉。
+He doesn't sound like much of a police lieutenant.
+
+98
+00:09:11,843 --> 00:09:14,676
+你看起来也不像个很有派头的银行行长。
+And you don't look like much of a bank president.
+
+99
+00:09:14,763 --> 00:09:16,970
+还有一条好看的瘦腿。
+你注意到了吗？
+And a good bony leg. Did you notice?
+
+100
+00:09:17,057 --> 00:09:19,218
+为了保卫我的银行我丢了一条裤子。
+I lost my trouser defending my bank.
+
+101
+00:09:19,309 --> 00:09:20,745
+本来不必如此
+Something that wouldn't have been necessary
+
+102
+00:09:20,769 --> 00:09:21,829
+如果警方及时到位。
+had the police been on the job.
+
+103
+00:09:21,853 --> 00:09:24,640
+好了，好了， Elcott 先生，
+您弄反了。
+Now, now, Mr. Elcott, you've got it backwards.
+
+104
+00:09:24,731 --> 00:09:28,724
+先有银行案，然后才是警察的事。
+First, there is a bank job, then there is a police job.
+
+105
+00:09:28,818 --> 00:09:30,978
+你能别这么大声吗？
+这对生意不好。
+Do you mind lowering your voice? It's bad for business.
+
+106
+00:09:31,029 --> 00:09:32,314
+进来吧。
+Come inside.
+
+107
+00:09:33,823 --> 00:09:35,176
+你应该在离开之前就想过这事
+You should have thought of that before you left
+
+108
+00:09:35,200 --> 00:09:38,067
+那些散放着的500美元和1000美元的钞票。
+all those $500 and $1000 bills lying around.
+
+109
+00:09:38,161 --> 00:09:39,889
+那是开业促销的点子。
+It was a promotional idea for the opening.
+
+110
+00:09:39,913 --> 00:09:42,199
+那种面额的纸币不容易流通。
+Bank notes of that denomination aren't readily negotiable.
+
+111
+00:09:42,290 --> 00:09:43,746
+我们有所有的序列号。
+We have all the serial numbers.
+
+112
+00:09:43,833 --> 00:09:44,935
+我想
+这会有点困难
+I guess it would be kind of tough
+
+113
+00:09:44,959 --> 00:09:47,075
+想把1000美元钞票在自动售货机里换成零钞。
+trying to break $1000 bill in an automat.
+
+114
+00:09:47,170 --> 00:09:48,706
+是啊，但如果他们能，
+Yeah, but if they could,
+
+115
+00:09:48,797 --> 00:09:51,960
+你能想象1000美元全是五分硬币吗？
+can you imagine 1000 bucks worth of nickels?
+
+116
+00:09:52,050 --> 00:09:53,506
+我觉得这个画面挺好笑的。
+I think it's a funny image.
+
+117
+00:09:53,593 --> 00:09:55,709
+你觉得重大盗窃有趣？
+You find grand larceny amusing?
+
+118
+00:09:55,804 --> 00:09:58,386
+你太紧张了。
+过于紧张。
+You're tense. You're much too tense.
+
+119
+00:09:58,473 --> 00:10:00,839
+这对消化很不好。
+放松。
+Very bad for the digestion. Relax.
+
+120
+00:10:00,934 --> 00:10:02,799
+保险公司，
+让他们紧张去吧。
+The insurance company, let them be tense.
+
+121
+00:10:02,894 --> 00:10:04,304
+他们得赔偿你的损失。
+They have to make good your losses.
+
+122
+00:10:04,395 --> 00:10:05,915
+我关心的是我们的声誉受损。
+I'm concerned with our loss of prestige.
+
+123
+00:10:05,939 --> 00:10:08,084
+这种事会导致公众失去信心。
+A thing like this could cause the public to lose confidence.
+
+124
+00:10:08,108 --> 00:10:09,939
+嗯，我真想不通为什么。
+Well, now, I can't imagine why.
+
+125
+00:10:10,026 --> 00:10:11,796
+如果我是警察中尉，
+我会去找
+If I were a police, lieutenant, I think I'd be out looking
+
+126
+00:10:11,820 --> 00:10:14,607
+那位红发女郎穿着黄色套装，带着6万美元。
+for $60,000 carried by a redhead in a yellow suit.
+
+127
+00:10:14,697 --> 00:10:16,233
+几率大概四十比一
+The odds are, like, 40 to 1
+
+128
+00:10:16,324 --> 00:10:18,861
+那个红发女郎早就换下那套衣服了。
+that the redhead is no longer modeling that particular number.
+
+129
+00:10:18,952 --> 00:10:20,513
+给你看， Elcott 先生。
+就在影片里。
+Here you are, Mr. Elcott. Right here on film.
+
+130
+00:10:20,537 --> 00:10:22,098
+记录了2点到3点之间发生的一切。
+Everything that happened between 2:00 and 3:00.
+
+131
+00:10:22,122 --> 00:10:23,953
+抢劫发生在2:47。
+The robbery took place at 2:47.
+
+132
+00:10:24,040 --> 00:10:26,227
+我们总是拍摄新银行开业的前几天。
+We always film the first few days of a new bank's operation.
+
+133
+00:10:26,251 --> 00:10:28,958
+- 有助于消除问题。
+- 真是天助我也。
+- Helps eliminate the bugs. - Well, talk about dumb luck.
+
+134
+00:10:29,045 --> 00:10:30,910
+罗斯柴尔德，把这些拿到实验室去。
+Rothschild, get these down to the lab.
+
+135
+00:10:31,005 --> 00:10:32,916
+我们今晚去看电影。
+We're going to the movies tonight.
+
+136
+00:10:35,718 --> 00:10:37,299
+把 Elcott 太太叫来。
+她要是没在家
+Get me Mrs. Elcott. If she's not at home
+
+137
+00:10:40,390 --> 00:10:42,430
+Elcott 太太在这， Mannix 医生。
+Mrs. Elcott is here, Dr. Mannix.
+
+138
+00:10:44,853 --> 00:10:46,059
+请她进来。
+Send her in.
+
+139
+00:10:50,108 --> 00:10:52,520
+- 下午好，Gregory。
+- 晚上好。
+- Good afternoon, Gregory. - Good evening.
+
+140
+00:10:52,610 --> 00:10:56,694
+哦，Gregory，我非常抱歉。
+我就是忍不住。
+Oh, Gregory, I'm terribly sorry. I just couldn't help it.
+
+141
+00:10:56,781 --> 00:10:58,362
+事情一直在发生。
+Things kept happening.
+
+142
+00:11:03,955 --> 00:11:06,321
+哦，感觉真好。
+Oh, that feels good.
+
+143
+00:11:06,416 --> 00:11:08,532
+我度过了这么一天！
+I've had such a day!
+
+144
+00:11:08,626 --> 00:11:10,366
+希望是美好的一天？嗯。
+Good day, I hope? Mm.
+
+145
+00:11:10,461 --> 00:11:13,874
+不再逃避现实或试图逃跑了吗？
+No more escapism or attempt to run away from reality?
+
+146
+00:11:13,965 --> 00:11:16,877
+有点儿奔，也有点儿逃避。
+A little running, yes. Little escaping too.
+
+147
+00:11:16,968 --> 00:11:19,425
+嗯。你今天下午看起来真美
+Hm. Well, you look so beautiful this afternoon
+
+148
+00:11:19,512 --> 00:11:21,594
+我会试着原谅你的。
+I'll try to forgive it.
+
+149
+00:11:21,681 --> 00:11:25,674
+Gregory，你以前从没说过这样的话。
+Gregory, you've never said anything like that before.
+
+150
+00:11:25,768 --> 00:11:28,601
+“春天里，少年幻想？”
+"In the spring, a young man's fancy?"
+
+151
+00:11:28,688 --> 00:11:30,770
+Penelope，我并没有爱上你，
+Penelope, I am not in love with you,
+
+152
+00:11:30,857 --> 00:11:33,064
+你也没有爱上我。
+nor are you in love with me.
+
+153
+00:11:33,151 --> 00:11:35,984
+不过根据你目前的分析，你可能会这么想。
+Although at this stage of your analysis, you may think so.
+
+154
+00:11:36,487 --> 00:11:38,352
+哦，我不认为我爱上了你。
+Oh, I don't think I'm in love with you.
+
+155
+00:11:39,824 --> 00:11:42,486
+哦，你，你不觉得你爱上了我？
+Oh, you, you don't think you're in love with me?
+
+156
+00:11:42,577 --> 00:11:45,239
+没有。这从未在我脑海中出现。
+No. Never entered my mind.
+
+157
+00:11:46,998 --> 00:11:49,910
+怎么了？你失望了吗？
+Why? Are you disappointed?
+
+158
+00:11:51,002 --> 00:11:52,583
+一点也不！
+Not in the least!
+
+159
+00:11:53,171 --> 00:11:55,287
+事实上，我松了口气。哦。
+In fact, I'm relieved. Oh.
+
+160
+00:11:55,381 --> 00:11:56,917
+那很好。
+That's good.
+
+161
+00:11:57,008 --> 00:11:59,420
+所以你过了有趣的一天，是吗？
+So you had an interesting day, huh?
+
+162
+00:11:59,802 --> 00:12:01,212
+想谈谈吗？
+Care to talk about it?
+
+163
+00:12:01,638 --> 00:12:03,219
+嗯，让我想想。
+Well, let's see.
+
+164
+00:12:03,306 --> 00:12:05,217
+今天早上我去购物了
+This morning I went shopping
+
+165
+00:12:05,308 --> 00:12:08,300
+然后我去了现代艺术博物馆。
+and then I went to the museum of modern art.
+
+166
+00:12:08,394 --> 00:12:10,385
+那里有个极好的新展览。
+They have a marvelous new exhibit there.
+
+167
+00:12:10,772 --> 00:12:13,434
+然后我在，嗯，广场大饭店吃了午饭。
+Then I had lunch at the, uh, Plaza.
+
+168
+00:12:13,524 --> 00:12:14,684
+棕榈庭。
+The palm court.
+
+169
+00:12:14,776 --> 00:12:16,516
+班尼迪克蛋。
+Eggs Benedict.
+
+170
+00:12:16,611 --> 00:12:19,819
+然后，在三点前几分钟
+And then, a few minutes before 3 o'clock
+
+171
+00:12:19,906 --> 00:12:22,147
+我抢劫了我丈夫的银行。
+I stuck up my husband's bank.
+
+172
+00:12:36,881 --> 00:12:38,121
+你睡着了吗？
+Are you asleep?
+
+173
+00:12:38,800 --> 00:12:40,256
+不，我...
+No, I...
+
+174
+00:12:40,343 --> 00:12:43,210
+你没有联想。你——你知道吗？
+You're not associating. You-you realize that?
+
+175
+00:12:43,304 --> 00:12:44,760
+你是什么意思？
+How do you mean?
+
+176
+00:12:44,847 --> 00:12:45,908
+我是说，你说你去购物。
+I mean, you said you went shopping.
+
+177
+00:12:45,932 --> 00:12:47,243
+你去了博物馆，你吃了午饭。
+You went to the museum, you had lunch.
+
+178
+00:12:47,267 --> 00:12:48,757
+嗯哼。
+Mm-hmm.
+
+179
+00:12:48,851 --> 00:12:51,809
+然后你说了些完全无关的话。
+And then you said something entirely irrelevant.
+
+180
+00:12:51,896 --> 00:12:54,603
+Gregory，不是我不联想，而是你。
+Gregory, it's you who's not associating.
+
+181
+00:12:54,691 --> 00:12:56,807
+我只是说我抢了我丈夫的银行。
+All I said was I stuck up my husband's bank.
+
+182
+00:12:56,901 --> 00:12:58,892
+你又说了一遍。但你不可能那样做。
+You said it again. But you couldn't possibly.
+
+183
+00:12:58,987 --> 00:12:59,987
+你怎么知道？
+How do you know?
+
+184
+00:13:00,071 --> 00:13:01,674
+因为我当了你三年的分析师。
+Because I've been your analyst for three years.
+
+185
+00:13:01,698 --> 00:13:02,841
+我知道你能做什么
+I know what you're capable of
+
+186
+00:13:02,865 --> 00:13:04,526
+也知道你做不到什么。
+and I know what you're not capable of.
+
+187
+00:13:04,617 --> 00:13:05,617
+你想打赌吗？
+Would you like to bet?
+
+188
+00:13:05,702 --> 00:13:07,112
+我在精神病学界的声誉
+My reputation in psychiatry
+
+189
+00:13:07,203 --> 00:13:08,943
+对你愿意拿出的任何东西。
+against anything you care to put up.
+
+190
+00:13:09,038 --> 00:13:10,949
+这些够吗？
+Will this be enough?
+
+191
+00:13:12,292 --> 00:13:13,407
+那是什么？
+What's that?
+
+192
+00:13:14,335 --> 00:13:16,542
+嗯，我想那叫赃款。
+Well, I think it's called the loot.
+
+193
+00:13:17,005 --> 00:13:19,542
+赃——款？
+The-the loot?
+
+194
+00:13:19,632 --> 00:13:21,793
+佩—— Penelope，你能...
+P-Penelope, would-would you...
+
+195
+00:13:27,807 --> 00:13:30,469
+所以你认为你抢了银行，是吗？
+So you think you robbed a bank, huh?
+
+196
+00:13:30,560 --> 00:13:32,767
+嗯，我一直这么说。
+Hm, I've been saying that.
+
+197
+00:13:32,854 --> 00:13:35,140
+然后我去了伯格多夫，买了这套新装。
+Then I went over to Bergdorf's and bought this new outfit.
+
+198
+00:13:35,231 --> 00:13:36,767
+你喜欢吗？
+Do you like it?
+
+199
+00:13:36,858 --> 00:13:39,144
+Penelope，你是要我相信
+Penelope, do you expect me to believe
+
+200
+00:13:39,235 --> 00:13:41,066
+你抢了你丈夫的银行
+that you robbed your husband's bank
+
+201
+00:13:41,154 --> 00:13:42,815
+然后轻松地去伯格多夫
+and went blithely off to Bergdorf's
+
+202
+00:13:42,905 --> 00:13:45,612
+把赃款花在裙子和貂皮上？
+and spent the loot on dresses and minks?
+
+203
+00:13:45,700 --> 00:13:47,941
+- 当然不会。
+- 那就好。
+- Of course not. - Well, thank goodness.
+
+204
+00:13:48,036 --> 00:13:50,152
+不，我不会花赃款。
+No, I wouldn't spend stolen money.
+
+205
+00:13:50,246 --> 00:13:51,406
+我有赊账账户。
+I have a charge account.
+
+206
+00:13:51,497 --> 00:13:52,862
+你仍然坚持你抢了银行。
+You still insist you robbed a bank.
+
+207
+00:13:52,957 --> 00:13:54,322
+那你怎么可能呢？
+Now how could you?
+
+208
+00:13:54,417 --> 00:13:55,873
+Gregory，这很简单...
+Gregory, it's very simple...
+
+209
+00:13:55,960 --> 00:13:57,813
+拜托，我——我不想听。
+我——不想听。
+Please, I-I don't wanna hear. I-I don't want to hear it.
+
+210
+00:13:57,837 --> 00:13:59,919
+我我我我不想听这件事。
+I-I-I-I don't wanna hear about it.
+
+211
+00:14:00,173 --> 00:14:03,631
+哦，当然，那会使你成为事后从犯。
+Oh, of course, that would make you an accessory after the fact.
+
+212
+00:14:03,718 --> 00:14:06,255
+Gregory，对不起。
+别不高兴。
+Gregory, I'm sorry. Don't be upset.
+
+213
+00:14:06,346 --> 00:14:08,428
+我们就忘了我曾提起过这事。
+We'll just forget I ever mentioned it.
+
+214
+00:14:08,514 --> 00:14:10,596
+我们什么都不会忘的。
+We're not going to forget about anything.
+
+215
+00:14:12,477 --> 00:14:14,263
+你——你抢了多少钱？
+H-how much did you get?
+
+216
+00:14:17,106 --> 00:14:18,391
+太可怕了！
+That's horrible!
+
+217
+00:14:18,483 --> 00:14:19,848
+是啊，但我刚数过了。
+Yeah, but I just counted it.
+
+218
+00:14:19,942 --> 00:14:21,478
+只有略多于6万美元。
+It's only a little over 60,000.
+
+219
+00:14:21,569 --> 00:14:23,025
+所以也就只有一半那么可怕。
+So it's only half as horrible.
+
+220
+00:14:23,112 --> 00:14:24,715
+Penelope，你的生活就像一场疯狂的魔术表演一样不可思议。
+Penelope, nobody can just walk into a bank
+
+221
+00:14:24,739 --> 00:14:27,151
+并且通过开口要来 $60,000。
+and pick up $60,000 by asking for it.
+
+222
+00:14:27,241 --> 00:14:29,823
+当然可以。前提是你有枪。
+Of course, you can. If you have a gun.
+
+223
+00:14:29,911 --> 00:14:31,276
+你根本没有枪！
+You don't own a gun!
+
+224
+00:14:31,371 --> 00:14:33,828
+哦，Gregory，你总是这么乐观。
+Oh, Gregory, you're always so positive.
+
+225
+00:14:33,915 --> 00:14:35,184
+你以为这是什么？
+What do you think this is?
+
+226
+00:14:36,292 --> 00:14:39,750
+哦，对不起。我不知道它是上膛的。
+Oh, I'm sorry. I didn't know it was loaded.
+
+227
+00:14:39,837 --> 00:14:41,748
+我是在哪家五金店买的。
+I bought it in the five and dime.
+
+228
+00:14:42,799 --> 00:14:47,042
+Penelope，这对你的治疗非常不利。
+Penelope, this is very bad for your therapy.
+
+229
+00:14:47,136 --> 00:14:49,001
+对不起，Gregory。
+I'm sorry, Gregory.
+
+230
+00:14:53,017 --> 00:14:56,430
+在你的分析中，我显然在某处……
+Somewhere in your analysis, I have obviously...
+
+231
+00:14:58,564 --> 00:15:01,021
+错过了一个重要的线索。
+Passed up a vital clue.
+
+232
+00:15:01,109 --> 00:15:05,944
+现在我——我要你从头再告诉我一次
+Now I-I want you to tell me again from the beginning
+
+233
+00:15:06,030 --> 00:15:08,112
+关于你第一次拿走东西的那次。
+about the first time that you took something.
+
+234
+00:15:10,034 --> 00:15:12,946
+你是说偷东西，不是吗？
+You mean stole something, don't you?
+
+235
+00:15:13,037 --> 00:15:14,823
+Gregory，我们不如面对现实。
+Gregory, we might as well face it.
+
+236
+00:15:14,914 --> 00:15:16,120
+我是个偷窃狂。
+I'm a kleptomaniac.
+
+237
+00:15:16,207 --> 00:15:19,324
+我拒绝从临床上接受那个词。
+I refuse to accept that word clinically.
+
+238
+00:15:19,419 --> 00:15:23,662
+那第一次是什么时候？
+Now what was the first time?
+
+239
+00:15:25,258 --> 00:15:29,342
+嗯，真正的第一次……
+Well, the very first time...
+
+240
+00:15:29,429 --> 00:15:31,886
+是在我大学的最后一周。
+Was my last week in college.
+
+241
+00:15:31,973 --> 00:15:33,964
+我盛装打扮去参加毕业舞会，
+I was all dressed up for the senior prom
+
+242
+00:15:34,058 --> 00:15:36,390
+这时 Klobb 教授过来了。
+when Professor Klobb came by.
+
+243
+00:15:36,477 --> 00:15:39,310
+Klobb 教授教人类学404。
+Professor Klobb taught anthropology 404.
+
+244
+00:15:39,397 --> 00:15:41,197
+他说他想在实验室里给我看一些照片，
+And he said he'd like to show me some pictures
+
+245
+00:15:41,232 --> 00:15:43,314
+是关于 Okokos 部落的。
+of the Okokos tribe in his laboratory.
+
+246
+00:15:45,695 --> 00:15:49,028
+他说 Okokos 有些非常奇怪的习俗。
+He said the Okokos had some very strange customs.
+
+247
+00:15:50,408 --> 00:15:51,989
+嗯，他们确实有，
+Well, they certainly did,
+
+248
+00:15:52,076 --> 00:15:53,987
+但也不比 Klobb 教授的奇怪。
+but no stranger than Professor Klobb's.
+
+249
+00:16:05,715 --> 00:16:07,125
+哦！哦！
+Oh! Oh!
+
+250
+00:16:08,176 --> 00:16:09,586
+哦！
+Oh!
+
+251
+00:16:15,099 --> 00:16:16,305
+哦！
+Oh!
+
+252
+00:16:16,392 --> 00:16:17,677
+抱歉。
+Sorry.
+
+253
+00:16:22,982 --> 00:16:24,347
+哦！
+Oh!
+
+254
+00:16:31,532 --> 00:16:32,897
+啊！
+Ah!
+
+255
+00:17:07,318 --> 00:17:09,104
+起初我并没有注意到，
+I didn't notice it at first,
+
+256
+00:17:09,195 --> 00:17:11,356
+但我的手里有了东西。
+but there was something in my hand.
+
+257
+00:17:11,447 --> 00:17:13,187
+不知怎的，在我们的课间里，
+Somehow, sometime during our session
+
+258
+00:17:13,282 --> 00:17:14,818
+在原始人类学那节课上，
+in primitive anthropology,
+
+259
+00:17:14,909 --> 00:17:16,524
+我抓住了 Klobb 教授的
+I had grabbed hold of Professor Klobb's
+
+260
+00:17:16,619 --> 00:17:19,281
+怀表链，镶着钻石的。
+watch fob, diamond-studded.
+
+261
+00:17:19,372 --> 00:17:21,112
+我本来可以把它送回去，当然，
+I could have sent it back, of course,
+
+262
+00:17:21,207 --> 00:17:22,697
+但我决定就留着它，
+but I decided I'd just keep it
+
+263
+00:17:22,792 --> 00:17:26,159
+作为奥科科斯部落那些奇怪习俗的纪念。
+in memory of the strange customs of the Okokos tribe.
+
+264
+00:17:26,254 --> 00:17:29,621
+这就是我犯罪生涯的开始。
+So that's where I began my life of crime.
+
+265
+00:17:29,715 --> 00:17:31,330
+几乎是偶然的。
+Practically by accident.
+
+266
+00:17:35,471 --> 00:17:37,382
+下一次事件是什么时候？
+When was the next incident?
+
+267
+00:17:38,099 --> 00:17:39,930
+刚来纽约时有些零零碎碎的事，
+Well, there were some odds and ends
+
+268
+00:17:40,017 --> 00:17:41,848
+那是在我刚到纽约的时候。
+when I first came to New York.
+
+269
+00:17:41,936 --> 00:17:45,178
+但在遇到 James 之后，我再也没有偷过东西。
+But then after I met James, I never stole anything.
+
+270
+00:17:46,941 --> 00:17:49,182
+直到……直到什么时候？
+Until... until when?
+
+271
+00:17:50,611 --> 00:17:52,147
+直到我的婚礼那天。
+Until my wedding day.
+
+272
+00:17:59,036 --> 00:18:01,903
+我永远忘不了那天 James 看起来有多英俊。
+I'll never forget how handsome James looked that day.
+
+273
+00:18:04,959 --> 00:18:07,120
+我当时非常地爱他。
+I was terribly in love with him.
+
+274
+00:18:07,211 --> 00:18:10,169
+但看起来，我的伴娘 Mildred Halliday 也是如此。
+But so, it seems, was my matron of honor, Mildred Halliday.
+
+275
+00:18:10,256 --> 00:18:11,871
+她并非我亲自选的，
+She wasn't exactly my choice,
+
+276
+00:18:11,966 --> 00:18:13,686
+只是她的父亲是那家银行的董事会成员。
+but her father was on the board of the bank.
+
+277
+00:18:16,887 --> 00:18:19,344
+在招待会上，James 突然消失了。
+At the reception, James suddenly disappeared.
+
+278
+00:18:27,148 --> 00:18:28,433
+后来当我回想时，
+When I came to think about it,
+
+279
+00:18:28,524 --> 00:18:30,936
+我好像也找不到 Mildred。
+I couldn't seem to locate Mildred either.
+
+280
+00:18:31,027 --> 00:18:32,892
+我当时并不怀疑，真的，
+I wasn't suspicious, really,
+
+281
+00:18:32,987 --> 00:18:34,978
+但我开始怀疑这件事也许并非不可能。
+but I began to wonder if it wasn't just possible.
+
+282
+00:18:36,657 --> 00:18:37,692
+果然如此。
+It was.
+
+283
+00:18:38,993 --> 00:18:40,483
+在这种情况下，
+In situations like this,
+
+284
+00:18:40,578 --> 00:18:43,035
+我总会想出一些巧妙的话来说。
+I always think of clever things to say.
+
+285
+00:18:43,122 --> 00:18:44,737
+好了，该切蛋糕了。
+Well, time to cut the cake.
+
+286
+00:18:44,832 --> 00:18:46,538
+你好，Penelope。
+Hello, Penelope.
+
+287
+00:18:46,626 --> 00:18:48,912
+Jimmy 和我刚才在谈婚礼的事。
+Jimmy and I were just discussing weddings.
+
+288
+00:18:49,003 --> 00:18:51,119
+是的，我听见了你们。
+Yes, I heard you.
+
+289
+00:18:51,505 --> 00:18:53,166
+大家总是亲新娘，
+Well, everybody always kisses the bride,
+
+290
+00:18:53,257 --> 00:18:55,748
+但——没人想到新郎。
+but-but-but no one thinks of the groom.
+
+291
+00:18:55,843 --> 00:18:57,049
+除了你。
+Except you.
+
+292
+00:18:57,136 --> 00:18:59,377
+嗯，这是我的慷慨本性。
+Well, it's my generous nature.
+
+293
+00:18:59,472 --> 00:19:02,555
+哦，Jim，Jim，看看，你脸上全是口红。
+Oh, Jim, Jim, look. You're all over lipstick.
+
+294
+00:19:05,353 --> 00:19:06,718
+哦，别吃醋，亲爱的。
+Oh, don't be jealous, love.
+
+295
+00:19:06,812 --> 00:19:09,519
+Jimmy 和我认识很久了。
+Jimmy and I have known each other for ages.
+
+296
+00:19:09,607 --> 00:19:10,642
+谢谢。
+Ta.
+
+297
+00:19:12,485 --> 00:19:13,645
+谢谢。
+Ta.
+
+298
+00:19:15,738 --> 00:19:18,070
+我曾一度想背后捅她一刀，
+I thought briefly about stabbing her in the back,
+
+299
+00:19:18,157 --> 00:19:20,489
+但我怕蛋糕刀不够锋利。
+but I was afraid the cake knife wasn't sharp enough.
+
+300
+00:19:20,576 --> 00:19:22,692
+你想要解释一下吗？
+Would you care for an explanation?
+
+301
+00:19:23,663 --> 00:19:25,995
+不用，你不必这样做。
+No, you don't have to.
+
+302
+00:19:26,666 --> 00:19:28,452
+感觉如何？
+How was it?
+
+303
+00:19:31,629 --> 00:19:33,961
+我可以接受也可以不接受。
+I could take it or leave it.
+
+304
+00:19:34,048 --> 00:19:36,004
+你把她的口红都擦掉了吗？
+Have you got all of her lipstick off?
+
+305
+00:19:36,467 --> 00:19:38,253
+希望没有。怎么了？
+No, I hope. Why?
+
+306
+00:19:49,730 --> 00:19:53,063
+那时候，没人会怀疑 James 是个银行家。
+In those days, you'd never suspect James was a banker.
+
+307
+00:19:54,068 --> 00:19:57,105
+准备好了，大家，准备！他们来了！
+Ready, everybody, ready! Here they come!
+
+308
+00:19:57,446 --> 00:19:59,812
+好啦，Penelope，让我们看看你能不能击中未来的新娘。
+Alright, Penelope, let's see you hit a future bride.
+
+309
+00:20:03,828 --> 00:20:05,989
+我仍然记得 Mildred 仰望我的样子。
+I can still see Mildred looking up at me.
+
+310
+00:20:06,080 --> 00:20:08,162
+她戴着绿宝石的耳环和项链，
+She was wearing her emerald earrings and necklace,
+
+311
+00:20:08,249 --> 00:20:10,285
+还有一副极为高傲的表情。
+plus a very superior expression.
+
+312
+00:20:12,086 --> 00:20:14,077
+到了抛新娘花束的时候了。
+It was time to toss the wedding bouquet.
+
+313
+00:20:15,798 --> 00:20:17,254
+我决定让 Mildred 抓到它。
+I decided I'd let Mildred have it.
+
+314
+00:20:19,093 --> 00:20:21,505
+哦，Mildred。
+Oh, Mildred.
+
+315
+00:20:21,595 --> 00:20:23,927
+哦，亲爱的，真是太抱歉了。
+Oh, darling, I'm terribly sorry.
+
+316
+00:20:25,307 --> 00:20:27,673
+哦，那太好了，亲爱的。
+Oh, that's good, darling.
+
+317
+00:20:27,768 --> 00:20:29,053
+谢谢。
+Ta.
+
+318
+00:20:31,188 --> 00:20:33,099
+- 再见，我的爱。
+- 再见。
+- Goodbye, my love. - Goodbye.
+
+319
+00:20:33,190 --> 00:20:34,430
+而——亲爱的，亲爱的，
+And-and-and, darling, darling,
+
+320
+00:20:34,525 --> 00:20:37,107
+请不要忘了从此过上幸福快乐的生活。
+please don't forget to live happily ever after.
+
+321
+00:20:38,320 --> 00:20:39,981
+- 我会的，再见。再见。
+- 再见，James。
+- I will, bye. Bye. - Goodbye, James.
+
+322
+00:20:40,072 --> 00:20:41,687
+- 再见，Douglas。
+- 再见！
+- Goodbye, Douglas. - Bye!
+
+323
+00:20:44,118 --> 00:20:47,451
+我的，我的耳环。我的耳环！
+My, my earrings. My earrings!
+
+324
+00:20:47,538 --> 00:20:50,029
+当我们十天后回家时，
+And when we returned home ten days later,
+
+325
+00:20:50,124 --> 00:20:53,241
+项链和耳环仍然在盆栽棕榈的罐子里。
+the necklace and earrings were still in the potted palm jar.
+
+326
+00:20:53,335 --> 00:20:56,953
+- 你从未归还它们吗？
+- 没有。我为什么要还？
+- And you never returned them? - No. Why should 1?
+
+327
+00:21:01,552 --> 00:21:03,088
+我怎么能帮你呢？
+How am I going to help you?
+
+328
+00:21:03,179 --> 00:21:04,715
+对不起，Gregory。
+I'm sorry, Gregory.
+
+329
+00:21:04,805 --> 00:21:06,887
+- 我会尽量做得更好。
+- 好吧。
+- I'll try to do better. - Alright.
+
+330
+00:21:06,974 --> 00:21:09,010
+现在，我要你在回答前仔细想一想
+Now, I want you to think very carefully
+
+331
+00:21:09,101 --> 00:21:10,591
+再回答这个问题。
+before you answer this.
+
+332
+00:21:10,686 --> 00:21:12,642
+每次你偷了东西之后，
+Each time you stole something,
+
+333
+00:21:12,730 --> 00:21:14,721
+你记得事后你的感受吗？
+do you remember how you felt afterwards?
+
+334
+00:21:14,815 --> 00:21:16,021
+有罪感吗？
+Guilty?
+
+335
+00:21:16,817 --> 00:21:18,148
+难过吗？
+Upset?
+
+336
+00:21:18,235 --> 00:21:20,146
+沮丧。
+Depressed.
+
+337
+00:21:20,237 --> 00:21:21,568
+不安。
+Disturbed.
+
+338
+00:21:22,156 --> 00:21:23,771
+开心。
+Cheerful.
+
+339
+00:21:23,866 --> 00:21:25,481
+你怎么会感到开心？
+How can you feel cheerful?
+
+340
+00:21:26,076 --> 00:21:28,283
+Gregory，这就是我来找你的原因。
+Gregory, that's why I'm here.
+
+341
+00:21:28,370 --> 00:21:31,282
+想找出为什么偷东西会让我感到开心。
+To try to find out why stealing makes me cheerful.
+
+342
+00:21:31,373 --> 00:21:33,659
+你不可能。你不可能感到开心。
+You couldn't. You couldn't possibly feel cheerful.
+
+343
+00:21:36,253 --> 00:21:38,118
+这也是我没有的一个缺点。
+Which is one fault that I do not have.
+
+344
+00:21:38,214 --> 00:21:39,624
+是盗窃癖，没错。
+Kleptomania, yes.
+
+345
+00:21:39,715 --> 00:21:40,750
+但不等于不诚实。
+Dishonesty, no.
+
+346
+00:21:40,841 --> 00:21:41,921
+你不是个窃盗癖患者。
+You are not a kleptomaniac.
+
+347
+00:21:42,009 --> 00:21:43,749
+窃盗癖者是出于冲动偷窃，
+A kleptomaniac steals out of compulsion,
+
+348
+00:21:43,844 --> 00:21:46,176
+而你是因为享受而偷。
+but you steal because you enjoy it.
+
+349
+00:21:54,522 --> 00:21:57,104
+你生我的气。是的，我生气。
+You're angry with me. You bet I am.
+
+350
+00:21:57,191 --> 00:21:58,831
+我们最好现在就结束这次会面。
+And we better end this session right here.
+
+351
+00:21:58,859 --> 00:22:00,190
+为什么？因为我……
+Why? Because I...
+
+352
+00:22:00,277 --> 00:22:03,394
+因为我发现我无法……
+Because I find I cannot...
+
+353
+00:22:03,489 --> 00:22:06,652
+我无法保持适当的超然态度。
+I cannot maintain a proper attitude of detachment.
+
+354
+00:22:06,742 --> 00:22:08,858
+而且，你的时间也到了。
+And besides, your time is up.
+
+355
+00:22:13,541 --> 00:22:14,371
+是的。
+Yes.
+
+356
+00:22:14,458 --> 00:22:16,578
+Elcott 先生正在给 Elcott 太太打电话。
+Mr. Elcott is calling Mrs. Elcott.
+
+357
+00:22:17,962 --> 00:22:20,419
+哦，我想知道会有什么紧急事。
+Oh, I wonder what could be so urgent.
+
+358
+00:22:20,506 --> 00:22:24,124
+可能和他妻子抢他银行这事有关。
+It may have something to do with his wife sticking up his bank.
+
+359
+00:22:24,218 --> 00:22:26,083
+是的，James？
+Yes, James?
+
+360
+00:22:26,178 --> 00:22:27,509
+哦。
+Oh.
+
+361
+00:22:27,596 --> 00:22:29,302
+他今晚不能回家吃饭。
+He won't be home for dinner.
+
+362
+00:22:29,390 --> 00:22:30,800
+为什么，不是亲爱的？
+Why not, darling?
+
+363
+00:22:32,017 --> 00:22:33,473
+不。
+No.
+
+364
+00:22:34,311 --> 00:22:36,347
+看在上帝的份上。
+For heaven's sakes.
+
+365
+00:22:37,189 --> 00:22:38,474
+什么？
+What?
+
+366
+00:22:38,566 --> 00:22:39,806
+你有？
+You have?
+
+367
+00:22:39,900 --> 00:22:41,106
+什么时候？
+When?
+
+368
+00:22:41,193 --> 00:22:43,400
+哦，James，我可以去吗？
+Oh, James, can I come?
+
+369
+00:22:43,487 --> 00:22:44,897
+哦，谢谢你，亲爱的。
+Oh, thank you, darling.
+
+370
+00:22:44,989 --> 00:22:47,571
+是的，是的，是的，我保证不会迟到。
+Yes, yes, yes, I promise I won't be late.
+
+371
+00:22:47,658 --> 00:22:48,818
+Gregory，猜怎么着？
+Gregory, guess what?
+
+372
+00:22:48,909 --> 00:22:50,365
+他们有抢劫的影片，
+They have movies of the robbery,
+
+373
+00:22:50,452 --> 00:22:52,818
+James 会让我和警察一起看。
+and James is gonna let me see them with the police.
+
+374
+00:22:52,913 --> 00:22:55,074
+我在镜头里。多激动啊！
+I'm on film. Isn't that exciting?
+
+375
+00:22:55,165 --> 00:22:57,451
+就像演员拍试镜一样。
+It's just like an actress having a screen test.
+
+376
+00:22:57,543 --> 00:23:00,285
+只不过你如果演了这个角色，就得在监狱里演。
+Except that you get this part, you're gonna play it in jail.
+
+377
+00:23:00,379 --> 00:23:01,619
+Gregory，我得走了。
+Gregory, I'd better run.
+
+378
+00:23:01,714 --> 00:23:04,330
+还有一千件事要做。拜拜。
+I've got a thousand things to do first. Bye.
+
+379
+00:23:11,599 --> 00:23:14,682
+谢谢你，Gregory。我什么时候再见你？
+Thank you, Gregory. When do I see you again?
+
+380
+00:23:14,768 --> 00:23:16,633
+表现良好，差不多二十年以后。
+With good behavior, in about 20 years.
+
+381
+00:23:16,729 --> 00:23:18,845
+明天，同一时间。同一时间。
+Tomorrow, same time. Same time.
+
+382
+00:23:22,943 --> 00:23:24,899
+假如你还逍遥法外的话。
+Assuming you're still at large.
+
+383
+00:23:38,834 --> 00:23:43,123
+Knoblock 医生，我想是时候继续我的分析了。
+Dr. Knoblock, I think it's time we resume my analysis.
+
+384
+00:23:45,966 --> 00:23:48,833
+你看，我已经爱上了这个女窃贼……
+You see, I've fallen in love with this bank robber...
+
+385
+00:24:28,467 --> 00:24:31,049
+- 哦，我能帮你吗？
+- 哦，是的，夫人。
+- Oh, may I help you? - Oh, oui, madame.
+
+386
+00:24:31,136 --> 00:24:33,923
+我带来一套西装，想捐给你们的慈善机构。
+I have here a suit to donate to your charity.
+
+387
+00:24:34,014 --> 00:24:35,174
+哦，谢谢你。
+Oh, thank you.
+
+388
+00:24:35,265 --> 00:24:37,426
+呃，收据要写给谁？
+Uh, to whom shall we make out the receipt?
+
+389
+00:24:37,518 --> 00:24:40,351
+- 再见。
+- 这可以免税，你知道的。
+- Bye. - It's tax deductible, you know.
+
+390
+00:24:41,730 --> 00:24:43,266
+等一下。
+Wait a minute.
+
+391
+00:24:43,941 --> 00:24:45,727
+等一下！
+Wait a minute!
+
+392
+00:24:45,818 --> 00:24:48,434
+太漂亮了。我就要了。
+It's gorgeous. I'll take it.
+
+393
+00:24:48,529 --> 00:24:50,611
+- 你来晚了！
+- 嘿！
+- You are too late! - Say!
+
+394
+00:24:50,698 --> 00:24:52,050
+- 哦，求你了！
+- 你在干什么？
+- Oh, please! - What are you doing?
+
+395
+00:24:52,074 --> 00:24:55,032
+女士们！女士们！女士们！女士们！
+Ladies! Ladies! Ladies! Ladies!
+
+396
+00:24:55,119 --> 00:24:57,952
+这么大的骚动。为了什么？
+Such a big commotion. Over what?
+
+397
+00:24:58,038 --> 00:25:00,120
+某件黄色的破布？
+Some yellow rag?
+
+398
+00:25:00,207 --> 00:25:03,665
+这种颜色不适合你那病态的肤色。
+The color's all wrong for your sallow complexion.
+
+399
+00:25:03,752 --> 00:25:08,337
+而黄？对你这年龄的女人来说更不合适。
+And yellow? On a woman of your years?
+
+400
+00:25:08,424 --> 00:25:10,460
+你打算为这件付多少钱，女士？
+How much were you going to pay for this, lady?
+
+401
+00:25:10,551 --> 00:25:13,634
+嗯，呃，20美元。好像公平。
+Well, uh, uh, $20. That seems fair.
+
+402
+00:25:13,721 --> 00:25:16,963
+- 21。
+- 这是破损货。看。
+- 21. - It's damaged goods. Look.
+
+403
+00:25:17,057 --> 00:25:20,174
+那样的话，不管多少钱我都不感兴趣。
+In that case, I'm not interested at any price.
+
+404
+00:25:20,269 --> 00:25:22,055
+那我也不感兴趣了。
+Then neither am I.
+
+405
+00:25:22,730 --> 00:25:24,470
+哦，亲爱的。
+Oh, dear.
+
+406
+00:25:26,316 --> 00:25:28,227
+这是 7 美元。
+Here's $7.
+
+407
+00:25:28,944 --> 00:25:31,060
+比它值的还多。
+More than it's worth.
+
+408
+00:25:31,155 --> 00:25:34,192
+不过我就是这么个软心肠的人。
+But then I'm such a soft touch.
+
+409
+00:25:34,283 --> 00:25:35,363
+哦。
+Oh.
+
+410
+00:25:48,088 --> 00:25:50,329
+Sadaba，我的生命之爱，
+Sadaba, love of my life,
+
+411
+00:25:50,424 --> 00:25:53,712
+你知道我们这里有什么吗？
+do you know what we have here?
+
+412
+00:25:53,802 --> 00:25:55,258
+那不可能。
+It couldn't be.
+
+413
+00:25:55,345 --> 00:25:57,085
+但它绝不会是别的东西。
+But it couldn't be anything else.
+
+414
+00:25:57,181 --> 00:26:00,844
+没人，没人能像 Givenchy 那样缝合。
+Nobody, nobody does seams like Givenchy.
+
+415
+00:26:00,934 --> 00:26:03,767
+一件来自巴黎的原作，7 美元。
+A Paris original for $7.
+
+416
+00:26:03,854 --> 00:26:05,310
+你太聪明了。
+You're a genius.
+
+417
+00:26:05,397 --> 00:26:07,854
+爱上天使。
+In love with an angel.
+
+418
+00:26:07,941 --> 00:26:09,647
+你那富有的天使。
+Your rich angel.
+
+419
+00:26:13,947 --> 00:26:18,532
+在店里我们能卖到 500 美元。
+In the shop, we'll get $500 for this.
+
+420
+00:26:18,619 --> 00:26:20,655
+加上挂架，一共六件。
+And a good hanger, six.
+
+421
+00:26:32,800 --> 00:26:34,916
+请帮助穷人。
+Please help the poor.
+
+422
+00:26:35,010 --> 00:26:37,547
+请朋友们，敞开你们的心。
+Please, friends, open your hearts.
+
+423
+00:26:41,100 --> 00:26:43,307
+主爱喜乐地施予者。
+The lord loves a cheerful giver.
+
+424
+00:26:49,525 --> 00:26:51,982
+请朋友们，敞开你们的心。
+Please, friends, open your hearts.
+
+425
+00:26:52,444 --> 00:26:53,980
+帮助他人。
+Help others.
+
+426
+00:27:00,994 --> 00:27:03,201
+打扰一下，先生。
+Pardon, monsieur.
+
+427
+00:27:03,288 --> 00:27:05,779
+施比受更为有福，不是吗？
+It is more blessed to give than to take, no?
+
+428
+00:27:05,874 --> 00:27:07,205
+是的，我们被教导如此。
+So we've been taught. Yes.
+
+429
+00:27:07,292 --> 00:27:10,159
+嗯，可惜不是相反的那样。
+Hm, too bad it is not the other way around.
+
+430
+00:27:10,254 --> 00:27:11,494
+是啊。
+Yes.
+
+431
+00:27:23,600 --> 00:27:24,931
+谢谢，谢谢。
+Thank you. Thank you.
+
+432
+00:27:36,989 --> 00:27:39,321
+嘿，等一下，我忘了我的...
+Hey, wait a minute, I forgot my...
+
+433
+00:27:39,408 --> 00:27:40,944
+算了。
+Never mind.
+
+434
+00:28:02,973 --> 00:28:04,179
+Cracker Jack？
+Cracker Jack?
+
+435
+00:28:05,642 --> 00:28:07,257
+我们马上就看到嫌疑人的第一张清晰脸孔了。
+We're coming up on our first good look
+
+436
+00:28:07,352 --> 00:28:09,183
+该时候了。
+at the suspect right here.
+
+437
+00:28:09,646 --> 00:28:11,056
+- 终于。
+- 是时候了。
+It's about time.
+
+438
+00:28:13,734 --> 00:28:16,692
+- 现在怎样？
+- 哦，是我太太。
+- Now what? - Oh, it's my wife.
+
+439
+00:28:16,778 --> 00:28:19,690
+呃，亲爱的，中士 Bixbee。
+Uh, darling, lieutenant Bixbee.
+
+440
+00:28:19,781 --> 00:28:22,693
+- 你好吗？
+- 还有罗斯柴尔德中士。
+- How do you do? - And sergeant Rothschild.
+
+441
+00:28:22,784 --> 00:28:24,524
+你好。
+Hello.
+
+442
+00:28:24,620 --> 00:28:26,531
+我是不是错过什么了？
+Am I, uh, missing anything?
+
+443
+00:28:26,622 --> 00:28:28,487
+从我站的地方看还没丢什么东西。
+Not from where I'm standin'.
+
+444
+00:28:28,582 --> 00:28:31,119
+呃，中士，你既然在倒带，
+Uh, sergeant, as long as you're rewinding that
+
+445
+00:28:31,210 --> 00:28:33,292
+为什么不从头开始给 Elcott 太太看？
+why don't you start from the top for Mrs. Elcott?
+
+446
+00:28:33,378 --> 00:28:35,915
+哦，那真是太好了。
+Oh, that's very kind.
+
+447
+00:28:36,006 --> 00:28:38,213
+- Cracker Jack？
+- 谢谢。
+- Cracker Jack? - Thank you.
+
+448
+00:28:41,970 --> 00:28:43,130
+谢谢。
+Thank you.
+
+449
+00:28:48,435 --> 00:28:50,551
+你的鞋子？亲爱的，你的鞋子在哪？
+Your shoes? Where are your shoes, darling?
+
+450
+00:28:50,646 --> 00:28:53,888
+噢，真巧。我把鞋落在出租车里了。
+Oh, wouldn't you know it? I left them in the taxi.
+
+451
+00:28:58,570 --> 00:29:00,106
+上周是在电梯里。
+Last week, it was in the elevator.
+
+452
+00:29:00,197 --> 00:29:02,062
+我可以发出寻物通告。
+I could send out an all-points bulletin.
+
+453
+00:29:02,157 --> 00:29:03,760
+我希望你在找我太太的鞋子比找我银行被抢一案更有运气。
+I hope you have more luck with my wife's shoes
+
+454
+00:29:03,784 --> 00:29:05,220
+你的银行，我的窃贼。记得吗。
+than you're having with my bank robbery.
+
+455
+00:29:05,244 --> 00:29:07,986
+哦，这太刺激了。
+Your bank, my robber. Remember.
+
+456
+00:29:09,331 --> 00:29:11,868
+Oh, this is so exciting.
+
+457
+00:29:15,003 --> 00:29:16,459
+James，就是你。
+James, that's you.
+
+458
+00:29:20,342 --> 00:29:23,675
+哦，James，你看起来真英俊。
+Oh, James, you look so handsome.
+
+459
+00:29:25,097 --> 00:29:26,928
+什么时候能看到那个女孩？
+When do we get to see the girl?
+
+460
+00:29:27,015 --> 00:29:28,130
+现在。
+Right now.
+
+461
+00:29:29,017 --> 00:29:30,302
+她在那儿了。
+There she is.
+
+462
+00:29:35,023 --> 00:29:36,023
+让开路！
+Out of the way!
+
+463
+00:29:36,108 --> 00:29:37,598
+我看不到她！
+I can't see her!
+
+464
+00:29:37,693 --> 00:29:39,684
+哦，也许还有更多。
+Oh, maybe there's more.
+
+465
+00:29:42,447 --> 00:29:45,610
+- 转过来！转过来！
+- 是的，转过来！
+- Turn around! Turn around! - Yes, turn around!
+
+466
+00:29:45,701 --> 00:29:47,191
+把胶片放慢。
+Slow down the film.
+
+467
+00:29:53,709 --> 00:29:56,200
+哦，她不见了。
+Oh, she's gone.
+
+468
+00:29:57,170 --> 00:29:58,910
+把那部分倒回去。
+Run that part backwards.
+
+469
+00:30:06,722 --> 00:30:08,087
+哦，我喜欢那一幕。
+Oh, I like that.
+
+470
+00:30:15,022 --> 00:30:16,137
+好了，就这些了。
+Well, that's it.
+
+471
+00:30:16,231 --> 00:30:18,313
+嫌疑人，年轻的白人女性，
+Suspect, young white female,
+
+472
+00:30:18,400 --> 00:30:21,016
+身高 5 英尺 3 英寸，红发，黄色套装。
+5'3", red hair, yellow suit.
+
+473
+00:30:21,111 --> 00:30:22,692
+我忘了什么吗？
+Did I forget anything?
+
+474
+00:30:22,779 --> 00:30:24,269
+是的，从后面看时，
+Yeah, when viewed from behind,
+
+475
+00:30:24,364 --> 00:30:26,650
+她的后摆非常吸引人地摆动。
+she has a very attractive wiggle.
+
+476
+00:30:26,742 --> 00:30:29,654
+打扰一下，Elcott 太太。
+Excuse me, Mrs. Elcott. -not at all.
+
+477
+00:30:29,745 --> 00:30:31,656
+- 没关系。
+Not much help, was it?
+
+478
+00:30:31,747 --> 00:30:34,329
+帮不上太大忙，是吗？
+No. What a shame.
+
+479
+00:30:34,416 --> 00:30:37,032
+不。真遗憾。
+Everyone else's face was so clear.
+
+480
+00:30:37,127 --> 00:30:38,663
+别人脸都很清楚。
+You were very good, James.
+
+481
+00:30:38,754 --> 00:30:40,995
+你干得很好，James。
+And miss Serena was just fabulous.
+
+482
+00:30:41,089 --> 00:30:44,172
+而 Serena 小姐简直棒极了。
+Yeah, considering she kept her mouth open all the time.
+
+483
+00:30:44,259 --> 00:30:45,669
+是的，考虑到她一直张着嘴。
+Mm.
+
+484
+00:30:45,761 --> 00:30:48,503
+嗯。
+Incidentally, your cameras are very strategically located.
+
+485
+00:30:48,597 --> 00:30:52,181
+顺便说一句，你们的摄像机位置很有策略性。
+We weren't expecting to photograph the ladies' washroom.
+
+486
+00:30:57,022 --> 00:30:58,683
+我们可没料到会拍到女洗手间。
+Yeah. Bixbee.
+
+487
+00:30:58,774 --> 00:31:01,106
+是的，Bixbee。
+Oh, very good.
+
+488
+00:31:02,152 --> 00:31:04,438
+哦，很好。
+Our first break in the case.
+
+489
+00:31:04,529 --> 00:31:07,896
+我们破案的第一个突破。
+So soon? I may have underestimated you.
+
+490
+00:31:07,991 --> 00:31:10,107
+这么快？我可能低估你了。
+Good work, officer.
+
+491
+00:31:10,202 --> 00:31:12,693
+干得好，警官。
+We set up a roadblock in Times Square.
+
+492
+00:31:17,542 --> 00:31:20,124
+我们在时代广场设了路障。
+Lieutenant, how dear of you.
+
+493
+00:31:20,212 --> 00:31:23,579
+中尉，你真贴心。
+Oh, James, wasn't that sweet of him?
+
+494
+00:31:23,673 --> 00:31:24,913
+哦，James，他真体贴，不是吗？
+Adorable.
+
+495
+00:31:25,008 --> 00:31:26,544
+可爱。
+Lieutenant Bixbee?
+
+496
+00:31:28,553 --> 00:31:29,588
+Bixbee 中尉？
+I already gave.
+
+497
+00:31:29,679 --> 00:31:33,171
+我已经给过了。
+Oh, I'm major Higgins.
+
+498
+00:31:33,266 --> 00:31:34,756
+哦，我是 Higgins 少校。
+I'm very busy.
+
+499
+00:31:34,851 --> 00:31:36,162
+我很忙。
+Well, that's a fine way for a lieutenant
+
+500
+00:31:36,186 --> 00:31:37,471
+嗯，这对中尉来说说话可真漂亮。
+to talk to a major.
+
+501
+00:31:37,562 --> 00:31:39,518
+呃，呃，中尉，
+Uh, uh, lieutenant,
+
+502
+00:31:39,606 --> 00:31:43,724
+我想请问这是真的还是假的。
+I was wondering if you could tell me if this is real.
+
+503
+00:31:43,819 --> 00:31:45,810
+打扰一下。
+Excuse me a minute.
+
+504
+00:31:53,036 --> 00:31:54,867
+少校，你从哪儿弄到这个的？
+Major, where did you get this?
+
+505
+00:31:54,955 --> 00:31:59,244
+一位年轻女士在大约五点钟把它放进我的鼓里。
+A young lady put it in my tambourine about 5 o'clock.
+
+506
+00:31:59,334 --> 00:32:00,369
+你能描述她吗？
+Could you describe her?
+
+507
+00:32:00,460 --> 00:32:01,745
+她的衣着，她的肤色？
+Her clothes, her coloring?
+
+508
+00:32:01,837 --> 00:32:03,122
+身高，身材如何？
+Her height, her figure?
+
+509
+00:32:03,213 --> 00:32:04,857
+呃，Elcott 太太，你能站起来吗？
+Uh, Mrs. Elcott, would you stand up, please?
+
+510
+00:32:04,881 --> 00:32:06,337
+哦，当然。
+Oh, of course.
+
+511
+00:32:09,594 --> 00:32:13,633
+是的，是的，她大约和这位小姐一样高。
+Yes, yes, she was just about this young lady's height.
+
+512
+00:32:14,975 --> 00:32:17,216
+而且身材也差不多。
+And figure.
+
+513
+00:32:17,727 --> 00:32:19,058
+只是……
+Only...
+
+514
+00:32:19,855 --> 00:32:21,186
+只是什么？
+Only what?
+
+515
+00:32:21,857 --> 00:32:24,894
+只是金发。
+Only with blond hair.
+
+516
+00:32:24,985 --> 00:32:27,067
+还有别的吗？有的。
+Anything else? Yes.
+
+517
+00:32:27,154 --> 00:32:30,942
+她带着法国口音说话而且……
+She spoke with a French accent and...
+
+518
+00:32:32,325 --> 00:32:34,361
+她脸颊上有一粒痣。
+She had a mole on her cheek.
+
+519
+00:32:34,453 --> 00:32:37,286
+打扰一下，就在这里。
+Excuse me. Right here.
+
+520
+00:32:37,956 --> 00:32:39,071
+谢谢。
+Thank you.
+
+521
+00:32:40,584 --> 00:32:42,324
+你还记得她说了什么吗？
+Can you remember anything she said?
+
+522
+00:32:42,419 --> 00:32:44,785
+是的，我相信她的原话是
+Yes, I believe her exact words were
+
+523
+00:32:44,880 --> 00:32:49,089
+“施比受更有福，不是吗？”
+"it is more blessed to give than to take, no?"
+
+524
+00:32:49,176 --> 00:32:51,087
+哦，我们需要像她这样的人。
+Oh, we need workers like her.
+
+525
+00:32:51,178 --> 00:32:53,214
+那么乐于助人，那么，呃……
+So willing, so, uh...
+
+526
+00:32:54,514 --> 00:32:55,799
+快乐？快乐。
+Cheerful? Cheerful.
+
+527
+00:32:55,891 --> 00:32:58,678
+是的，是的，那正是这个词。快乐。
+Yes, yes, that's the exact word. Cheerful.
+
+528
+00:32:58,768 --> 00:33:00,884
+是的，她看起来是个可爱的人。
+Yeah, she seemed such a sweet person.
+
+529
+00:33:03,607 --> 00:33:05,393
+钱不是很好吗？
+Isn't the money good?
+
+530
+00:33:05,484 --> 00:33:07,600
+嗯，对你来说不行，少校。
+Well, not for you, major.
+
+531
+00:33:07,694 --> 00:33:09,150
+这张钞票是今天下午被盗的
+This bill was stolen this afternoon
+
+532
+00:33:09,237 --> 00:33:11,102
+从 Elcott 先生的银行。
+from Mr. Elcott's bank.
+
+533
+00:33:13,074 --> 00:33:15,565
+哦，那真让我很抱歉。
+Well, I'm sorry about that.
+
+534
+00:33:17,579 --> 00:33:19,490
+但我只是抱有一线希望。
+But I was just hoping.
+
+535
+00:33:20,790 --> 00:33:22,496
+哦，好吧。
+Oh, well.
+
+536
+00:33:22,584 --> 00:33:24,996
+少校，等等！
+Major, wait!
+
+537
+00:33:25,086 --> 00:33:27,828
+Bixbee 中尉，这不公平。
+Lieutenant Bixbee, this is unfair.
+
+538
+00:33:27,923 --> 00:33:29,834
+法律不必公平。这就是法律。
+It doesn't have to be fair. It's the law.
+
+539
+00:33:29,925 --> 00:33:32,837
+什么法律？我从未听说过这种法律。
+What law? I never heard of any such law.
+
+540
+00:33:32,928 --> 00:33:34,213
+我的意思是，他为什么不能留着它？
+I mean, why can't he keep it?
+
+541
+00:33:34,304 --> 00:33:37,262
+毕竟，他并没有偷它。有人把它给了他。
+After all, he didn't steal it. Somebody gave it to him.
+
+542
+00:33:37,349 --> 00:33:39,465
+那不是她有权赠与的，亲爱的。
+It wasn't hers to give, darling.
+
+543
+00:33:39,559 --> 00:33:40,844
+但他需要它。
+But he needs it.
+
+544
+00:33:40,936 --> 00:33:43,222
+你就什么都不能做吗？
+Isn't there anything you can do?
+
+545
+00:33:43,313 --> 00:33:44,644
+恐怕不行。
+I'm afraid not.
+
+546
+00:33:46,942 --> 00:33:50,309
+那好，James，你来做点什么吧。
+Well, then, James, you do something.
+
+547
+00:33:50,403 --> 00:33:52,109
+呃，比如什么？
+Uh, like what?
+
+548
+00:33:52,197 --> 00:33:54,859
+给 Higgins 少校开一张支票。
+Write major Higgins a check.
+
+549
+00:33:54,950 --> 00:33:57,817
+- 为了什么，亲爱的？
+- 为一千美元。
+- For what, darling? - For $1000.
+
+550
+00:33:57,911 --> 00:34:00,698
+那就是你要从他那里拿走的。
+That's what you're taking from him.
+
+551
+00:34:00,789 --> 00:34:02,871
+- 拿走？
+- 当然了。
+- Taking? - Well, of course.
+
+552
+00:34:02,958 --> 00:34:05,370
+而且，你会打平账。
+And besides, you'll be breaking even.
+
+553
+00:34:05,460 --> 00:34:07,872
+亲爱的，你这是怎么想出来的？
+How do-how do you figure that out, darling?
+
+554
+00:34:07,963 --> 00:34:11,205
+因为 Higgins 少校把你的 1000 美元还给了你，
+Well, major Higgins gave you back your $1000.
+
+555
+00:34:11,299 --> 00:34:14,336
+你把他的 1000 美元还给他。很简单。
+You give him back his $1000. Simple.
+
+556
+00:34:16,054 --> 00:34:19,091
+我听到的是吗？真不敢相信。
+Am I hearing right? I can't believe this.
+
+557
+00:34:19,182 --> 00:34:20,888
+James！
+James!
+
+558
+00:34:20,976 --> 00:34:23,638
+如果你不给 Higgins 少校开支票，
+If you don't give major Higgins a check,
+
+559
+00:34:23,728 --> 00:34:25,218
+我就再也不跟你说话了。
+I'll never speak to you again.
+
+560
+00:34:25,313 --> 00:34:27,895
+哦，拜托，诸位，拜托。
+Oh, please, folks, please.
+
+561
+00:34:27,983 --> 00:34:31,020
+我们的职责是减轻别人的烦恼，不是制造烦恼。
+We're meant to ease people's troubles, not to cause them.
+
+562
+00:34:31,111 --> 00:34:32,601
+对不起。
+I'm sorry.
+
+563
+00:34:33,530 --> 00:34:35,270
+拜托，James。
+Please, James.
+
+564
+00:34:48,670 --> 00:34:51,002
+哦，谢谢你，亲爱的。
+Oh, thank you, darling.
+
+565
+00:34:57,012 --> 00:34:58,923
+五百？
+Five hundred?
+
+566
+00:34:59,014 --> 00:35:00,550
+一千。
+A thousand.
+
+567
+00:35:00,640 --> 00:35:02,005
+一千。
+A thousand.
+
+568
+00:35:03,643 --> 00:35:05,429
+等着吧，这件事传到
+Wait till word of this reaches
+
+569
+00:35:05,520 --> 00:35:08,307
+红十字会、基督教青年会和哈达萨会去。
+Red Cross, YMCA and Hadassah.
+
+570
+00:35:15,488 --> 00:35:17,069
+你知道吗？
+And do you know what?
+
+571
+00:35:17,157 --> 00:35:21,025
+James 仍然不明白他在这笔交易中是打平了。
+James still doesn't understand that he broke even on the deal.
+
+572
+00:35:22,078 --> 00:35:23,943
+也许他只是固执。
+Maybe he was just being stubborn.
+
+573
+00:35:24,039 --> 00:35:26,746
+不，他只是糊涂。
+No, he's just confused.
+
+574
+00:35:26,833 --> 00:35:29,245
+对一个银行家来说，这很奇怪。
+For a banker, I think that's pretty strange.
+
+575
+00:35:36,760 --> 00:35:38,967
+这些牛奶都对你有好处吗？
+Is all this milk good for you?
+
+576
+00:35:40,764 --> 00:35:42,755
+不是给我的，是给我的溃疡的。
+It's not for me, it's for my ulcer.
+
+577
+00:35:44,184 --> 00:35:46,516
+你知道，Bixbee 中尉非常好
+You know, lieutenant Bixbee was so nice
+
+578
+00:35:46,603 --> 00:35:48,514
+帮我找回我的鞋子。
+about getting back my shoes.
+
+579
+00:35:49,689 --> 00:35:51,771
+你猜我为什么拿了它们？
+Why do you suppose I took this?
+
+580
+00:35:53,652 --> 00:35:55,017
+Gregory。
+Gregory.
+
+581
+00:35:55,570 --> 00:35:57,151
+噎着了吗？
+Go down the wrong pipe?
+
+582
+00:35:59,908 --> 00:36:01,819
+Penelope。
+Penelope.
+
+583
+00:36:01,910 --> 00:36:03,241
+Penelope。
+Penelope.
+
+584
+00:36:04,245 --> 00:36:06,406
+Penelope，你有没有想过
+Penelope, did you, did you ever think
+
+585
+00:36:06,498 --> 00:36:08,238
+去看另一位精神科医生？
+of going to another psychiatrist?
+
+586
+00:36:09,209 --> 00:36:11,791
+不，那样不忠诚。
+No, that would be disloyal.
+
+587
+00:36:13,129 --> 00:36:14,494
+我一点也帮不了你。
+I'm not helping you at all.
+
+588
+00:36:15,632 --> 00:36:17,714
+当然你帮了。
+Of course you are.
+
+589
+00:36:17,801 --> 00:36:20,383
+Gregory，对不起。我会把钱包寄回去。
+Gregory, I'm sorry. I'll send the wallet back.
+
+590
+00:36:20,470 --> 00:36:22,210
+不止是这个。
+It's not only this.
+
+591
+00:36:23,306 --> 00:36:26,719
+哦，别因为我抢了家银行就气馁。
+Oh, don't be discouraged just because I stuck up a bank.
+
+592
+00:36:26,810 --> 00:36:28,391
+是你丈夫的银行。
+Your husband's bank.
+
+593
+00:36:28,478 --> 00:36:30,309
+是的，James 的银行。
+Yeah, James' bank.
+
+594
+00:36:30,397 --> 00:36:32,934
+为什么是他那家银行？为什么不是别人的？
+Why his bank? Why not somebody else's bank?
+
+595
+00:36:33,400 --> 00:36:35,391
+你为什么用左手写字？
+Why are you writing left-handed?
+
+596
+00:36:37,278 --> 00:36:39,564
+我是事后帮助掩护的人。
+I'm being an accessory after the fact.
+
+597
+00:36:44,452 --> 00:36:46,363
+你介意替我舔一下这个吗？
+Would you mind licking this for me?
+
+598
+00:36:47,831 --> 00:36:49,162
+我太干了。
+I'm too dry.
+
+599
+00:36:53,461 --> 00:36:56,043
+你当初怎么会嫁给那样的男人？
+Whatever made you marry a man like that in the first place?
+
+600
+00:36:57,006 --> 00:37:00,590
+哦，James 起初并不是那种男人。
+Oh, James wasn't a man like that in the first place.
+
+601
+00:37:00,677 --> 00:37:02,008
+哦，不。
+Oh, no.
+
+602
+00:37:02,679 --> 00:37:05,762
+我第一次遇到 James 是在格林威治村的一个酒窖里
+The first time I met James was at a Greenwich village cellar
+
+603
+00:37:05,849 --> 00:37:07,840
+叫做 Plush Pig。
+known as the plush pig.
+
+604
+00:37:07,934 --> 00:37:09,765
+我在那里工作了几个月。
+I'd been working there a couple of months.
+
+605
+00:37:09,853 --> 00:37:11,844
+那是我在纽约的第一份正经工作。
+It was my first real job in New York.
+
+606
+00:37:13,481 --> 00:37:18,896
+<i>♪ 我是个知道自己是谁的人 ♪</i>
+<i>♪ I'm someone who knows who I am ♪</i>
+
+607
+00:37:18,987 --> 00:37:22,730
+<i>♪ 但当你远离我时 ♪</i>
+<i>♪ but when you are far away ♪</i>
+
+608
+00:37:22,824 --> 00:37:27,238
+<i>♪ 我的世界变得阴霾 ♪</i>
+<i>♪ my world is clouded ♪</i>
+
+609
+00:37:27,328 --> 00:37:31,867
+<i>♪ 太阳也变得灰暗 ♪</i>
+<i>♪ the sun is gray ♪</i>
+
+610
+00:37:34,878 --> 00:37:40,089
+<i>♪ 你能让我触及天空 ♪</i>
+<i>♪ you can make me touch the sky ♪</i>
+
+611
+00:37:40,175 --> 00:37:45,511
+<i>♪ 给我翅膀帮助我飞翔 ♪</i>
+<i>♪ give me wings and help me fly ♪</i>
+
+612
+00:37:45,597 --> 00:37:49,089
+<i>♪ 但没有你无论昼夜 ♪</i>
+<i>♪ but without you night and day ♪</i>
+
+613
+00:37:49,184 --> 00:37:53,803
+<i>♪ 我的世界都笼罩着阴霾 ♪</i>
+<i>♪ my world is clouded ♪</i>
+
+614
+00:37:53,897 --> 00:37:58,766
+<i>♪ 太阳也变得灰暗 ♪</i>
+<i>♪ the sun is gray ♪</i>
+
+615
+00:37:58,860 --> 00:38:02,603
+<i>♪ 你挂起月亮 ♪</i>
+<i>♪ you hang the moon ♪</i>
+
+616
+00:38:02,697 --> 00:38:09,193
+<i>♪ 在天空中撒满星辰 ♪</i>
+<i>♪ scatter stars throughout the sky ♪</i>
+
+617
+00:38:09,287 --> 00:38:14,247
+<i>♪ 我内心所有的美好 ♪</i>
+<i>♪ all of the good things within me ♪</i>
+
+618
+00:38:14,334 --> 00:38:19,829
+<i>♪ 都必须透过你的眼来见证 ♪</i>
+<i>♪ must first be seen through your eye ♪</i>
+
+619
+00:38:23,092 --> 00:38:27,756
+<i>♪ 只有一件事是错的 ♪</i>
+<i>♪ there is only one thing wrong ♪</i>
+
+620
+00:38:28,932 --> 00:38:33,596
+<i>♪ 太阳是灰色的 ♪</i>
+<i>♪ the sun is gray ♪</i>
+
+621
+00:38:34,646 --> 00:38:40,858
+<i>♪ 太阳是灰色的 ♪</i>
+<i>♪ the sun is gray ♪</i>
+
+622
+00:38:59,420 --> 00:39:01,661
+魔鬼的小提琴在说话。
+The devil's fiddle speaks.
+
+623
+00:39:35,415 --> 00:39:36,655
+嗨。
+Hi.
+
+624
+00:39:37,375 --> 00:39:40,617
+- 嗯。Penelope Gordon 小姐？
+- 嗯哼。
+- Huh. Miss Penelope Gordon? - Mm-hm.
+
+625
+00:39:40,712 --> 00:39:43,545
+如果你坐下，就不用弯着腰了。
+If you sit down, you won't have to scrunch over.
+
+626
+00:39:43,631 --> 00:39:46,748
+我可以请你喝一杯，但只有水。
+I'd offer you a drink, but it's only water.
+
+627
+00:39:46,843 --> 00:39:48,799
+你介意我把眼睛取出来吗？
+Would you excuse me while I take out my eyes?
+
+628
+00:39:55,018 --> 00:39:59,762
+我是 James Elcott，市联邦银行。
+I'm James Elcott, city federal bank.
+
+629
+00:39:59,856 --> 00:40:02,063
+嗯，隐形眼镜。
+Hm, contacts.
+
+630
+00:40:02,150 --> 00:40:03,731
+哦，现在我能看得更清楚你了。
+Oh, now I can see you much better.
+
+631
+00:40:08,448 --> 00:40:10,359
+好吧，我从没和银行握过手。
+Well, I never shook hands with a bank before.
+
+632
+00:40:12,410 --> 00:40:14,696
+Penelope Gordon 小姐，我怎么没收到你的来信？
+How is it I haven't heard from you, miss Gordon?
+
+633
+00:40:14,787 --> 00:40:17,073
+嗯，可能是因为我们刚认识不久。
+Well, it's probably because we've only just met.
+
+634
+00:40:17,165 --> 00:40:19,747
+但在过去两个月我给你写了九封信。
+But I've written you nine times in the last two months.
+
+635
+00:40:19,834 --> 00:40:22,450
+哦，你真喜欢民谣，是吗？
+Oh, you really love folk songs, do you?
+
+636
+00:40:22,545 --> 00:40:25,207
+并不完全是。不，这事是公务。
+Not exactly. No, this is business.
+
+637
+00:40:25,298 --> 00:40:28,540
+市联邦接受了一个小遗产的受托管理
+City federal has accepted trusteeship of a modest estate
+
+638
+00:40:28,635 --> 00:40:30,250
+是你母亲的表亲留给你的。
+left to you by your mother's cousin.
+
+639
+00:40:30,345 --> 00:40:32,506
+你确定是对的 Penelope Gordon 吗？
+Are you sure you've got the right Penelope Gordon?
+
+640
+00:40:32,597 --> 00:40:33,597
+绝对。
+Absolutely.
+
+641
+00:40:33,681 --> 00:40:35,281
+遗产的收入不会很多，
+The income from the estate won't be much,
+
+642
+00:40:35,350 --> 00:40:36,635
+但有些文件需要签字。
+but there are papers to sign.
+
+643
+00:40:36,726 --> 00:40:39,468
+你真的从未收到过我的任何信吗？
+You're certain you never received any of my letters?
+
+644
+00:40:39,562 --> 00:40:41,974
+啊，我知道怎么回事了。
+Ah, I know what happened.
+
+645
+00:40:42,065 --> 00:40:44,898
+你看，我从不打开我的邮件。
+You see, I never open my mail.
+
+646
+00:40:44,984 --> 00:40:46,520
+哦，谁替你打开？
+Oh, who does it for you?
+
+647
+00:40:46,611 --> 00:40:48,727
+- 没有人。
+- 那邮件都去哪儿了？
+- Nobody. - What happens to it?
+
+648
+00:40:48,821 --> 00:40:51,984
+通常我把它塞进抽屉里某处，
+Well, usually, I stick it away in a drawer someplace
+
+649
+00:40:52,075 --> 00:40:55,693
+然后总是忘了或丢了。
+and then I always forget it or it gets lost.
+
+650
+00:40:56,287 --> 00:40:58,323
+你不会因此失去很多朋友吗？
+Don't you lose a lot of friends that way?
+
+651
+00:40:58,414 --> 00:41:00,996
+哦，不，正好相反。
+Oh, no, just the opposite.
+
+652
+00:41:01,084 --> 00:41:03,996
+你看，如果你写信给我而我回信，
+You see, if you write me a letter and I answer it,
+
+653
+00:41:04,087 --> 00:41:05,668
+那你就得回我信。
+then you have to answer mine.
+
+654
+00:41:05,755 --> 00:41:08,108
+然后我回答你的第二封，你得写第三封
+Then I answer your second letter and you have to write me a third
+
+655
+00:41:08,132 --> 00:41:09,247
+并回答我的第二封。
+and answer to my second.
+
+656
+00:41:09,342 --> 00:41:10,569
+然后我得写第三封，
+And then I have to write you a third
+
+657
+00:41:10,593 --> 00:41:11,924
+你得寄第四封。
+and you have to send me a fourth.
+
+658
+00:41:12,011 --> 00:41:14,365
+很快，我们忙着互相写信，
+And pretty soon, we're so busy writing letters to each other
+
+659
+00:41:14,389 --> 00:41:16,175
+就没时间做朋友了。
+we haven't got time to be friends.
+
+660
+00:41:18,393 --> 00:41:20,054
+是吗？
+Isn't that true?
+
+661
+00:41:20,144 --> 00:41:24,683
+嗯，我从没这么想过，嗯。
+Uh, I-i-I never, I never thought of it like that, hm.
+
+662
+00:41:24,774 --> 00:41:27,231
+无论如何，我可以回家再找找你的信。
+Well, anyway, I-I could still look for your letters at home.
+
+663
+00:41:27,318 --> 00:41:28,318
+那有帮助吗？
+Would that help?
+
+664
+00:41:28,403 --> 00:41:30,644
+嗯，我们应该讨论这些，是的。
+Well, we ought to discuss them, yes.
+
+665
+00:41:32,323 --> 00:41:34,063
+哦，亲爱的。
+Oh, dear.
+
+666
+00:41:34,158 --> 00:41:35,523
+怎么了？
+What is it?
+
+667
+00:41:35,618 --> 00:41:38,280
+我把隐形眼镜掉了。我总是弄丢它们。
+I've dropped my contact lens. I'm always losing them.
+
+668
+00:41:38,371 --> 00:41:39,736
+哦，别把裤子弄脏。
+Oh, oh, don't get your pants dirty.
+
+669
+00:41:39,831 --> 00:41:41,742
+哦，没事的。
+Oh, that's alright.
+
+670
+00:41:41,833 --> 00:41:44,495
+你、嗯，你觉得我们可以、呃，
+Do you, um, do you think we could, uh,
+
+671
+00:41:44,585 --> 00:41:46,746
+明天找个时间见面吗？
+get together sometime tomorrow?
+
+672
+00:41:46,838 --> 00:41:48,749
+哦，当然，吃个晚饭怎么样？
+Oh, sure, how about dinner?
+
+673
+00:41:48,840 --> 00:41:50,751
+我——我要请些朋友来。
+I-I'm gonna have some friends in.
+
+674
+00:41:50,842 --> 00:41:53,754
+呃，那太好了。
+Uh, that's wonderful.
+
+675
+00:41:53,845 --> 00:41:56,632
+哦，这些隐形眼镜，真小。
+Oh, these contacts, they're so tiny.
+
+676
+00:41:56,723 --> 00:41:58,259
+我们怎么可能找到它们呢。
+We're never going to find them.
+
+677
+00:41:58,349 --> 00:41:59,555
+那，有关系吗？
+Well, does it matter?
+
+678
+00:41:59,642 --> 00:42:01,758
+你自己不是说过不用它们看得更清楚吗。
+You said yourself, you can see better without them.
+
+679
+00:42:01,853 --> 00:42:03,389
+哦，清楚多了。
+Oh, much better.
+
+680
+00:42:03,479 --> 00:42:04,969
+我想以前和我约会的那位验光师
+I think this optometrist I was dating
+
+681
+00:42:05,064 --> 00:42:06,770
+给了我错的处方。
+gave me the wrong prescription.
+
+682
+00:42:06,858 --> 00:42:09,395
+我能问你件事吗？
+May I ask something?
+
+683
+00:42:10,695 --> 00:42:12,401
+你为什么戴它们？
+Why do you wear them?
+
+684
+00:42:12,488 --> 00:42:14,695
+嗯，他说它们能让我的眼睛显得有神采。
+Well, he said they make my eyes look luminous.
+
+685
+00:42:16,159 --> 00:42:18,070
+我觉得我的眼睛本来就很有神采了。
+I think they're luminous already.
+
+686
+00:42:19,871 --> 00:42:21,236
+而且也挺漂亮的。
+And quite beautiful.
+
+687
+00:42:23,374 --> 00:42:27,413
+哦，那好，那么我就不用戴隐形眼镜了，是吗？
+Oh, well, then I don't need to wear the contacts, do I?
+
+688
+00:42:30,590 --> 00:42:32,501
+我很高兴你来看我。
+I'm glad you came to see me.
+
+689
+00:42:34,135 --> 00:42:35,796
+我也是。
+So am I.
+
+690
+00:42:35,887 --> 00:42:37,843
+我很期待明晚。
+I'm looking forward to tomorrow night.
+
+691
+00:42:38,431 --> 00:42:39,762
+我也是。
+So am I.
+
+692
+00:42:46,731 --> 00:42:48,892
+现在我想起来了，可以请你站起来吗？
+And now I'd like to get up, please.
+
+693
+00:42:48,983 --> 00:42:50,018
+什么？
+Pardon?
+
+694
+00:42:50,109 --> 00:42:52,270
+你跪在我的头发上了。
+You're kneeling on my hair.
+
+695
+00:42:52,361 --> 00:42:54,241
+- 哦，我太...
+- 哦，小心那个...
+- Oh, I'm terribly... - Oh, watch out for the...
+
+696
+00:42:56,783 --> 00:42:57,898
+烟斗。
+Pipe.
+
+697
+00:42:58,993 --> 00:43:00,824
+哦，天哪。哦。
+Oh, dear. Oh.
+
+698
+00:43:00,912 --> 00:43:03,824
+真是非常抱歉。
+I'm terribly sorry.
+
+699
+00:43:03,915 --> 00:43:04,915
+你还好吗？
+A-are you alright?
+
+700
+00:43:04,999 --> 00:43:06,990
+没事，完全没事。
+It's alright. Quite alright.
+
+701
+00:43:07,085 --> 00:43:09,246
+没什么好担心的。
+There's nothing to concern yourself about.
+
+702
+00:43:11,714 --> 00:43:12,714
+哎呀。
+Oh, dear.
+
+703
+00:43:15,134 --> 00:43:18,547
+哦，你找到了我的隐形眼镜。
+Oh, you found my contact lens.
+
+704
+00:43:40,868 --> 00:43:42,199
+嗯？
+Yeah?
+
+705
+00:43:44,580 --> 00:43:46,070
+Penelope Gordon 小姐？
+Miss Penelope Gordon?
+
+706
+00:43:46,165 --> 00:43:47,871
+这是银行吗？
+Is this the bank?
+
+707
+00:43:47,959 --> 00:43:49,745
+是的。我上去吗？
+Yes. Shall I come up?
+
+708
+00:43:49,836 --> 00:43:52,578
+不用了，你可以在楼下等。
+No, but you're welcome down here.
+
+709
+00:43:55,800 --> 00:43:57,006
+明白了。
+Got it.
+
+710
+00:44:11,983 --> 00:44:14,269
+希望我在村子里穿得不过分隆重。
+I hope I'm not overdressed for the village.
+
+711
+00:44:14,360 --> 00:44:15,725
+不会的，我不会这么说。
+No, I wouldn't say so.
+
+712
+00:44:15,820 --> 00:44:17,685
+进来，认识大家吧。
+Come on in and meet everybody.
+
+713
+00:44:18,322 --> 00:44:20,563
+大家，这是 James Elcott。
+Everybody, meet James Elcott.
+
+714
+00:44:33,212 --> 00:44:35,578
+你这打扮不像个银行家。
+You're dressed funny for a banker.
+
+715
+00:44:35,673 --> 00:44:38,460
+- 我可以回家换衣服。
+- 哦，不，我觉得很可爱。
+- I could go home and change. - Oh, no, I think it's sweet.
+
+716
+00:44:38,551 --> 00:44:40,792
+你为我们打扮，我们也为你打扮。
+You dressed for us and we dressed for you.
+
+717
+00:44:41,846 --> 00:44:43,427
+Penelope，帮忙。
+Penelope, help.
+
+718
+00:44:43,514 --> 00:44:44,992
+你知道这种场合会让我紧张。
+You know these things make me nervous.
+
+719
+00:44:45,016 --> 00:44:46,927
+别慌，Sebastian。救援马上到。
+Don't panic, Sebastian. Help is on the way.
+
+720
+00:44:47,018 --> 00:44:49,885
+- 我就一会儿。
+- 我会记着你的。
+- I'll just be a sec. - I'm going to hold you to that.
+
+721
+00:44:49,979 --> 00:44:51,719
+我了解你。
+I know you.
+
+722
+00:44:51,814 --> 00:44:53,930
+你在市联邦银行存钱吗？
+Do you bank at city federal?
+
+723
+00:44:54,025 --> 00:44:55,390
+我把钱塞在床垫里。
+I bank in my mattress.
+
+724
+00:44:55,484 --> 00:44:57,440
+那也不错。
+Well, that's nice too.
+
+725
+00:44:57,528 --> 00:44:59,940
+昨晚在 Plush Pig，
+Last night at plush pig,
+
+726
+00:45:00,031 --> 00:45:01,521
+你在我重要的那段演出时走了。
+you walked out on my big number.
+
+727
+00:45:01,616 --> 00:45:03,106
+是个无心的冒犯。
+An unintentional slight.
+
+728
+00:45:03,201 --> 00:45:05,943
+话说得轻巧。现在想听吗？
+Talk's cheap. Wanna hear it now?
+
+729
+00:45:06,037 --> 00:45:08,824
+- 就在这儿，没有你的乐队？
+- 我会假唱给你听。
+- Right here without your band? - I'll fake it for you.
+
+730
+00:45:08,915 --> 00:45:10,701
+我要去把我的朋友从 Boom Boom 那儿救出来。
+I've got to rescue my friend from boom boom.
+
+731
+00:45:10,791 --> 00:45:12,281
+我要去救那位商人。
+I shall rescue the businessman.
+
+732
+00:45:12,376 --> 00:45:13,912
+请把我的礼物讲完。
+Please finish my present.
+
+733
+00:45:14,545 --> 00:45:17,127
+毕竟这是你的生日。
+Well, it's your birthday.
+
+734
+00:45:17,215 --> 00:45:18,775
+来段《Greensleeves》快版如何？
+How about a fast arrangement of "Greensleeves?"
+
+735
+00:45:18,799 --> 00:45:20,209
+等一下，Boom Boom。那个人是我的。
+Just a minute, boom boom. He's mine.
+
+736
+00:45:20,301 --> 00:45:22,212
+哦，拜托，Sebastian。
+Oh, come on, Sebastian.
+
+737
+00:45:29,435 --> 00:45:31,300
+我敢说你在哪儿都能适应。
+I bet you fit in any place.
+
+738
+00:45:31,938 --> 00:45:35,055
+- 我喜欢你的朋友。
+- 他们随租约一块来的。
+- I like your friends. - They came with the lease.
+
+739
+00:45:35,149 --> 00:45:36,980
+那也随租约带来的吗？
+Did that come with the lease too?
+
+740
+00:45:37,068 --> 00:45:40,185
+不是。我曾和一个焊工约会过。
+No. I used to date this welder.
+
+741
+00:45:40,279 --> 00:45:42,486
+他一定是个糟糕的司机。
+He must have been an awful driver.
+
+742
+00:45:42,573 --> 00:45:46,282
+不，我还有一个男朋友，开废品场的。
+No, I had this other boyfriend who owns a junkyard.
+
+743
+00:45:46,369 --> 00:45:48,030
+你男朋友真多，不是吗？
+You got a lot of boyfriends, haven't you?
+
+744
+00:45:48,120 --> 00:45:50,281
+嗯。你是我的第一个银行家。
+Hm. You're my first banker.
+
+745
+00:45:50,373 --> 00:45:51,613
+为什么要到处逛？
+Why all this shopping around?
+
+746
+00:45:51,707 --> 00:45:53,447
+如果你不试所有东西，
+Well, if you don't try everything
+
+747
+00:45:53,542 --> 00:45:55,828
+怎么知道自己真正喜欢什么？
+how are you gonna find out what you really like?
+
+748
+00:45:57,046 --> 00:45:59,128
+孩童之言真是金玉良言。
+Out of the mouths of babes.
+
+749
+00:46:14,397 --> 00:46:15,682
+又来？
+Again?
+
+750
+00:46:29,412 --> 00:46:31,277
+大家都去哪儿了？
+Where did everybody go?
+
+751
+00:46:32,248 --> 00:46:33,658
+他们都在这儿。
+They're all here.
+
+752
+00:46:47,888 --> 00:46:49,924
+三周后，我们结婚了。
+Three weeks later, we got married.
+
+753
+00:46:50,016 --> 00:46:53,474
+匆匆忙忙，好像不结婚会死掉似的。
+All in a rush. Like if we didn't, we'd die.
+
+754
+00:46:53,561 --> 00:46:55,643
+如果你老公还是那个
+And if your husband was still the same
+
+755
+00:46:55,730 --> 00:46:57,846
+浪漫格林威治村 James，
+romantic Greenwich village James,
+
+756
+00:46:57,940 --> 00:46:59,805
+你现在还会去偷东西吗？
+would you be stealing now?
+
+757
+00:46:59,900 --> 00:47:02,391
+哦，James 没有时间谈浪漫了。
+Oh, James hasn't got time for romance.
+
+758
+00:47:02,486 --> 00:47:04,522
+他太忙于银行工作。
+He's too busy banking.
+
+759
+00:47:04,613 --> 00:47:05,898
+所以你还偷吗？
+So you steal?
+
+760
+00:47:06,907 --> 00:47:09,114
+你对这事过于冷静了。
+You're much too calm about it.
+
+761
+00:47:09,201 --> 00:47:10,816
+我为什么不能冷静？
+Well, why shouldn't I be calm?
+
+762
+00:47:10,911 --> 00:47:13,402
+毕竟，没有什么能把我和抢劫联系起来。
+After all, there's nothing to connect me with the robbery.
+
+763
+00:47:14,915 --> 00:47:16,906
+除了那件黄色套装。
+Except the yellow suit.
+
+764
+00:47:17,001 --> 00:47:19,413
+你知道警察在全城搜寻它吗。
+You realize the police are combing the city for it.
+
+765
+00:47:19,503 --> 00:47:21,664
+嗯，我有看到报道。
+Mm, so I've read.
+
+766
+00:47:21,756 --> 00:47:23,462
+我已经处理掉了。
+I took care of it.
+
+767
+00:47:23,549 --> 00:47:24,584
+你把它烧了吗？
+You burned it?
+
+768
+00:47:24,675 --> 00:47:27,041
+没有，我把它捐给了旧货店。
+No, I gave it away to a thrift shop.
+
+769
+00:47:27,136 --> 00:47:28,421
+旧货店？
+Thrift shop?
+
+770
+00:47:28,512 --> 00:47:30,032
+你知道你这样做有多冒险吗？
+Do you realize the chance you're taking?
+
+771
+00:47:30,056 --> 00:47:31,842
+我不知道。
+I don't know.
+
+772
+00:47:31,932 --> 00:47:33,672
+也许我会去把它买回来。
+Maybe I'll go buy it back.
+
+773
+00:47:33,768 --> 00:47:35,850
+买回来？不，不行！
+Buy it? No, no!
+
+774
+00:47:35,936 --> 00:47:37,142
+Penny，看。
+Penny, look.
+
+775
+00:47:37,229 --> 00:47:39,185
+你这是想被抓吗，嗯？
+Are you trying to get caught, mm?
+
+776
+00:47:39,273 --> 00:47:41,168
+你根本就不该去那儿。
+You never should have gone there in the first place.
+
+777
+00:47:41,192 --> 00:47:43,478
+那我还能怎么办？把它扔掉？
+Well, what else could I do? Throw it away?
+
+778
+00:47:43,569 --> 00:47:45,230
+那样会安全得多。
+It would have been a lot safer.
+
+779
+00:47:45,321 --> 00:47:48,358
+Gregory，那是件 Givenchy 套装。
+Gregory, it was a Givenchy suit.
+
+780
+00:47:48,449 --> 00:47:49,780
+然后呢？
+So?
+
+781
+00:47:49,867 --> 00:47:52,324
+你不能把 Givenchy 扔进下水道。
+Well, you can't just throw a Givenchy down a manhole.
+
+782
+00:47:52,411 --> 00:47:53,696
+那简直是亵渎。
+It's sacrilege.
+
+783
+00:47:53,788 --> 00:47:56,700
+再说，James 为那套衣服付了1100美元，
+And besides, James paid $1100 for that suit
+
+784
+00:47:56,791 --> 00:47:59,453
+我可不想看到他浪费钱。
+and I wouldn't like to see him waste his money.
+
+785
+00:48:19,980 --> 00:48:23,143
+嗨。Bixbee 中尉。罗斯柴尔德中士。
+Hi. Lieutenant Bixbee. Sergeant Rothschild.
+
+786
+00:48:23,234 --> 00:48:24,644
+真是个意外的惊喜。
+What a nice surprise.
+
+787
+00:48:24,735 --> 00:48:27,568
+Elcott 太太，你经常来这儿买吗？
+Mrs. Elcott, do you shop here?
+
+788
+00:48:27,655 --> 00:48:30,897
+是的，我常来。他们有许多有趣的东西。
+Yes, I often drop by. They have fascinating things.
+
+789
+00:48:30,991 --> 00:48:33,824
+他们昨天确实有。那儿有那件黄色套装。
+They did yesterday. They had the yellow suit.
+
+790
+00:48:33,911 --> 00:48:35,902
+并非完全如此。
+Not really.
+
+791
+00:48:35,996 --> 00:48:36,996
+他们怎么得到的？
+How did they get it?
+
+792
+00:48:37,081 --> 00:48:38,183
+嗯，他们得到它的方式和
+Well, they got it the same way
+
+793
+00:48:38,207 --> 00:48:40,619
+Higgins 少校弄到那张1000美元钞票的方式一样。
+that major Higgins got his $1000 bill.
+
+794
+00:48:40,709 --> 00:48:43,701
+是个金发的女孩捐的，她带着装出来的法国口音。
+It was donated by a blond girl with a phony French accent.
+
+795
+00:48:43,796 --> 00:48:46,003
+- 然后我们追查到了这里。
+- 真聪明啊你们。
+- And we traced it here. - Well, how clever of you.
+
+796
+00:48:46,090 --> 00:48:47,317
+也没那么聪明。
+Well, not so clever.
+
+797
+00:48:47,341 --> 00:48:50,003
+后面那位女士在报上看到后打电话给我们。
+The lady back there read about it in the paper and called us.
+
+798
+00:48:50,094 --> 00:48:52,005
+但我们还够聪明，接了电话。
+But we were clever enough to pick up the phone.
+
+799
+00:48:54,348 --> 00:48:56,339
+好，那就这样。你们找到了。
+Well, that's that. You've got it.
+
+800
+00:48:56,434 --> 00:48:58,925
+还没呢。有人买走了。只付了七块钱。
+Not yet. Somebody bought it. Paid seven bucks.
+
+801
+00:48:59,019 --> 00:49:02,136
+- 七块？那……
+- 怎么了？太便宜吗？
+- Seven bucks? But that... - What? Too cheap?
+
+802
+00:49:02,231 --> 00:49:04,267
+这也说不准。
+Well, that's hard to say.
+
+803
+00:49:04,358 --> 00:49:05,723
+我得先看看。
+I'd have to see it first.
+
+804
+00:49:05,818 --> 00:49:07,712
+那你为何不和我们一块去拿呢？
+Well, why don't you come along while we pick it up?
+
+805
+00:49:07,736 --> 00:49:09,146
+我能坐警车吗？
+Do I get to ride in a police car?
+
+806
+00:49:09,238 --> 00:49:11,900
+可以，有警笛，还有一切配备。
+Yeah, with a siren and everything.
+
+807
+00:49:19,123 --> 00:49:21,705
+罗斯柴尔德中士总是这么开车吗？
+Does sergeant Rothschild always drive like that?
+
+808
+00:49:21,792 --> 00:49:23,999
+他只是稍微卖弄一下而已。
+He was just showin' off a little.
+
+809
+00:49:25,421 --> 00:49:27,912
+这是我第一次有机会参加警察突袭。
+This is the first police raid I've ever been invited to.
+
+810
+00:49:28,007 --> 00:49:29,713
+你们要把门撞开吗？
+Are you gonna break down the door?
+
+811
+00:49:29,800 --> 00:49:32,257
+那种做法随禁酒令时代一起过去了。
+Well, you see, that went out with prohibition.
+
+812
+00:49:32,344 --> 00:49:34,255
+现在我们有了全新的形象。
+Now we have a whole new image.
+
+813
+00:49:34,346 --> 00:49:36,678
+既时髦又有礼貌。
+It's very suave and very couth.
+
+814
+00:49:37,099 --> 00:49:40,557
+所以进去后，你就跟着我做就行了。
+So when we get inside, you just take your cue from me.
+
+815
+00:49:40,644 --> 00:49:41,644
+明白，长官。
+Right, chief.
+
+816
+00:49:41,729 --> 00:49:43,390
+那是中尉，Elcott 太太。
+That's lieutenant, Mrs. Elcott.
+
+817
+00:49:43,481 --> 00:49:44,937
+那是 Penelope，中尉。
+That's Penelope, lieutenant.
+
+818
+00:49:45,024 --> 00:49:48,733
+Horatio。我的父亲很爱读书。
+Horatio. My father read a lot.
+
+819
+00:49:55,826 --> 00:49:57,316
+嗯。嗯。
+Mm. Mm.
+
+820
+00:49:58,454 --> 00:50:00,695
+嗯。嗯。
+Mm. Mm.
+
+821
+00:50:04,168 --> 00:50:06,124
+哦，亲爱的。
+Oh, cherie.
+
+822
+00:50:06,212 --> 00:50:09,579
+这才是我认为的经典腌牛肉三明治。
+Now that's what I call a vintage pastrami.
+
+823
+00:50:09,673 --> 00:50:11,413
+嗯哼。嗯。
+Mm-hm. Mm.
+
+824
+00:50:11,509 --> 00:50:12,509
+嗯。
+Mm.
+
+825
+00:50:12,593 --> 00:50:14,709
+美味的莳萝腌黄瓜...
+Delish dill pickle...
+
+826
+00:50:15,846 --> 00:50:18,679
+没什么好挑剔的。
+Is nothing to throw rocks at.
+
+827
+00:50:22,978 --> 00:50:26,721
+我感觉有点胃灼热要起来了。
+I feel a slight heartburn building up.
+
+828
+00:50:26,815 --> 00:50:28,851
+快，我的天使，奶油汽水。
+Quickly, my angel, the cream soda.
+
+829
+00:50:44,500 --> 00:50:48,413
+啊，午安，女士们先生们。
+Ah, good afternoon, lady and gentleman.
+
+830
+00:50:48,504 --> 00:50:50,836
+欢迎来到Princess Sadaba的沙龙。
+Welcome to the salon of Princess Sadaba.
+
+831
+00:50:50,923 --> 00:50:53,289
+这家精品店非常时髦。
+The boutique très chic.
+
+832
+00:50:54,718 --> 00:50:58,677
+- 你好。
+- 啊，这国产香槟。
+- Salut. - Ah, this domestic champagne.
+
+833
+00:50:58,764 --> 00:51:02,803
+啊，Princess Sadaba能为您做些什么？
+Ah, and what can Princess Sadaba do for you?
+
+834
+00:51:02,893 --> 00:51:05,680
+别告诉我，我知道。
+Don't tell me, I know.
+
+835
+00:51:05,771 --> 00:51:08,979
+身材如此迷人，
+您显然
+With such a lovely figure, you have obviously
+
+836
+00:51:09,066 --> 00:51:12,809
+是来为Sadaba的某件华丽晚礼服而来。
+come for one of Sadaba's divine evening gowns.
+
+837
+00:51:12,903 --> 00:51:15,895
+哦，不，是套装。或者说是一套套装。
+Oh, no, a suit. Or a suit.
+
+838
+00:51:15,990 --> 00:51:18,527
+你看，Sadaba 是多么懂得。
+You see how Sadaba knows.
+
+839
+00:51:18,617 --> 00:51:21,359
+我想要亮色的，我要去波托菲诺。
+I'd like something bright. I'm going to Portofino.
+
+840
+00:51:21,453 --> 00:51:24,661
+波托菲诺！哦，真是命中注定。
+Portofino! Oh, it is like fate.
+
+841
+00:51:24,748 --> 00:51:28,115
+快，把我们为她留着的那件拿出来。
+Quick, the number we have been saving for her.
+
+842
+00:51:28,210 --> 00:51:31,828
+- Sadaba 女士是通灵的。
+- 真的吗？
+- Madame Sadaba is psychic. - Really?
+
+843
+00:51:31,922 --> 00:51:35,585
+三周前她特意从巴黎订了这套衣服。
+Three weeks ago, she sends all the way to Paris for this suit.
+
+844
+00:51:35,676 --> 00:51:39,794
+为什么？因为她知道你会需要它去波多黎各。
+Why? Because she knows you will be needing it for p-Puerto Rico.
+
+845
+00:51:42,516 --> 00:51:46,759
+Ducky，亲爱的，把那个拿出来。
+Ducky, darling, bring out the you-know-what.
+
+846
+00:51:46,854 --> 00:51:48,640
+马上，陛下。
+Right away, majesty.
+
+847
+00:51:54,028 --> 00:51:55,768
+瞧！
+Et voilà
+
+848
+00:51:55,863 --> 00:51:57,103
+就是它。
+here we are.
+
+849
+00:51:57,197 --> 00:51:59,984
+刚从巴黎下飞机的货。
+Hot off the plane from Paris.
+
+850
+00:52:00,075 --> 00:52:02,361
+我相信你。它还热乎着呢。
+I believe you. It's still warm.
+
+851
+00:52:02,453 --> 00:52:03,943
+试穿吧。
+Try it on.
+
+852
+00:52:04,872 --> 00:52:06,237
+- 为什么？
+- 为什么不呢？
+- Why? - Why not?
+
+853
+00:52:06,332 --> 00:52:08,243
+你穿黄色会很好看。
+You'd look good in yellow.
+
+854
+00:52:13,964 --> 00:52:16,876
+Sadaba 不仅通灵，还是个天才。
+Sadaba is not only psychic, she's a genius.
+
+855
+00:52:16,967 --> 00:52:21,051
+看吧，合身得像是为她量身定做的一样。
+Look, see how it fits. Like it was made for her.
+
+856
+00:52:21,138 --> 00:52:22,503
+我也有同感。
+That's just what I was thinking.
+
+857
+00:52:22,598 --> 00:52:24,964
+我也是。简直太美了。
+So was I. It's absolutely divine.
+
+858
+00:52:25,059 --> 00:52:26,765
+就是你了。
+It's just you.
+
+859
+00:52:26,852 --> 00:52:29,468
+是的，就是你。
+Yeah. Yeah, it's just you.
+
+860
+00:52:29,563 --> 00:52:32,430
+谢谢。我真想要它。
+Thank you. I'd love to have it.
+
+861
+00:52:32,524 --> 00:52:37,689
+不过再想想，也许 Sadaba 要留着这件给自己。
+On second thought, maybe Sadaba keeps this creation for herself.
+
+862
+00:52:37,780 --> 00:52:39,896
+- 哦。
+- 哦，拜托，拿下来。
+- Oh. - Oh, please take it off.
+
+863
+00:52:39,990 --> 00:52:42,402
+Sadaba 舍不得把它给出去。
+Sadaba cannot bear to part with it.
+
+864
+00:52:52,336 --> 00:52:53,336
+多少钱？
+How much?
+
+865
+00:52:53,420 --> 00:52:58,130
+为了你，Sadaba 几乎不卖，
+Oh, for you, Sadaba lets it go for practically nothing.
+
+866
+00:52:58,217 --> 00:52:59,297
+六百美元。
+Six hundred dollars.
+
+867
+00:52:59,635 --> 00:53:03,093
+说句公道话，Princess，你真有胆量。
+I'll say this for you, Princess, you got a lot of guts.
+
+868
+00:53:03,180 --> 00:53:05,637
+那是和皇室说话的方式吗？
+Is that the way to talk to royalty?
+
+869
+00:53:05,724 --> 00:53:09,967
+Ducky，亲爱的，上楼把盒子拿来。
+Ducky, darling, go upstairs and get the box.
+
+870
+00:53:14,066 --> 00:53:17,399
+Ducky 会杀了我，但为了让你那位小太太高兴，
+Ducky will kill me, but to make your little wife happy,
+
+871
+00:53:17,486 --> 00:53:20,853
+这件 Givenchy 给你，价钱 595。
+the Givenchy is yours for 595.
+
+872
+00:53:20,948 --> 00:53:22,939
+那位女士可不是我的妻子。
+The lady is not my wife.
+
+873
+00:53:23,033 --> 00:53:26,742
+Sadaba 绝不会透露半句。
+Sadaba will never breathe a word.
+
+874
+00:53:26,829 --> 00:53:29,195
+Sadaba 想怎么说就怎么说。
+Sadaba can breathe all she wants.
+
+875
+00:53:29,289 --> 00:53:33,032
+我是纽约警察中尉 Bixbee。
+I'm lieutenant Bixbee, New York police.
+
+876
+00:53:39,675 --> 00:53:41,040
+Ducky？
+Ducky?
+
+877
+00:53:48,475 --> 00:53:49,885
+警察来了。
+The cops.
+
+878
+00:53:49,977 --> 00:53:52,514
+呃，我们可没做什么违法的事。
+Uh, we didn't do nothing illegal.
+
+879
+00:53:52,604 --> 00:53:54,435
+高价收费并不违法。
+There's no law against overcharge.
+
+880
+00:53:54,523 --> 00:53:55,854
+放轻松，陛下。
+Just relax, your majesty.
+
+881
+00:53:55,941 --> 00:53:58,227
+没有人在指控任何人。
+Nobody is accusing anybody of anything.
+
+882
+00:53:58,318 --> 00:54:00,604
+那件套装是银行抢劫案的物证。
+The suit is evidence in a bank robbery.
+
+883
+00:54:00,696 --> 00:54:02,152
+报纸上都有报道。
+It was in all the papers.
+
+884
+00:54:02,239 --> 00:54:06,232
+《基督教科学箴言报》上倒没提到。
+It was no mention of it in the Christian science monitor.
+
+885
+00:54:07,244 --> 00:54:08,780
+它在这里。
+Here it is.
+
+886
+00:54:08,871 --> 00:54:09,986
+穿在你身上会很好看。
+It'll look lovely on you.
+
+887
+00:54:10,080 --> 00:54:12,412
+不，Elcott 太太，我们要把它带走。
+No, Mrs. Elcott, we're taking it.
+
+888
+00:54:12,499 --> 00:54:15,036
+哦？
+把它包起来，Princess。
+- Oh? - Wrap it up, Princess.
+
+889
+00:54:15,127 --> 00:54:17,243
+给你。大手大脚的花钱者。
+Here. Big spender.
+
+890
+00:54:17,337 --> 00:54:19,703
+七块钱就白花了。
+Seven bucks down the drain.
+
+891
+00:54:19,798 --> 00:54:22,255
+别紧张。梅里尔·林奇请客。
+Relax. Compliments of Merrill lynch.
+
+892
+00:54:22,342 --> 00:54:25,425
+净赚三美元。
+A whole $3 profit.
+
+893
+00:54:25,512 --> 00:54:28,003
+非常抱歉。你们的店真漂亮。
+I'm terribly sorry. You do have a lovely shop.
+
+894
+00:54:28,098 --> 00:54:29,784
+有空我想再来。
+I'd like to come back when I have more time.
+
+895
+00:54:29,808 --> 00:54:32,424
+嗯，很荣幸，很荣幸。
+Um, pleasure, pleasure.
+
+896
+00:54:35,063 --> 00:54:36,143
+再见。
+Bye.
+
+897
+00:54:41,528 --> 00:54:45,612
+那个名字，那张脸。
+That name, that face.
+
+898
+00:54:45,699 --> 00:54:49,191
+我以前见过她，但在哪儿呢？
+I have seen her before, but where?
+
+899
+00:54:49,286 --> 00:54:50,776
+在哪儿？在哪儿？
+Where? Where?
+
+900
+00:54:52,539 --> 00:54:57,329
+Ducky，亲爱的，我想我们应该马上去翻阅
+Ducky, precious, I think we go immediately browsing
+
+901
+00:54:57,419 --> 00:55:00,035
+公共图书馆的《Vogue》旧刊。
+through the back issues of vogue
+
+902
+00:55:00,130 --> 00:55:02,121
+快去。
+at the public library. Come on.
+
+903
+00:55:04,051 --> 00:55:07,088
+那女人竟然敢开那种价，真有胆量，不是吗？
+The dame's got a lot of nerve charging those figures, right?
+
+904
+00:55:07,179 --> 00:55:10,137
+其实，600美元也不是离谱得太远。
+Well, actually, $600 isn't too far out of line.
+
+905
+00:55:11,225 --> 00:55:12,635
+二手套装吗？
+For a secondhand suit?
+
+906
+00:55:12,726 --> 00:55:15,308
+一套二手的 Givenchy 套装。
+A secondhand Givenchy suit.
+
+907
+00:55:15,395 --> 00:55:18,102
+我不记得 Sadaba 提过 Givenchy 的礼服。
+I don't recall Sadaba mentioning a Givenchy suit.
+
+908
+00:55:18,190 --> 00:55:20,806
+至少在你在场的时候没听她提。
+At least not while you were there.
+
+909
+00:55:20,901 --> 00:55:22,687
+她没说？
+- 没有！
+She didn't? -No!
+
+910
+00:55:24,279 --> 00:55:26,144
+那我又是怎么知道的呢？
+Well, then how did I know?
+
+911
+00:55:26,240 --> 00:55:27,946
+哦，她确实说过巴黎。
+Oh, she did say Paris.
+
+912
+00:55:28,033 --> 00:55:29,819
+我大概自己联想起来的。
+I must have put two and two together.
+
+913
+00:55:30,828 --> 00:55:32,443
+是啊。
+Yeah.
+
+914
+00:55:32,538 --> 00:55:34,403
+对，可能就是这样。
+Yeah, that's probably it.
+
+915
+00:55:46,552 --> 00:55:47,837
+很好。
+Very nice.
+
+916
+00:55:48,971 --> 00:55:50,927
+你知道，我说实话
+You know, I was saying that in my line of work
+
+917
+00:55:51,014 --> 00:55:54,472
+在我这行里，你不会常来这种地方。
+you don't get a chance to spend much time in a joint like this.
+
+918
+00:55:55,811 --> 00:55:56,996
+我觉得这是
+You know, I think this is probably
+
+919
+00:55:57,020 --> 00:55:59,432
+我在纽约最喜欢的地方之一。
+my most favorite place in New York.
+
+920
+00:56:00,649 --> 00:56:02,810
+比你老公的银行都好，Mrs. Elcott？
+Better than your husband's bank, Mrs. Elcott?
+
+921
+00:56:04,444 --> 00:56:07,777
+怎么我从 Penelope 又降格为 Mrs. Elcott 了？
+How did I get demoted from Penelope back to Mrs. Elcott?
+
+922
+00:56:08,657 --> 00:56:09,772
+好了。Penelope。
+Alright. Penelope.
+
+923
+00:56:11,159 --> 00:56:13,070
+Penelope，你知道吗...
+Penelope, do you know...
+
+924
+00:56:14,454 --> 00:56:16,365
+大多数时候我挺喜欢我的工作。
+Most of the time I like my job?
+
+925
+00:56:17,583 --> 00:56:21,451
+- 那是什么？
+- 那个？泡泡糖。
+- What's that? - That? It's bubblegum.
+
+926
+00:56:21,545 --> 00:56:24,628
+- 我可以来一点吗？
+- 好，自己拿吧。
+- May I have some? - Yeah, help yourself.
+
+927
+00:56:28,635 --> 00:56:30,091
+谁是 Ron Swoboda？
+Who's Ron Swoboda?
+
+928
+00:56:31,889 --> 00:56:33,800
+我只是嚼嚼口香糖。
+I just chew the gum.
+
+929
+00:56:35,893 --> 00:56:38,600
+你知道，关于犯罪有件有趣的事。
+You know, it's a funny thing about crime.
+
+930
+00:56:38,687 --> 00:56:39,847
+但通常是无辜的嫌疑人
+But it's the innocent suspect
+
+931
+00:56:39,897 --> 00:56:41,808
+看起来最像罪犯。
+that usually looks the most guilty.
+
+932
+00:56:41,899 --> 00:56:43,293
+因为他没什么可藏的。
+That's because he's got nothing to hide.
+
+933
+00:56:43,317 --> 00:56:45,228
+放下了戒备。
+Keeps his guard down.
+
+934
+00:56:45,319 --> 00:56:47,005
+而有罪的人则不停思考。
+But the guilty ones, they're always thinking.
+
+935
+00:56:47,029 --> 00:56:48,894
+他们在注意自己的举止、声音、表情。
+They're watching themselves pretty good.
+
+936
+00:56:48,989 --> 00:56:51,651
+最终正是他们的圆滑出卖了他们。
+How will they sound and how will that look?
+
+937
+00:56:51,742 --> 00:56:54,734
+最终，正是他们那种圆滑把他们困住。
+And in the end, it's their very smoothness that traps them.
+
+938
+00:56:54,828 --> 00:56:55,943
+真有意思。
+It's fascinating.
+
+939
+00:56:59,583 --> 00:57:01,824
+你是怎么做到的？
+How do you do that?
+
+940
+00:57:01,919 --> 00:57:03,875
+你小时候是怎样的？
+Now what kind of a childhood did you have?
+
+941
+00:57:03,962 --> 00:57:05,668
+就是那种戴着牙套的。
+The kind with braces on your teeth.
+
+942
+00:57:05,756 --> 00:57:08,748
+把口香糖摊平，把舌头塞进去，
+Spread the gum flat, poke your tongue into it
+
+943
+00:57:08,842 --> 00:57:10,924
+把口袋鼓满空气。
+and fill the pocket with air.
+
+944
+00:57:12,179 --> 00:57:13,715
+- 我做到了！
+- 初学者走运。
+- I did it! - Beginner's luck.
+
+945
+00:57:15,349 --> 00:57:19,388
+Penelope，我是我所认识的最棒的警察……
+Penelope, I am the best damn cop I know...
+
+946
+00:57:20,687 --> 00:57:22,598
+而这就是我的麻烦。
+And that's my trouble.
+
+947
+00:57:23,732 --> 00:57:25,939
+我太过能干，这反而成了我的问题。
+I'm too damn good for my own damn good.
+
+948
+00:57:26,944 --> 00:57:28,855
+我觉得你很棒。
+I think you're very good.
+
+949
+00:57:28,946 --> 00:57:32,484
+那位女银行劫匪很快就会发现这点。
+That's what that lady bank robber's about to find out.
+
+950
+00:57:32,574 --> 00:57:34,485
+你知道的，可怜的孩子没机会了。
+You know, that poor kid doesn't have a chance.
+
+951
+00:57:36,954 --> 00:57:39,286
+- 嗯。
+- 自以为是。
+Mm. -overconfident.
+
+952
+00:57:40,457 --> 00:57:41,935
+你看，我来自的那个街区里，
+You see, in the neighborhood that I come from
+
+953
+00:57:41,959 --> 00:57:43,870
+孩子只有三条出路。
+a kid had three chances.
+
+954
+00:57:43,961 --> 00:57:45,313
+可以当混混，可以当警察，
+He could be a hood, he could be a cop,
+
+955
+00:57:45,337 --> 00:57:47,328
+也可以当神父。
+he could be a priest.
+
+956
+00:57:47,422 --> 00:57:50,585
+我太笨，没法去偷东西，而且我们又不是天主教徒。
+Well, I was too clumsy to steal and we weren't catholic.
+
+957
+00:57:52,427 --> 00:57:53,963
+要是我有个像样的街区也许会不一样。
+Maybe if I'd had a neighborhood.
+
+958
+00:57:54,054 --> 00:57:56,887
+Penelope。怎么了？
+Penelope. What?
+
+959
+00:57:56,974 --> 00:57:59,886
+你经常去你丈夫的银行吗？
+Did you spend a lot of time in your husband's bank?
+
+960
+00:57:59,977 --> 00:58:02,684
+不，能不去我就不去。怎么了？
+No, I hardly ever go there if I can help it. Why?
+
+961
+00:58:02,771 --> 00:58:03,886
+放影片的时候，
+When we ran the film
+
+962
+00:58:03,981 --> 00:58:06,347
+你竟然能那样立刻说出出纳的名字。
+you knew the teller's name just like that.
+
+963
+00:58:06,441 --> 00:58:07,897
+哦，当然我知道她的名字。
+Well, of course I knew her name.
+
+964
+00:58:07,985 --> 00:58:10,067
+它就在柜台上的牌子上。
+It was on a plaque on the counter.
+
+965
+00:58:10,153 --> 00:58:11,393
+你没看到吗？
+Didn't you see it?
+
+966
+00:58:11,488 --> 00:58:13,149
+唔，我看来并不像
+Well, I guess I'm not as good at my job
+
+967
+00:58:13,240 --> 00:58:15,151
+我以为的那么称职，我没注意到。
+as I thought I was. I missed it.
+
+968
+00:58:15,242 --> 00:58:16,903
+哦。
+Oh.
+
+969
+00:58:16,994 --> 00:58:18,325
+哦，亲爱的。
+Oh, dear.
+
+970
+00:58:18,412 --> 00:58:19,572
+怎么了？
+What's the matter?
+
+971
+00:58:19,663 --> 00:58:21,949
+我本来十分钟前该去见 James 的。
+I was supposed to meet James ten minutes ago.
+
+972
+00:58:23,458 --> 00:58:25,449
+那我能留住 Ron Swoboda 吗？
+Do I get to keep Ron Swoboda?
+
+973
+00:58:29,673 --> 00:58:31,163
+喂，Horatio，看这个。
+Hey, Horatio, watch.
+
+974
+00:58:34,803 --> 00:58:36,009
+不错吧，嗯？
+Not bad, hm?
+
+975
+00:58:36,930 --> 00:58:38,420
+太棒了。
+Terrific.
+
+976
+00:58:40,434 --> 00:58:43,926
+后来 James 在银行开始升职。
+Then James began to get promoted at the bank.
+
+977
+00:58:44,021 --> 00:58:48,105
+第三副总裁，第二副总裁，
+Third vice president, second vice president,
+
+978
+00:58:48,191 --> 00:58:49,601
+第一副总裁。
+first vice president.
+
+979
+00:58:49,693 --> 00:58:52,651
+终于，我们要说到你问题的关键了！
+At last, we're getting to the crux of your problem!
+
+980
+00:58:52,738 --> 00:58:54,694
+你看不到吗？
+Don't you see it?
+
+981
+00:58:54,781 --> 00:58:57,113
+你觉得在你丈夫的生活中被排除在外，
+You feel left out of your husband's life
+
+982
+00:58:57,200 --> 00:59:00,533
+于是你通过补偿他对你的冷淡来弥补。
+so you compensate for his lack of attention.
+
+983
+00:59:01,747 --> 00:59:02,953
+是吗？
+I do?
+
+984
+00:59:04,082 --> 00:59:07,245
+绝望之下，我开始培养一些爱好。
+In desperation, I began taking up hobbies.
+
+985
+00:59:07,335 --> 00:59:08,916
+首先，是和 James 一起的爱好。
+First, hobbies with James.
+
+986
+00:59:09,004 --> 00:59:10,244
+James！James！
+James! James!
+
+987
+00:59:10,338 --> 00:59:12,374
+事情仍然很不确定。
+Things were still pretty much up in the air.
+
+988
+00:59:12,466 --> 00:59:14,673
+于是我接着尝试为 James 而做的爱好。
+So I next tried hobbies for James.
+
+989
+00:59:15,510 --> 00:59:19,344
+James！James！看看我们赢了什么！
+James! James! Look what we won!
+
+990
+00:59:19,431 --> 00:59:21,342
+乖孩子。
+Good girl.
+
+991
+00:59:21,433 --> 00:59:23,173
+好男孩。
+Good boy.
+
+992
+00:59:23,268 --> 00:59:25,554
+好吧，至少他先拍了我一下。
+Well, at least he patted me first.
+
+993
+00:59:26,313 --> 00:59:27,974
+什么办法都没用。
+Nothing worked.
+
+994
+00:59:28,940 --> 00:59:30,555
+有趣的是。
+It's funny.
+
+995
+00:59:30,650 --> 00:59:34,484
+只有一种爱好似乎能让我高兴起来。
+There's only one hobby that seemed to cheer me up.
+
+996
+00:59:34,571 --> 00:59:35,571
+入室盗窃。
+Burglary.
+
+997
+00:59:35,655 --> 00:59:38,021
+不是入室盗窃。那是强行进入。
+Not burglary. That's forcible entry.
+
+998
+00:59:38,116 --> 00:59:40,027
+你犯的只是普通盗窃。
+All you committed was simple larceny.
+
+999
+00:59:40,118 --> 00:59:42,985
+拜托，Gregory，我宁愿把它当成入室盗窃来看。
+Please, Gregory, I'd rather think of it as burglary.
+
+1000
+00:59:43,080 --> 00:59:44,911
+那样更刺激。
+It's more exciting.
+
+1001
+00:59:44,998 --> 00:59:48,661
+Penelope，你入室行窃的受害者有多少？
+Penelope, how many victims did you burglarize?
+
+1002
+00:59:48,752 --> 00:59:50,208
+你挑谁来下手的？
+And whom did you choose to burgle?
+
+1003
+00:59:50,295 --> 00:59:53,162
+呃，偷——偷窃。呃，Rob。
+Uh, bur-burglarize. Uh, Rob.
+
+1004
+00:59:53,256 --> 00:59:55,588
+我不知道。就是些人。
+I don't know. Just people.
+
+1005
+00:59:55,675 --> 00:59:58,007
+是的，人。
+Yes, people. People who are your husband's
+
+1006
+00:59:58,095 --> 00:59:59,426
+就是你丈夫的生意伙伴，对吧？
+business associates, huh?
+
+1007
+00:59:59,513 --> 01:00:00,719
+是的。
+Yes.
+
+1008
+01:00:00,806 --> 01:00:04,594
+不知为什么，我就是讨厌他们。
+For some reason, I just hated them.
+
+1009
+01:00:04,684 --> 01:00:05,964
+无论我和 James 去哪儿，
+No matter where James and I went
+
+1010
+01:00:06,019 --> 01:00:08,135
+都甩不开金融界的那些事。
+there was no getting away from the world of finance.
+
+1011
+01:00:08,230 --> 01:00:09,874
+“总统关于税收的声明
+"The president's statement on taxes
+
+1012
+01:00:09,898 --> 01:00:11,854
+给市场带来了抛售压力。”
+brought selling pressure into the market.
+
+1013
+01:00:11,942 --> 01:00:13,382
+尽管他确实重申了那点……
+And though he did reiterate that...
+
+1014
+01:00:13,443 --> 01:00:15,479
+哦，我们去游个泳吧。
+Oh, let's go for a little swim.
+
+1015
+01:00:15,570 --> 01:00:17,811
+呃，好吧……你不觉得现在有点晚了吗？
+Eh, well... don't you think it's late, isn't it?
+
+1016
+01:00:17,906 --> 01:00:19,442
+哦，拜托。
+Oh, come on.
+
+1017
+01:00:19,533 --> 01:00:21,819
+在纽波特，是 Johanna Keller，
+At Newport, it was Johanna Keller,
+
+1018
+01:00:21,910 --> 01:00:23,491
+她是银行最大的储户之一。
+one of the bank's biggest depositors.
+
+1019
+01:00:23,578 --> 01:00:25,239
+- 我最后吃的那根热狗……
+- 哦，拜托。
+- The last hot dog I ate... - Oh, come on.
+
+1020
+01:00:25,330 --> 01:00:26,911
+哦，求你了，小姐……
+Oh, please, miss...
+
+1021
+01:00:51,940 --> 01:00:54,807
+从那以后，我们就不怎么见到 Keller 小姐了。
+1022
+01:00:54,898 --> 01:00:56,??0
+即便我们去跳舞，比如街区那晚，
+1023
+01:00:57,???:??? --> 01:00:59,???
+迟早，James 的银行界朋友们
+After that, we didn't see so much of miss Keller.
+
+1022
+01:00:55,402 --> 01:00:58,735
+Even when we'd go dancing, like the night at the block,
+
+1023
+01:00:58,822 --> 01:01:00,528
+sooner or later, James' banking friends
+
+1024
+01:01:00,615 --> 01:01:02,822
+总会设法破坏我们的乐趣。
+would manage to spoil our fun.
+
+1025
+01:01:02,909 --> 01:01:06,868
+哦，迟早我得和他们谈生意了。
+Oh, sooner or later, I'm going to have to talk business with them.
+
+1026
+01:01:06,955 --> 01:01:08,161
+我不明白为什么。
+I don't see why.
+
+1027
+01:01:08,248 --> 01:01:10,705
+毕竟，你又不是在银行里和他们跳舞，对吧？
+After all, you don't dance with them at the bank, do you?
+
+1028
+01:01:10,792 --> 01:01:13,579
+亲爱的，我爱你。
+I love you, darling.
+
+1029
+01:01:13,670 --> 01:01:16,252
+我很庆幸不必和你谈生意。
+I'm glad I don't have to do business with you.
+
+1030
+01:01:16,339 --> 01:01:18,876
+真不公平，你们俩。
+Not fair, you two.
+
+1031
+01:01:18,967 --> 01:01:20,878
+哦，那是“la Bostella”。
+Oh, it's "la Bostella."
+
+1032
+01:01:20,969 --> 01:01:22,880
+你就不能死吗？
+Couldn't you just die?
+
+1033
+01:01:22,971 --> 01:01:25,553
+音乐一停，我们就都倒下。
+When the music stops, we all fall down.
+
+1034
+01:01:43,992 --> 01:01:45,983
+我就得收拾他一下。
+I just had to fix him.
+
+1035
+01:01:50,874 --> 01:01:52,614
+不错。
+Not bad.
+
+1036
+01:01:53,084 --> 01:01:55,416
+钻石王冠，三枚胸针，
+Diamond tiara, three brooches,
+
+1037
+01:01:55,503 --> 01:01:58,836
+九条手镯和一条挂式项链。
+nine bracelets and a lavaliere.
+
+1038
+01:01:58,924 --> 01:02:01,006
+哦，我最精彩的一次是我拿走了……
+Oh, and my best caper was when I took...
+
+1039
+01:02:01,134 --> 01:02:03,216
+Penny，别说了。别说了。
+Penny, just stop. Just stop.
+
+1040
+01:02:03,303 --> 01:02:05,794
+但那还远远不止这些。
+我可以讲好几个小时。
+But there's lots more. I could go on for hours.
+
+1041
+01:02:05,889 --> 01:02:08,175
+也许你可以，但我可做不到。
+Maybe you could, but I couldn't.
+
+1042
+01:02:08,266 --> 01:02:11,099
+Gregory，你千万别因此沮丧。
+Gregory, you mustn't let this depress you.
+
+1043
+01:02:12,062 --> 01:02:13,643
+沮丧是一种奢侈，
+Depression is a luxury
+
+1044
+01:02:13,730 --> 01:02:16,187
+经验丰富的精神科医生是不能沉溺其中的。
+not permitted the experienced psychiatrist.
+
+1045
+01:02:16,274 --> 01:02:17,559
+嗯，那很好。
+Well, that's good.
+
+1046
+01:02:17,651 --> 01:02:19,651
+因为这件事也有积极的一面。
+Because there is a bright side to this whole thing.
+
+1047
+01:02:22,113 --> 01:02:24,274
+按我那时婚姻的走向来看，
+Well, the way my marriage was headed
+
+1048
+01:02:24,366 --> 01:02:25,856
+以及我那时的神经状态，
+and the state of nerves I was in,
+
+1049
+01:02:25,951 --> 01:02:27,657
+要不是有窃盗癖在，我
+if it hadn't been for kleptomania
+
+1050
+01:02:27,744 --> 01:02:29,655
+可能真会有点儿精神失常。
+I might have gone a little kook.
+
+1051
+01:02:32,666 --> 01:02:34,873
+Penny，你知道当你的分析师有多难吗？
+Penny, do you have any idea how difficult
+
+1052
+01:02:34,960 --> 01:02:36,496
+你知道吗，做你的分析师可不容易。
+it is being your analyst?
+
+1053
+01:02:36,586 --> 01:02:38,372
+哦，Gregory，你应该在认识我之前就见过我，
+Oh, Gregory, you should have known me
+
+1054
+01:02:38,463 --> 01:02:39,999
+那时候的我
+in the days before you knew me.
+
+1055
+01:02:40,090 --> 01:02:42,331
+很模糊、很轻浮。
+I was vague, frivolous.
+
+1056
+01:02:42,425 --> 01:02:44,381
+你甚至可以说我有点儿神经质。
+You might even say a bit of a ding.
+
+1057
+01:02:44,469 --> 01:02:46,960
+谢天谢地，我已经安定下来了。再见。
+Thank heaven, I've settled down. Bye.
+
+1058
+01:02:55,188 --> 01:02:56,598
+你认为忘鞋子意味着什么呢？
+What do you suppose it means
+
+1059
+01:02:56,690 --> 01:02:59,898
+当你老是忘记鞋子时，这意味着什么？嗯。
+when you keep forgetting your shoes? Hm.
+
+1060
+01:02:59,985 --> 01:03:01,963
+你要急到哪里去？你还有七分钟。
+Where are you rushing to? You still have seven minutes left.
+
+1061
+01:03:01,987 --> 01:03:04,444
+哦，你可以记在账上。我得去 Park Lane 画廊了。
+Oh, you can owe me. I'm off to the park Lane galleries.
+
+1062
+01:03:04,531 --> 01:03:06,613
+那里有一幅伦勃朗，简直是捡便宜。
+There's a Rembrandt there that's a steal.
+
+1063
+01:03:10,120 --> 01:03:13,032
+伦勃朗。Penny，你不会真的去偷吧。
+A Rembrandt. Penny, you wouldn't.
+
+1064
+01:03:15,166 --> 01:03:17,157
+出租车！出租车！
+Taxi! Taxi!
+
+1065
+01:03:50,577 --> 01:03:52,192
+噓。
+Psst.
+
+1066
+01:03:52,287 --> 01:03:53,948
+噓。
+Psst.
+
+1067
+01:03:54,039 --> 01:03:55,039
+Gregory。嘘！
+Gregory. Shh!
+
+1068
+01:03:55,123 --> 01:03:56,408
+什么？警察来了。
+What? Police.
+
+1069
+01:03:58,084 --> 01:04:00,700
+他们可能跟踪我来了。警察？
+They may have followed me. Police?
+
+1070
+01:04:00,795 --> 01:04:03,832
+Gregory，你到底做了什么？
+Gregory, what have you done?
+
+1071
+01:04:03,923 --> 01:04:05,788
+什么都没做。我什么都没做。
+Nothing. I haven't done anything.
+
+1072
+01:04:06,885 --> 01:04:07,987
+好吧，如果你什么都没做，
+Well, if you haven't done anything
+
+1073
+01:04:08,011 --> 01:04:09,071
+那警察为什么会——
+then why would the police...
+
+1074
+01:04:09,095 --> 01:04:13,259
+Penelope，我现在不想争论。现在告诉我，你把钱藏在哪儿了？
+Penelope, I don't want to get into a discussion, not now.
+
+1075
+01:04:13,350 --> 01:04:16,683
+现在告诉我，你把钱藏在哪儿了？
+Now tell me, where, where did you hide the money?
+
+1076
+01:04:16,770 --> 01:04:17,770
+什么钱？
+What money?
+
+1077
+01:04:17,854 --> 01:04:19,765
+你说“什么钱”是什么意思？你知道的……
+What do you mean, what money? You know what...
+
+1078
+01:04:20,815 --> 01:04:23,022
+赃款。那笔赃款。
+Loot. The loot.
+
+1079
+01:04:23,109 --> 01:04:24,940
+哦，那个钱。
+Oh, that money.
+
+1080
+01:04:25,028 --> 01:04:28,737
+说实话，那事让我很担心。
+Well, frankly, that's had me very worried.
+
+1081
+01:04:28,823 --> 01:04:31,360
+我的意思是，我不能就把它随便放在某个地方。
+I mean, I couldn't just leave it lying around any place.
+
+1082
+01:04:31,451 --> 01:04:34,284
+你知道的，那样很不安全。
+You know, that could be very dodgy.
+
+1083
+01:04:34,371 --> 01:04:36,282
+我一直随身带着……哦！
+I carry it with... oh!
+
+1084
+01:04:46,841 --> 01:04:48,377
+你们的中尉 Bixbee 知道了。
+Your lieutenant Bixbee, he knows.
+
+1085
+01:04:48,468 --> 01:04:49,583
+他刚来见过我。
+He just came to see me.
+
+1086
+01:04:49,677 --> 01:04:52,293
+我觉得他昨天举止有些奇怪。
+I thought he acted strangely yesterday.
+
+1087
+01:04:52,389 --> 01:04:53,925
+奇怪？怎么奇怪？
+Strangely how?
+
+1088
+01:04:54,015 --> 01:04:57,678
+我也说不上来。有点……内疚的样子。
+I don't know. Sort of... guilty.
+
+1089
+01:04:57,769 --> 01:05:00,135
+他为什么会觉得内疚？哦，算了。噢！
+Why would he feel guilty? Oh, never mind. Ooh!
+
+1090
+01:05:04,859 --> 01:05:05,859
+Penny，听我说。
+Penny, listen to me.
+
+1091
+01:05:05,944 --> 01:05:07,671
+你必须今天就把那笔钱送回银行。
+You've got to get that money back to the bank today.
+
+1092
+01:05:07,695 --> 01:05:09,560
+现在。怎么做？
+Now. How?
+
+1093
+01:05:09,656 --> 01:05:11,271
+我不能就走进去把钱交上去。
+I can't just walk in and hand it over.
+
+1094
+01:05:11,366 --> 01:05:12,776
+嗯，我想过……
+Well, I figured that...
+
+1095
+01:05:12,867 --> 01:05:13,982
+哦，把钱给我吧，
+Oh, give me the money
+
+1096
+01:05:14,077 --> 01:05:16,284
+我会把它放进夜间存款口。
+and I'll, I'll stick it in the night deposit chute.
+
+1097
+01:05:16,371 --> 01:05:19,113
+哦，Gregory，我不想你牵扯进来。
+Oh, Gregory, I don't like to see you get involved.
+
+1098
+01:05:19,207 --> 01:05:20,868
+我也不想。
+Neither do I.
+
+1099
+01:05:20,959 --> 01:05:22,870
+来吧，把所有的都给我。
+Come on. All of it.
+
+1100
+01:05:26,840 --> 01:05:28,171
+哦，Penny。
+Oh, penny.
+
+1101
+01:05:42,480 --> 01:05:43,765
+Penny.
+Penny.
+
+1102
+01:05:43,857 --> 01:05:45,472
+- 好了，我看起来如何？
+- 看起来很害怕。
+- Alright, how do I look? - Frightened.
+
+1103
+01:05:45,567 --> 01:05:47,808
+哦，不，我是说头部这儿。
+Oh, no, I mean up here.
+
+1104
+01:05:47,902 --> 01:05:49,733
+- 像蝙蝠侠。
+- 谢谢。
+- Like Batman. - Thanks.
+
+1105
+01:05:49,821 --> 01:05:51,812
+Gregory，你真体贴。
+Gregory, you're very sweet.
+
+1106
+01:05:51,906 --> 01:05:53,942
+但你为什么非要这么做不可？
+But why do you insist on doing this?
+
+1107
+01:05:54,033 --> 01:05:55,819
+因为我爱你。
+Because I'm in love with you.
+
+1108
+01:05:55,910 --> 01:05:57,696
+因为我对你痴狂。
+- Because I'm crazy about you. - Gregory.
+
+1109
+01:05:57,787 --> 01:06:00,529
+——当我说痴狂时，我是医学上说的那种。
+And when I say crazy, I'm using the word medically.
+
+1110
+01:06:00,623 --> 01:06:02,143
+- 但就在前几天……
+- 算了。
+- But just the other day... - Forget it.
+
+1111
+01:06:02,167 --> 01:06:04,624
+- 你说了……
+- 算了，算了！
+- You said... - Forget it. Forget it!
+
+1112
+01:06:04,711 --> 01:06:09,421
+现在我们走吧，尽量表现得很自然。
+Now let's get out of here and try to act very natural.
+
+1113
+01:06:24,939 --> 01:06:27,601
+- 他们把我们锁起来了！
+- 别担心。
+- They locked us in! - Don't worry.
+
+1114
+01:06:27,692 --> 01:06:28,919
+那铃铛应该会有人来。
+That bell ought to bring somebody.
+
+1115
+01:06:28,943 --> 01:06:31,855
+那铃铛会把所有人都引来。那是盗贼警报。
+That bell will bring everybody. That's a burglar alarm.
+
+1116
+01:06:31,946 --> 01:06:33,857
+- 要是他们搜我们怎么办？
+- 那又怎样？
+- What if they search us? - Well, what of it?
+
+1117
+01:06:33,948 --> 01:06:36,010
+- 我们没有偷东西。
+- 今天没偷东西。
+- We haven't stolen anything. - Not today, we haven't.
+
+1118
+01:06:36,034 --> 01:06:37,194
+你以为这是什么地方？
+What do you think this is?
+
+1119
+01:06:37,285 --> 01:06:39,742
+- 哦，Penny。
+- 他们不敢搜我们。
+- Oh, penny. - They wouldn't dare search us.
+
+1120
+01:06:39,829 --> 01:06:42,741
+喂喂，有人在吗？喂！
+Yoo-hoo, somebody! Yoo-hoo!
+
+1121
+01:06:42,832 --> 01:06:44,322
+还不行！还不行！
+Not yet! Not yet!
+
+1122
+01:06:44,417 --> 01:06:46,282
+喂！喂！
+Yoo-hoo! Yoo-hoo!
+
+1123
+01:06:48,671 --> 01:06:51,083
+晚上好。你介意开门吗？
+Good evening. Would you mind opening the gate, please?
+
+1124
+01:06:51,174 --> 01:06:53,335
+你们在里面，干什么呢？
+You in there, what are you up to?
+
+1125
+01:06:53,426 --> 01:06:54,962
+什么也没干。我发誓。
+Nothing. I swear it.
+
+1126
+01:06:55,053 --> 01:06:56,964
+请叫经理来。
+Please call the manager.
+
+1127
+01:06:57,972 --> 01:07:00,384
+我就是经理。
+I am the manager.
+
+1128
+01:07:00,475 --> 01:07:02,841
+关门时你们藏在哪里了？
+Where were you hiding when we locked up?
+
+1129
+01:07:02,936 --> 01:07:04,722
+哦，就在那个橱柜后面。
+Oh, right behind that cabinet.
+
+1130
+01:07:04,812 --> 01:07:05,956
+不，我们没有。我们没藏。
+No, we weren't. We weren't hiding.
+
+1131
+01:07:05,980 --> 01:07:07,345
+我们站着，我们站着。
+We were standing. We were standing.
+
+1132
+01:07:07,440 --> 01:07:09,726
+你们不知道我们已经关门了吗？
+Don't you realize we're closed?
+
+1133
+01:07:09,817 --> 01:07:11,227
+那正是问题所在。
+Well, that's just the trouble.
+
+1134
+01:07:11,319 --> 01:07:13,901
+如果你们开门，我们就能离开。
+If you were open, we could leave.
+
+1135
+01:07:13,988 --> 01:07:16,149
+别你们敢搜我们的身
+And don't you dare try to search us
+
+1136
+01:07:16,241 --> 01:07:17,526
+否则我们就报警。
+or we'll call the police.
+
+1137
+01:07:17,617 --> 01:07:19,824
+Penelope！她不是那个意思。
+Penelope! She didn't mean that.
+
+1138
+01:07:19,911 --> 01:07:21,822
+你不是那个意思。
+You didn't mean that.
+
+1139
+01:07:23,540 --> 01:07:26,282
+你算什么，女士？有毛病吗？
+What are you, lady? Some kind of a nut?
+
+1140
+01:07:26,376 --> 01:07:28,492
+我不喜欢你的态度。
+I don't care for your attitude.
+
+1141
+01:07:28,586 --> 01:07:29,980
+顺便说一句，你见到
+And for your information, you have seen
+
+1142
+01:07:30,004 --> 01:07:32,416
+我这种人，这就是最后一次了。
+the last of me in this gallery.
+
+1143
+01:07:32,507 --> 01:07:33,997
+走吧，Gregory。
+Come, Gregory.
+
+1144
+01:08:40,617 --> 01:08:43,074
+早安，亲爱的。喂。是的。
+Morning, darling. Hello. Yeah.
+
+1145
+01:08:43,161 --> 01:08:44,367
+嗯。
+Yeah.
+
+1146
+01:08:45,413 --> 01:08:46,903
+是的。
+Yes.
+
+1147
+01:08:46,998 --> 01:08:49,489
+什么？你确定吗？
+What? You sure?
+
+1148
+01:08:49,584 --> 01:08:51,540
+是的，我——真难相信。
+Yeah, I-I find that hard to believe.
+
+1149
+01:08:53,796 --> 01:08:55,502
+半小时后。
+In, uh, half an hour.
+
+1150
+01:08:55,590 --> 01:08:56,625
+好。
+Right.
+
+1151
+01:08:57,967 --> 01:08:59,628
+刚才电话是谁的？
+Who was that on the phone?
+
+1152
+01:08:59,719 --> 01:09:01,300
+是银行打来的。
+The bank.
+
+1153
+01:09:01,387 --> 01:09:04,254
+哦，他们想要什么？
+Oh, what'd they want?
+
+1154
+01:09:04,349 --> 01:09:06,089
+谁想要什么？
+What did who want?
+
+1155
+01:09:06,184 --> 01:09:07,515
+银行。
+The bank.
+
+1156
+01:09:07,602 --> 01:09:09,342
+他们想和我谈。
+They wanted to talk to me.
+
+1157
+01:09:09,437 --> 01:09:11,553
+——关于银行业的事。
+- Well, what about? - About banking.
+
+1158
+01:09:12,982 --> 01:09:13,982
+哦。
+Oh.
+
+1159
+01:09:20,907 --> 01:09:23,865
+好吧，他们把金融版放哪儿了？
+Well, where did they hide the financial section?
+
+1160
+01:09:23,951 --> 01:09:26,693
+你什么时候开始关心钱的事了？
+Since when have you been concerned with money matters?
+
+1161
+01:09:26,788 --> 01:09:29,029
+我只是表示一点做妻子的关心。
+I'm just showing a little wifely interest.
+
+1162
+01:09:34,796 --> 01:09:37,913
+嗯，那真好笑。金融版吗？
+Well, that's funny. The financial section?
+
+1163
+01:09:39,092 --> 01:09:40,798
+不，我只是希望……
+No, I was just hoping...
+
+1164
+01:09:40,885 --> 01:09:42,216
+——早上好，Toshi。
+- Morning, Toshi. - Morning.
+
+1165
+01:09:42,303 --> 01:09:43,759
+早上好。
+I just thought maybe there might be
+
+1166
+01:09:43,846 --> 01:09:45,115
+我只是想也许会有
+some good news about the robbery.
+
+1167
+01:09:45,139 --> 01:09:47,004
+关于抢劫案的好消息。
+How can there be good news about bad news?
+
+1168
+01:09:47,100 --> 01:09:50,558
+哪来的关于坏消息的好消息？
+Well, it's possible. You could get the money back.
+
+1169
+01:09:50,645 --> 01:09:52,306
+有可能的。你可能会拿回钱。
+That wouldn't be in the financial section.
+
+1170
+01:09:52,397 --> 01:09:54,888
+那可不会上金融版。
+It would be on the religious page under miracles.
+
+1171
+01:09:54,982 --> 01:09:57,564
+那会出现在宗教页的“奇迹”栏目里。
+Well, you already got that $1000 back.
+
+1172
+01:09:57,652 --> 01:09:59,296
+你已经把那1000美元拿回来了。
+Let's hope I don't get the rest back the same way.
+
+1173
+01:09:59,320 --> 01:10:01,436
+但愿我别用同样的方式把剩下的也拿回。
+I could go broke.
+
+1174
+01:10:01,531 --> 01:10:04,568
+我可能会破产。
+James, you still don't understand about that, do you...
+
+1175
+01:10:04,659 --> 01:10:05,899
+James，你还不明白那件事吗...
+Now I do, I do, I do.
+
+1176
+01:10:05,993 --> 01:10:07,304
+现在我明白了，我明白了。
+Now, please, don't explain it again.
+
+1177
+01:10:07,328 --> 01:10:09,865
+好了，请不要再解释了。
+I broke even, I'm delighted, I'm delirious, huh?
+
+1178
+01:10:12,834 --> 01:10:14,995
+嗯，你确实打平了。嗯。
+Well, you did break even. Mm.
+
+1179
+01:10:18,256 --> 01:10:20,372
+Mannix 医生说你只是固执。
+Dr. Mannix says you're just being stubborn.
+
+1180
+01:10:20,466 --> 01:10:23,048
+哦，Mannix 医生这么说的？
+Oh, Dr. Mannix says that, does he?
+
+1181
+01:10:23,136 --> 01:10:24,296
+是的，他说了。
+Yes, he does.
+
+1182
+01:10:24,387 --> 01:10:27,003
+Mannix 医生怎么会知道这事？
+How does Dr. Mannix know anything about it?
+
+1183
+01:10:27,098 --> 01:10:28,804
+嗯，因为我告诉了他。
+Well, I told him.
+
+1184
+01:10:30,268 --> 01:10:32,350
+我告诉他一切。
+I tell him everything.
+
+1185
+01:10:32,437 --> 01:10:34,143
+什么？一切？
+What do you mean, everything?
+
+1186
+01:10:35,273 --> 01:10:36,513
+一切。
+Everything.
+
+1187
+01:10:36,607 --> 01:10:38,268
+关于我也告诉了吗？
+About me too?
+
+1188
+01:10:38,735 --> 01:10:40,020
+当然。
+Well, of course.
+
+1189
+01:10:40,111 --> 01:10:42,648
+我想我会去和你的 Mannix 医生谈谈。
+I think I'll have a talk with your Dr. Mannix.
+
+1190
+01:10:42,739 --> 01:10:45,355
+James，那太好了。
+James, that's marvelous.
+
+1191
+01:10:45,450 --> 01:10:47,657
+你无法想象他能帮到你多少。
+You have no idea how much he could help you.
+
+1192
+01:10:47,744 --> 01:10:49,450
+我不想要帮助。
+I don't want help.
+
+1193
+01:10:49,537 --> 01:10:51,073
+那为何要浪费钱？
+Well, then why waste the money?
+
+1194
+01:10:51,164 --> 01:10:53,075
+Bixbee 中尉。
+Lieutenant Bixbee.
+
+1195
+01:10:56,794 --> 01:10:58,955
+你们的钱...
+Your money...
+
+1196
+01:10:59,046 --> 01:11:00,161
+我们都找回来了。
+We got it all back.
+
+1197
+01:11:00,256 --> 01:11:01,256
+我就知道。
+I knew it.
+
+1198
+01:11:01,340 --> 01:11:03,046
+看来我低估你了，Bixbee。
+Seems I underestimated you, Bixbee.
+
+1199
+01:11:03,134 --> 01:11:05,112
+我想请你去局里一趟。
+I thought maybe you'd like to go down to headquarters.
+
+1200
+01:11:05,136 --> 01:11:08,469
+你看，我们也抓到了偷钱的那个女孩。
+You see, we also got the girl who stole it.
+
+1201
+01:11:08,556 --> 01:11:10,547
+我们现在要把她带去审问。
+We're bringing her up for questioning now.
+
+1202
+01:11:11,476 --> 01:11:12,682
+Toshi，我的帽子！
+Toshi, my hat!
+
+1203
+01:11:12,769 --> 01:11:14,259
+我不明白。
+I don't understand.
+
+1204
+01:11:14,353 --> 01:11:17,140
+嗯，你知道吗，这事也让我有些意外。
+Well, you know, it kind of took me by surprise too.
+
+1205
+01:11:17,231 --> 01:11:20,064
+我以为我把案子想透了。
+I thought I had this case all figured out.
+
+1206
+01:11:20,151 --> 01:11:22,062
+准备好，中尉。
+- Goes to show you. - Ready, lieutenant.
+
+1207
+01:11:22,320 --> 01:11:24,060
+等一下，James，我要跟你一起去。
+Wait a minute. James, I'll go with you.
+
+1208
+01:11:24,155 --> 01:11:26,508
+不，不，亲爱的，你没必要卷进这件事。
+No, no, darling, there's no need for you to be involved in this.
+
+1209
+01:11:26,532 --> 01:11:28,488
+等我！等我！
+Wait for me! Wait for me!
+
+1210
+01:11:33,206 --> 01:11:37,495
+Horatio，如果你们逮错人怎么办？
+Horatio, what if you've arrested the wrong girl?
+
+1211
+01:11:37,585 --> 01:11:38,585
+绝无可能。
+Not a chance.
+
+1212
+01:11:38,669 --> 01:11:41,206
+我们抓她的时候，她身上就有那笔钱。
+She had the money on her when we picked her up.
+
+1213
+01:11:41,297 --> 01:11:43,583
+好吧。往这边来。
+Alright. Right this way.
+
+1214
+01:11:48,971 --> 01:11:50,882
+哦，嗨，宝贝。
+Oh, hi, doll.
+
+1215
+01:11:50,973 --> 01:11:52,884
+你是新来的吗，不是吗？
+Well, you're new in here, aren't you?
+
+1216
+01:11:52,975 --> 01:11:54,787
+我是说，我不记得在夜间法庭见过你。
+I mean, I don't recall making your acquaintance
+
+1217
+01:11:54,811 --> 01:11:56,642
+in night court or nothin'.
+
+1218
+01:11:58,981 --> 01:12:00,972
+我叫 Honeysuckle Rose。
+Mine's honeysuckle Rose.
+
+1219
+01:12:01,150 --> 01:12:02,890
+看起来你过得不错。
+You must be doing pretty good.
+
+1220
+01:12:02,985 --> 01:12:04,850
+那件看起来差点像是真的貂皮。
+That almost looks like for-real mink.
+
+1221
+01:12:04,946 --> 01:12:07,653
+好了，Rose小姐。别动，放松一下。
+Alright, miss Rose. Just hold it. Relax a minute.
+
+1222
+01:12:07,740 --> 01:12:09,571
+不是冒犯您，Elcott太太。
+No offense, Mrs. Elcott.
+
+1223
+01:12:09,659 --> 01:12:12,947
+那穿真貂皮的女士是这位先生的太太，
+The lady in the genuine mink is the wife of this gentleman,
+
+1224
+01:12:13,037 --> 01:12:15,870
+正好是你们被抢的那家银行的行长。
+who happens to be the president of the bank that you hit.
+
+1225
+01:12:17,208 --> 01:12:18,493
+哦。
+Oh.
+
+1226
+01:12:19,001 --> 01:12:20,787
+她看起来确实有点像…
+Well, she looks pretty enough to be...
+
+1227
+01:12:20,878 --> 01:12:22,243
+你真名叫什么，亲爱的？
+What's your right name, honey?
+
+1228
+01:12:22,338 --> 01:12:24,750
+我不是跟你说了吗，Honeysuckle Rose。
+Well, I told you. Honeysuckle Rose.
+
+1229
+01:12:24,841 --> 01:12:26,832
+我姐姐叫 Mexicali Rose。
+My sister's Mexicali Rose.
+
+1230
+01:12:26,926 --> 01:12:29,793
+我知道，都是 Washington Square 的那些“玫瑰”。
+I know, the roses of Washington square.
+
+1231
+01:12:29,887 --> 01:12:31,468
+Huntington，West Virginia。
+Huntington, West Virginia.
+
+1232
+01:12:31,556 --> 01:12:33,763
+我们曾经开车经过那里，James，还记得吗？
+We drove through there once, James, remember?
+
+1233
+01:12:33,850 --> 01:12:35,702
+Penelope，拜托。我们能继续了吗？
+Penelope, please. Can't we get on with this, hm?
+
+1234
+01:12:35,726 --> 01:12:37,637
+Honeysuckle，你能不能做个乖孩子
+Honeysuckle, why don't you be a good girl
+
+1235
+01:12:37,728 --> 01:12:39,764
+好好把话说清楚，坦白承认？
+and just give us a full confession?
+
+1236
+01:12:41,357 --> 01:12:43,769
+嗯，好吧。
+Hm, okay.
+
+1237
+01:12:43,860 --> 01:12:47,944
+呃，我昨晚在 Park Avenue 遛猫
+Um, I was walking my cat up park Avenue
+
+1238
+01:12:48,030 --> 01:12:49,986
+大约，呃，凌晨三点左右
+around, uh, 3 o'clock this morning
+
+1239
+01:12:50,074 --> 01:12:54,818
+我看到那东西几乎就躺在人行道上。
+when I see that lying on the sidewalk... practically.
+
+1240
+01:12:54,912 --> 01:12:56,868
+更正一下。你是走进了我的银行
+Correction. You walked into my bank
+
+1241
+01:12:56,956 --> 01:12:58,141
+大约下午3点左右
+around 3 o'clock in the afternoon
+
+1242
+01:12:58,165 --> 01:13:00,076
+两天前，偷走了那笔钱。
+two days ago and stole the money.
+
+1243
+01:13:00,167 --> 01:13:01,953
+等会儿。
+Now wait a minute.
+
+1244
+01:13:02,044 --> 01:13:04,956
+我看起来像会抢银行的人吗？
+Do I look like a person who'd stick up a bank?
+
+1245
+01:13:05,047 --> 01:13:06,207
+当然不是。
+Of course not.
+
+1246
+01:13:06,299 --> 01:13:09,587
+哎呦，凌晨三点遛猫有什么不对吗？
+Oh, come now, walking a cat at 3 o'clock in the morning?
+
+1247
+01:13:09,677 --> 01:13:11,633
+我看不出有什么不对。
+I don't see anything wrong with that.
+
+1248
+01:13:11,721 --> 01:13:13,461
+她可能做的是夜班工作。
+She probably does night work.
+
+1249
+01:13:13,556 --> 01:13:15,842
+- 你是吗？
+- 嗯，呃……
+- Do you? - Well, uh...
+
+1250
+01:13:17,143 --> 01:13:18,178
+是的。
+Yeah.
+
+1251
+01:13:18,895 --> 01:13:20,055
+看吧？
+You see?
+
+1252
+01:13:20,146 --> 01:13:22,228
+好吧，事情总算定下来了。
+Well, I'm glad we got that decided.
+
+1253
+01:13:22,315 --> 01:13:25,807
+Penelope，我觉得你并没有看清全貌。
+Penelope, I don't think you're getting the full picture.
+
+1254
+01:13:25,902 --> 01:13:29,065
+你看，对 Rose 小姐的指控
+You see, the charge against miss Rose here
+
+1255
+01:13:29,155 --> 01:13:32,272
+不是遛猫，而是抢银行。
+is not cat-walking, it's bank-robbing.
+
+1256
+01:13:32,366 --> 01:13:34,072
+这是陷害。
+Well, it's a frame.
+
+1257
+01:13:34,160 --> 01:13:37,243
+我发誓我从没进过那家银行。
+I never set foot inside that bank, I swear it.
+
+1258
+01:13:37,330 --> 01:13:38,911
+我相信你。
+I believe you.
+
+1259
+01:13:39,373 --> 01:13:42,410
+但他们不信。
+Well, but they don't.
+
+1260
+01:13:42,501 --> 01:13:44,867
+看看他们的表情！
+Well, look at their faces!
+
+1261
+01:13:44,962 --> 01:13:47,294
+哦，这可不是30天服刑就完事的案子。
+Oh, this is no 30 days and out rap.
+
+1262
+01:13:47,381 --> 01:13:50,214
+他们要把我关起来，扔掉钥匙。
+They-they wanna lock me up and throw away the key.
+
+1263
+01:13:50,301 --> 01:13:53,714
+亲爱的，相信我，你坚持这个荒谬的说法只会让自己更难受
+Honey, believe me, you're only making it tough on yourself
+
+1264
+01:13:53,804 --> 01:13:55,795
+一直坚持这种荒唐的故事。
+by sticking to this cockamamie story.
+
+1265
+01:13:55,890 --> 01:13:58,256
+那是我唯一会编的荒诞故事！
+Well, that's the only cockamamie story I know!
+
+1266
+01:13:58,351 --> 01:13:59,786
+好了，女管理员，把她带出去。
+Alright, matron, get her out of here.
+
+1267
+01:13:59,810 --> 01:14:02,176
+哦，不，等等。
+Oh, no. No, wait.
+
+1268
+01:14:02,271 --> 01:14:04,478
+等等，我…我承认。
+Wait, I-I-l admit it.
+
+1269
+01:14:04,565 --> 01:14:06,726
+我撒谎了。
+Lied.
+
+1270
+01:14:06,817 --> 01:14:09,274
+那钱并不是放在路边的。
+The-the money w-wasn't on the sidewalk.
+
+1271
+01:14:09,362 --> 01:14:12,229
+是从存款口里露出来的。
+I-it was sticking out of the deposit slot.
+
+1272
+01:14:12,323 --> 01:14:16,066
+本来我是要把它送回去的，或许还能拿点赏金。
+Well, I was gonna return it. Maybe collect a reward even.
+
+1273
+01:14:16,160 --> 01:14:18,071
+但那不会让我成了抢银行的坏人，对吧？
+But that doesn't make me a bank robber, does it?
+
+1274
+01:14:18,162 --> 01:14:20,744
+我是说，不是他们所说的那种意思。
+I mean, not-not like they mean.
+
+1275
+01:14:20,831 --> 01:14:23,368
+等等，等等。
+Wait a minute. Wait a minute.
+
+1276
+01:14:23,459 --> 01:14:25,324
+你们犯了个可怕的错误。
+You're making a terrible mistake.
+
+1277
+01:14:25,419 --> 01:14:27,080
+亲爱的，他们知道自己在做什么。
+Honey, they know what they're doing.
+
+1278
+01:14:27,171 --> 01:14:29,503
+那你怎么知道她没有说实话？
+Well, how do you know that she isn't telling the truth?
+
+1279
+01:14:29,590 --> 01:14:32,548
+这是我的推测。事情完全可能按她说的那样发生过。
+It's my theory. It could have happened exactly as she said it.
+
+1280
+01:14:32,635 --> 01:14:35,672
+你是说有人真的把59,000美元
+You mean somebody actually left $59,000
+
+1281
+01:14:35,763 --> 01:14:38,470
+在深夜放在银行门口？
+on the doorstep of a bank in the middle of the night?
+
+1282
+01:14:38,557 --> 01:14:40,718
+- 是的！
+- 谁，Elcott太太？
+- Yes! - Who, Mrs. Elcott?
+
+1283
+01:14:41,852 --> 01:14:44,264
+小偷，就是那人。抢银行的那位。
+The thief, that's who. The bank robber.
+
+1284
+01:14:44,355 --> 01:14:46,095
+亲爱的，出于什么理由呢？
+For what possible reason, darling?
+
+1285
+01:14:46,190 --> 01:14:48,647
+因为她想摆脱那笔钱。
+Because she was trying to get rid of it.
+
+1286
+01:14:49,986 --> 01:14:52,443
+在她从中偷走钱的同一家银行里？
+In the same bank that she stole it from?
+
+1287
+01:14:52,530 --> 01:14:54,191
+当然。
+Certainly.
+
+1288
+01:14:54,281 --> 01:14:57,023
+你看，她从来就不想要那钱。
+You see, she never wanted the money in the first place.
+
+1289
+01:14:57,118 --> 01:14:59,860
+- 她之所以拿走是因为...
+- 为什么？
+- She only took it because... - Because why?
+
+1290
+01:15:01,288 --> 01:15:03,529
+因为她控制不了自己。
+Because she couldn't help herself.
+
+1291
+01:15:03,624 --> 01:15:05,364
+呃，Elcott太太，我们感谢你的帮助，
+Uh, we appreciate your help, Mrs. Elcott,
+
+1292
+01:15:05,459 --> 01:15:08,451
+但你的理论是出于对嫌疑人的同情，
+but your theory is based on sympathy for the suspect,
+
+1293
+01:15:08,546 --> 01:15:09,546
+而不是事实。
+not fact.
+
+1294
+01:15:09,630 --> 01:15:11,120
+好了，女管理员。
+Okay, matron.
+
+1295
+01:15:11,215 --> 01:15:12,580
+不！
+No!
+
+1296
+01:15:13,175 --> 01:15:14,585
+好吧。
+Alright.
+
+1297
+01:15:15,302 --> 01:15:18,044
+你们想要供词，我会确保你们得到一个。
+You wanted a confession and I'll see that you get one.
+
+1298
+01:15:18,139 --> 01:15:20,801
+非常感谢，但 Rose小姐不愿意说话。
+Thanks a lot, but miss Rose is not talking.
+
+1299
+01:15:20,891 --> 01:15:23,803
+不是从 Rose小姐那里，是从真正的抢劫犯那里。
+No, not from miss Rose, from the bank robber.
+
+1300
+01:15:23,894 --> 01:15:25,680
+就是那个抢你们银行的女人
+From the woman who robbed your bank
+
+1301
+01:15:25,771 --> 01:15:28,683
+戴着红色假发、穿黄色套装逃走的那位。
+and escaped in a red wig and a yellow suit.
+
+1302
+01:15:28,774 --> 01:15:29,889
+我。
+Me.
+
+1303
+01:15:31,944 --> 01:15:33,650
+对不起，James。
+I'm sorry, James.
+
+1304
+01:15:33,738 --> 01:15:36,821
+改天我再解释为什么非得选你们的银行。
+I'll just have to explain later why it had to be your bank.
+
+1305
+01:15:36,907 --> 01:15:38,772
+但现在最重要的是
+But right now, the most important thing
+
+1306
+01:15:38,868 --> 01:15:40,108
+揪出事实真相
+is to get to the truth of this
+
+1307
+01:15:40,202 --> 01:15:42,909
+这样这个可怜的无辜女孩就不必入狱。
+so that this poor innocent girl doesn't have to go to jail.
+
+1308
+01:15:45,583 --> 01:15:47,790
+所以请叫个速记员来吧，
+So if you will call a stenographer
+
+1309
+01:15:47,877 --> 01:15:49,146
+我会口述一份完整的陈述。
+I will dictate a full statement.
+
+1310
+01:15:49,170 --> 01:15:51,582
+现在，Elcott太太，我担心你有些紧张过度。
+Now, Mrs. Elcott, I'm afraid you're under a strain.
+
+1311
+01:15:51,672 --> 01:15:52,899
+或许你最好把她送回家。
+Perhaps you better take her home.
+
+1312
+01:15:52,923 --> 01:15:54,629
+你知道，打个盹什么的。
+You know, a nap or somethin'.
+
+1313
+01:15:58,220 --> 01:16:00,552
+你们不相信我吗？
+Why, you don't believe me.
+
+1314
+01:16:00,931 --> 01:16:02,387
+你们任何人都不相信。
+None of you.
+
+1315
+01:16:02,933 --> 01:16:05,925
+当真相就摆在你面前时，你们都看不出来。
+You don't recognize the truth when it slaps you in the face.
+
+1316
+01:16:09,648 --> 01:16:11,263
+你觉得我疯了吗，不是吗？
+You think I'm crazy, don't you?
+
+1317
+01:16:11,358 --> 01:16:12,848
+哦，不，当然不是。不是。
+Oh, no, certainly not. No.
+
+1318
+01:16:12,943 --> 01:16:15,150
+呃，你知道，有时候，呃……
+Uh, you know, sometimes, uh...
+
+1319
+01:16:15,237 --> 01:16:17,102
+嗯，我们有时都需要帮助。
+Well, we all need help sometimes.
+
+1320
+01:16:18,365 --> 01:16:21,198
+嗯，我并不处于紧张状态。
+Well, I am not under a strain.
+
+1321
+01:16:21,285 --> 01:16:23,116
+至于我的头脑，从来没有
+And as far as my head, it has never been
+
+1322
+01:16:23,204 --> 01:16:24,535
+像此刻这般清晰。
+clearer than at this moment.
+
+1323
+01:16:24,622 --> 01:16:26,362
+至于我是否需要帮助，
+And as far as my needing help is concerned,
+
+1324
+01:16:26,457 --> 01:16:29,870
+让我向你保证：我每周都见精神科医生五次。
+let me assure you that I see my psychiatrist five times a week.
+
+1325
+01:16:31,545 --> 01:16:32,876
+女管理员。
+Matron.
+
+1326
+01:16:33,464 --> 01:16:35,125
+对不起，Rose小姐。
+I'm sorry, miss Rose.
+
+1327
+01:16:35,216 --> 01:16:37,878
+但别担心，他们不会关你太久。
+But don't worry, they can't keep you long.
+
+1328
+01:16:37,968 --> 01:16:40,175
+我会让他们相信我。我向你保证。
+I'll make them believe me. I promise you.
+
+1329
+01:16:40,262 --> 01:16:41,672
+谢谢。
+Thank you.
+
+1330
+01:16:41,764 --> 01:16:43,925
+但是——你知道吗，Elcott太太，
+But-but you know something, Mrs. Elcott,
+
+1331
+01:16:44,016 --> 01:16:45,972
+呃——这真可惜，
+a-and it's a shame,
+
+1332
+01:16:46,477 --> 01:16:48,513
+就连我也不相信你。
+even I don't believe you.
+
+1333
+01:16:59,406 --> 01:17:00,737
+我可怜的宝贝。
+My poor darling.
+
+1334
+01:17:00,825 --> 01:17:03,441
+哦，James，我真失望。
+Oh, I'm so disappointed in you, James.
+
+1335
+01:17:03,536 --> 01:17:05,276
+你为什么不相信我？
+Why won't you believe me?
+
+1336
+01:17:05,371 --> 01:17:07,987
+相信你是窃盗癖患者？小偷？银行劫匪？
+Believe you're a kleptomaniac? A thief? A bank robber?
+
+1337
+01:17:08,082 --> 01:17:09,868
+亲爱的，你会那样看我吗？
+Darling, would you believe that of me?
+
+1338
+01:17:09,959 --> 01:17:10,959
+当然会。
+Of course.
+
+1339
+01:17:11,043 --> 01:17:12,749
+如果你真心想让我相信你是小偷，我会相信的。
+If you really and truly wanted me
+
+1340
+01:17:12,837 --> 01:17:14,748
+to believe that you were a thief, I would.
+
+1341
+01:17:14,839 --> 01:17:17,171
+- 因为我信任你。
+- 我怎么能相信你？
+- Because I trust you. - How can I believe you?
+
+1342
+01:17:17,258 --> 01:17:18,318
+昨晚三点钟
+Last night at 3:00 in the morning
+
+1343
+01:17:18,342 --> 01:17:19,923
+你还躺在我身旁。
+you were in bed next to me.
+
+1344
+01:17:20,010 --> 01:17:22,501
+那又有什么问题？我们是夫妻。
+Well, what's wrong with that? We're married.
+
+1345
+01:17:22,596 --> 01:17:25,008
+嗯，但——那笔钱，亲爱的。
+Uh, but-but the money, darling.
+
+1346
+01:17:25,099 --> 01:17:26,635
+哦，那件事。
+Oh, that.
+
+1347
+01:17:26,725 --> 01:17:28,932
+Gregory 替我把钱放回去了。
+Gregory took it back for me.
+
+1348
+01:17:29,019 --> 01:17:31,351
+我得说他做得并不怎么好。
+I must say he didn't do a very good job of it.
+
+1349
+01:17:31,438 --> 01:17:32,999
+他并没有在帮助你这件事上做得很好
+He's not doing a very good job of helping you
+
+1350
+01:17:33,023 --> 01:17:35,685
+通过迁就你这些幻想。
+by humoring these fantasies of yours.
+
+1351
+01:17:35,776 --> 01:17:38,313
+你知道 Gregory 为什么说我抢了你们银行吗？
+Do you know why Gregory says I robbed your bank?
+
+1352
+01:17:38,404 --> 01:17:41,020
+因为你把更多注意力放在银行上，而不是我身上。
+Because you pay more attention to it than you do to me.
+
+1353
+01:17:42,491 --> 01:17:44,322
+你几乎都不再注意我了。
+You hardly ever even notice me anymore.
+
+1354
+01:17:44,410 --> 01:17:46,947
+我知道。我能做什么？告诉我你想要什么。
+You know I do. What do you want? Tell me what you want.
+
+1355
+01:17:47,037 --> 01:17:49,403
+任何事，任何你想要的，亲爱的。
+Anything, anything you want, darling.
+
+1356
+01:17:52,877 --> 01:17:55,038
+好吧，真正让我在意的只有一件事。
+Well, there's only one thing I really care about.
+
+1357
+01:17:55,546 --> 01:17:57,787
+那件事对我很重要。
+Something that would mean a great deal to me.
+
+1358
+01:17:57,882 --> 01:17:58,962
+说吧。
+Name it.
+
+1359
+01:17:59,049 --> 01:18:00,710
+我想举办一个体面的鸡尾酒会
+I'd like to give a nice cocktail party
+
+1360
+01:18:00,801 --> 01:18:02,291
+为你所有的朋友举行。
+for all of your friends.
+
+1361
+01:18:02,386 --> 01:18:04,047
+一个鸡尾酒会。
+A cocktail party.
+
+1362
+01:18:06,682 --> 01:18:09,014
+你要不要让司机把你放在银行门口？
+Should you tell the driver to drop you off at the bank?
+
+1363
+01:18:09,101 --> 01:18:10,466
+穿这身？
+In this?
+
+1364
+01:18:34,335 --> 01:18:36,667
+她在家吗？Elcott 太太？
+She's home? Mrs. Elcott?
+
+1365
+01:18:36,754 --> 01:18:38,915
+请问谁打来？
+Who is calling, please?
+
+1366
+01:18:39,673 --> 01:18:40,879
+朋友。
+Friends.
+
+1367
+01:18:42,134 --> 01:18:43,340
+匿名的。
+Anonymous.
+
+1368
+01:18:45,012 --> 01:18:47,424
+匿名先生和太太。
+Mr. and Mrs. anonymous.
+
+1369
+01:18:49,475 --> 01:18:50,715
+你好。
+Hello.
+
+1370
+01:18:51,810 --> 01:18:54,176
+- 你记得 Sadaba 吗？
+- 还有 Ducky？
+- You remember Sadaba? - And ducky?
+
+1371
+01:18:54,271 --> 01:18:55,727
+当然记得。
+Of course.
+
+1372
+01:18:56,357 --> 01:18:59,099
+请坐，Elcott 太太。
+Have a seat, Mrs. Elcott.
+
+1373
+01:19:01,779 --> 01:19:03,610
+我有什么能为你效劳的吗？
+Is there something I can do for you?
+
+1374
+01:19:03,697 --> 01:19:07,155
+- 为我们？不。
+- 我们要为你做点事。
+- For us? No. - We do something for you.
+
+1375
+01:19:07,243 --> 01:19:09,450
+哦，我在等客人。
+Oh, well, I'm expecting guests.
+
+1376
+01:19:09,536 --> 01:19:11,447
+呃，如果你们是来卖衣服的...
+Uh, if you're here to sell me a dress...
+
+1377
+01:19:11,538 --> 01:19:13,199
+重要得多，不只是件衣服。
+Much more important than a dress.
+
+1378
+01:19:13,290 --> 01:19:15,906
+我们来卖给你自由。
+We come to sell you freedom.
+
+1379
+01:19:16,835 --> 01:19:19,702
+哦！那真是个了不起的事业。
+Oh! Oh, well, that's a wonderful cause.
+
+1380
+01:19:19,797 --> 01:19:21,583
+我一直对自由很感兴趣。
+I'm always interested in freedom.
+
+1381
+01:19:21,674 --> 01:19:24,131
+- 为所有人。
+- 尤其是为你。
+- For everybody. - Especially for you.
+
+1382
+01:19:26,053 --> 01:19:27,714
+现在说说钱。
+The check now.
+
+1383
+01:19:28,764 --> 01:19:30,220
+你想要多少？
+How much would you like?
+
+1384
+01:19:30,307 --> 01:19:31,922
+25000 美元。
+Twenty-five thousand dollars.
+
+1385
+01:19:32,017 --> 01:19:34,053
+要这么多？
+As much as that?
+
+1386
+01:19:34,144 --> 01:19:37,181
+那是用来干什么的？
+Well, what, uh, is it for?
+
+1387
+01:19:37,273 --> 01:19:39,855
+为了让一位好女士不进监狱。
+To keep a nice lady out of jail.
+
+1388
+01:19:39,942 --> 01:19:45,482
+Sadaba 知道 Mrs. James Elcott 抢了她丈夫的银行。
+Sadaba knows Mrs. James Elcott robbed her husband's bank.
+
+1389
+01:19:50,244 --> 01:19:51,905
+你知道这事？
+You know that?
+
+1390
+01:19:52,496 --> 01:19:55,078
+真的？你确定吗？
+Really? Are you positive?
+
+1391
+01:19:55,165 --> 01:19:57,156
+你没刚刚听见她自己承认吗？
+You didn't hear her just tell you?
+
+1392
+01:19:58,335 --> 01:19:59,450
+你能证明吗？
+Can you prove it?
+
+1393
+01:19:59,545 --> 01:20:02,878
+Sadaba 是傻瓜吗？
+Is Sadaba a fool?
+
+1394
+01:20:02,965 --> 01:20:05,456
+她当场就证明了。怎么证明？
+Certainly she proves it. How?
+
+1395
+01:20:07,720 --> 01:20:12,180
+这是两年前杂志上的一张照片。
+Here is a picture from magazine two years old.
+
+1396
+01:20:13,350 --> 01:20:14,931
+你认出这位女士了吗？
+You recognize the lady?
+
+1397
+01:20:15,019 --> 01:20:17,431
+- 是我！
+- 哦，别靠那么近。
+- It's me! - Oh, not so close.
+
+1398
+01:20:17,896 --> 01:20:21,184
+Ducky，亲爱的，读上面的字。
+Ducky, sweetheart, read the words.
+
+1399
+01:20:21,275 --> 01:20:24,312
+“在慈善午宴上，纽约的 Mrs. James Elcott
+"At luncheon for charity, Mrs. James Elcott of New York
+
+1400
+01:20:24,403 --> 01:20:29,067
+身着 Givenchy 设计的黄色羊毛套装。”
+wearing a suit of yellow wool designed by Givenchy."
+
+1401
+01:20:29,158 --> 01:20:31,649
+那就是穿黄色套装的我！
+It's me in the yellow suit!
+
+1402
+01:20:31,744 --> 01:20:34,030
+如果有人看到了那...
+Well, if anybody saw that...
+
+1403
+01:20:36,582 --> 01:20:38,664
+你们在勒索我！
+You're blackmailing me!
+
+1404
+01:20:39,043 --> 01:20:40,908
+勒索是刑事犯罪。
+Blackmail is a criminal offense.
+
+1405
+01:20:41,003 --> 01:20:42,743
+我们的目的是
+What we're trying to do
+
+1406
+01:20:42,838 --> 01:20:46,877
+做一件价值 25000 美元的好事。
+is a $25,000 good turn.
+
+1407
+01:20:46,967 --> 01:20:48,377
+哦。
+Oh.
+
+1408
+01:20:48,469 --> 01:20:51,302
+如果我不付呢？
+And suppose I won't pay it?
+
+1409
+01:20:51,388 --> 01:20:55,131
+那你会付的，否则我们就把照片给你丈夫看。
+But you will, or we show this to your husband.
+
+1410
+01:20:55,434 --> 01:20:57,971
+哦，我能指望你们这么做吗？
+Oh, can I depend on that?
+
+1411
+01:20:59,021 --> 01:21:00,511
+算是我的承诺。
+Here is my word.
+
+1412
+01:21:00,606 --> 01:21:03,643
+她说的“指望”是什么意思？
+What does she mean, depend on it?
+
+1413
+01:21:03,734 --> 01:21:06,942
+哦，他随时会来。
+Oh, he ought to be along any minute.
+
+1414
+01:21:07,029 --> 01:21:08,314
+你能等吗？
+Can you wait?
+
+1415
+01:21:08,405 --> 01:21:12,648
+也许丈夫也牵涉其中，是吧？
+So maybe the husband is in the game, huh?
+
+1416
+01:21:12,743 --> 01:21:15,906
+那我们甚至可以不用给他看？
+So maybe we don't even bother to show him?
+
+1417
+01:21:15,996 --> 01:21:18,078
+哦，你们一定要的，拜托。
+Oh, you've got to, please.
+
+1418
+01:21:18,165 --> 01:21:20,406
+我们没有......
+We don't got...
+
+1419
+01:21:20,501 --> 01:21:23,083
+但也许我们应该把照片拿去给警察。
+But maybe we take the picture to the police.
+
+1420
+01:21:23,170 --> 01:21:25,286
+立刻。快点。
+Right away. Quick.
+
+1421
+01:21:25,381 --> 01:21:27,372
+你觉得怎么样？
+What do you say to that?
+
+1422
+01:21:27,466 --> 01:21:29,297
+好，我-我就跟你们去。
+Okay, I-I'll go with you.
+
+1423
+01:21:29,385 --> 01:21:30,591
+不。
+No.
+
+1424
+01:21:30,677 --> 01:21:34,340
+Ducky，这地方让我觉得有点可疑。
+Ducky, something is smelling crooked in the place.
+
+1425
+01:21:34,431 --> 01:21:37,423
+- 出去。
+- 不！哦，等等！拜托，听我说！
+- Out. - No! Oh, wait! Please, listen!
+
+1426
+01:21:37,518 --> 01:21:39,930
+- 我们把证据处理掉！
+- 停下！你们在干什么？
+- We get rid of the evidence! - Stop! What are you doing?
+
+1427
+01:21:40,020 --> 01:21:41,931
+拜托，你们把一切都毁了！
+Please, you're spoiling everything!
+
+1428
+01:21:42,022 --> 01:21:44,308
+我们把证据吞了！吞下去！
+We swallow the evidence! Swallow!
+
+1429
+01:21:44,400 --> 01:21:46,732
+James，哦，亲爱的。
+James, oh, darling.
+
+1430
+01:21:46,819 --> 01:21:48,275
+幸好你来了。
+Thank heaven you're here.
+
+1431
+01:21:48,362 --> 01:21:52,401
+亲爱的，这是 Princess Sadaba 和 Ducky。
+Darling, this is Princess Sadaba and Ducky.
+
+1432
+01:21:52,741 --> 01:21:55,699
+他们来这里是想勒索我。
+And they came here to blackmail me.
+
+1433
+01:21:55,786 --> 01:21:59,620
+Princess Sadaba，现在请向我丈夫解释
+Princess Sadaba, now please explain to my husband
+
+1434
+01:21:59,706 --> 01:22:02,072
+为什么你要勒索我。
+why you're blackmailing me.
+
+1435
+01:22:02,626 --> 01:22:06,665
+我们是来给你太太看晚礼服的。
+We came to interest your wife in an evening gown.
+
+1436
+01:22:06,755 --> 01:22:09,872
+突然之间，居然有人跟我说起
+Out of the blue, suddenly I'm hearing
+
+1437
+01:22:09,967 --> 01:22:11,548
+呃，勒索的事。
+uh, about blackmail.
+
+1438
+01:22:11,635 --> 01:22:13,500
+James, 那不是真的
+James, that's not true.
+
+1439
+01:22:13,595 --> 01:22:15,961
+他们有确凿的证据说我抢了你们的银行。
+They have positive proof that I robbed your bank.
+
+1440
+01:22:16,056 --> 01:22:17,056
+什么银行？
+What bank?
+
+1441
+01:22:17,141 --> 01:22:18,972
+Mr. Elcott，很抱歉这么说，
+Mr. Elcott, I hate to say this,
+
+1442
+01:22:19,059 --> 01:22:21,641
+但你娶了个有点古怪的女人。
+but you are married to some wacky woman.
+
+1443
+01:22:21,728 --> 01:22:24,344
+我妻子最近一直觉得不太好。
+My wife has not been feeling too well lately.
+
+1444
+01:22:24,440 --> 01:22:28,058
+James，你要相信他们还是相信我？
+James, are you going to believe them or me?
+
+1445
+01:22:28,152 --> 01:22:29,983
+亲爱的，你又在幻想了。
+Honey, you're imagining things again.
+
+1446
+01:22:30,070 --> 01:22:33,312
+幻想？幻想？
+Imagining things? Imagining things?
+
+1447
+01:22:33,407 --> 01:22:36,114
+好吧，问他他在吃什么。
+Alright, ask him what he's eating.
+
+1448
+01:22:37,870 --> 01:22:39,986
+打扰一下，先生，你在吃什么？
+Excuse me, sir, what are you eating?
+
+1449
+01:22:41,081 --> 01:22:44,073
+- 我吃得晚了。
+- 谢谢。
+- I had a late lunch. - Thank you.
+
+1450
+01:22:45,586 --> 01:22:47,076
+哦！
+Oh!
+
+1451
+01:22:49,465 --> 01:22:51,126
+来吧，殿下。
+Come, highness.
+
+1452
+01:22:54,261 --> 01:22:55,592
+对不起。
+I'm sorry.
+
+1453
+01:22:55,679 --> 01:22:57,761
+如果我能弥补什么的话……
+If there's any way I can make amends...
+
+1454
+01:22:59,099 --> 01:23:01,010
+你有没有气泡水之类的？
+You got maybe a little seltzer?
+
+1455
+01:23:01,101 --> 01:23:02,557
+出去！
+Out!
+
+1456
+01:23:11,570 --> 01:23:14,528
+James，多么有趣的聚会啊。
+James, such a fun party.
+
+1457
+01:23:14,615 --> 01:23:16,606
+你的Penelope什么时候出来？
+When's your Penelope going to appear?
+
+1458
+01:23:16,700 --> 01:23:18,900
+也许她拉链卡住了。我去看看。
+Maybe she's having zipper trouble. I'll just go and see.
+
+1459
+01:23:21,371 --> 01:23:23,032
+Dr. Mannix。
+Dr. Mannix.
+
+1460
+01:23:25,250 --> 01:23:27,787
+我不知道精神病医生会上门看病。
+I didn't know a psychiatrist made house calls.
+
+1461
+01:23:27,878 --> 01:23:29,493
+我是个客人。
+I am a guest.
+
+1462
+01:23:29,588 --> 01:23:31,749
+我还有请柬，看到了吗？
+And I have an invitation. See?
+
+1463
+01:23:31,840 --> 01:23:33,751
+你有过。现在没有了。
+You did. Now you don't.
+
+1464
+01:23:34,176 --> 01:23:35,837
+那不是挺孩子气的做法吗？
+Isn't that a rather childish thing to do?
+
+1465
+01:23:35,928 --> 01:23:37,543
+那来点更成熟的怎么样？
+Then how about something more grownup?
+
+1466
+01:23:37,638 --> 01:23:39,299
+比如，给你一拳鼻子怎么样？
+Say, a punch in the nose?
+
+1467
+01:23:39,389 --> 01:23:42,256
+把你身上的怒气发泄到我身上对你没用。
+Taking out your aggressions on me is not going to help you.
+
+1468
+01:23:42,351 --> 01:23:44,511
+对你没用，但你也帮不了我妻子。
+It won't help you, but then you're not helping my wife.
+
+1469
+01:23:44,561 --> 01:23:46,893
+我只负责这案子三年，先生。
+I've only been on the case for three years, sir.
+
+1470
+01:23:46,980 --> 01:23:49,392
+到这段时间结束时，你的病人，你以前的病人
+At the end of which time, your patient, your former patient
+
+1471
+01:23:49,483 --> 01:23:51,127
+比起开始时更糟了。
+is worse off than when she first started with you.
+
+1472
+01:23:51,151 --> 01:23:53,688
+以前的？你说以前的是什么意思？我不明白。
+Former? W-W-What do you mean by, uh, former? I don't understand.
+
+1473
+01:23:53,779 --> 01:23:55,269
+那我来解释。你被解雇了。
+Then I'll explain. You're fired.
+
+1474
+01:23:55,364 --> 01:23:57,730
+等等！Elcott，你不能那样！
+Wait! Elcott, you can't do that!
+
+1475
+01:24:05,374 --> 01:24:07,535
+Penny。Penny？
+Penny. Penny?
+
+1476
+01:24:07,626 --> 01:24:09,287
+嗯，有事吗？
+Yes, what is it?
+
+1477
+01:24:09,753 --> 01:24:12,039
+大家都在找你，亲爱的。你要出来吗？
+Everyone's asking for you, honey. Are you coming out?
+
+1478
+01:24:12,130 --> 01:24:14,166
+我告诉过你，要的。
+I told you, yes.
+
+1479
+01:24:14,258 --> 01:24:15,464
+什么时候？
+When?
+
+1480
+01:24:16,718 --> 01:24:19,334
+等Mildred Halliday来了我就出来。
+As soon as Mildred Halliday gets here.
+
+1481
+01:24:19,429 --> 01:24:21,715
+Mildred Halliday和这有什么关系？
+What's Mildred Halliday got to do with it?
+
+1482
+01:24:23,809 --> 01:24:25,140
+你会看到的。
+You'll see.
+
+1483
+01:24:26,687 --> 01:24:29,929
+Penny，让我进去我们谈谈，好吗？
+Penny, just let me in and we'll talk it over, huh?
+
+1484
+01:24:31,441 --> 01:24:33,227
+Penny，如果你能回答我就好了。
+Penny, if you'll just answer me.
+
+1485
+01:24:33,318 --> 01:24:34,933
+Penny，开门！
+Penny, open!
+
+1486
+01:24:36,738 --> 01:24:38,319
+这个门把有点卡。哦。
+This knob, it sticks. Oh.
+
+1487
+01:24:38,407 --> 01:24:39,842
+- 我得找个螺丝刀。
+- 嗯哼。
+- I have to get a screwdriver. - Mm-hmm.
+
+1488
+01:24:39,866 --> 01:24:42,448
+你应该在黄页里找找。
+Well, you should try to find it in the yellow pages.
+
+1489
+01:24:42,536 --> 01:24:44,447
+或者打开我的门。
+Or open my door.
+
+1490
+01:24:46,790 --> 01:24:48,951
+你好，Mildred。欢迎来参加聚会。
+Hello, Mildred. Welcome to the party.
+
+1491
+01:24:54,047 --> 01:24:57,756
+哦，James，确保Mildred得到她想要的一切。
+Oh, James, make sure Mildred gets everything she wants.
+
+1492
+01:25:00,804 --> 01:25:03,386
+- 哦，可怜的亲爱的。
+- 哦，Mildred。
+- Oh, poor darling. - Oh, Mildred.
+
+1493
+01:25:03,473 --> 01:25:04,883
+你能帮我一个忙吗？
+Would you mind doing me a favor?
+
+1494
+01:25:04,975 --> 01:25:06,761
+哦，任何事，任何事。
+Oh, anything, anything.
+
+1495
+01:25:06,852 --> 01:25:08,888
+试着换个人亲一下，行吗？
+Try kissing somebody else for a change, huh?
+
+1496
+01:25:08,979 --> 01:25:10,014
+说真的，我确实有亲，
+Well, honestly, I do,
+
+1497
+01:25:10,105 --> 01:25:12,892
+但我就是不那么享受了。
+but I just don't enjoy it as much.
+
+1498
+01:25:21,033 --> 01:25:24,446
+一杯双份苏格兰威士忌。苏打还是加冰？
+A double scotch. Soda or over the rocks?
+
+1499
+01:25:24,536 --> 01:25:26,868
+再来一杯双份苏格兰威士忌。
+Over another double scotch.
+
+1500
+01:25:26,955 --> 01:25:28,866
+哦，真美味，我敬这一杯。
+Ooh, yummy, I'll drink to that.
+
+1501
+01:25:46,516 --> 01:25:48,848
+晚上好。晚上好。
+Good evening. Good evening.
+
+1502
+01:25:49,478 --> 01:25:51,309
+晚上好，James。
+Good evening, James.
+
+1503
+01:25:51,396 --> 01:25:54,012
+Penny，这都是怎么回事？你会看的。
+Penny, what's all this? You'll see.
+
+1504
+01:25:59,279 --> 01:26:01,565
+亲爱的Heller小姐，很高兴你能来。
+Dear miss Heller, so good of you to come.
+
+1505
+01:26:01,657 --> 01:26:04,740
+你最近有看到什么好游泳池的底部吗？
+Have you seen the bottom of any good swimming pools lately?
+
+1506
+01:26:09,456 --> 01:26:11,822
+搞错了？我……
+Mistaken? I...
+
+1507
+01:26:17,089 --> 01:26:19,296
+Daphne。Daphne，亲爱的。
+Daphne. Daphne, darling.
+
+1508
+01:26:19,383 --> 01:26:22,625
+下次你去跳迪斯科的时候，要小心点。
+The next time you go discothequeing, you should be more careful.
+
+1509
+01:26:22,719 --> 01:26:24,380
+你把你的王冠弄丢了。
+You lost your tiara.
+
+1510
+01:26:24,471 --> 01:26:26,837
+James，这是她的恶作剧吗？
+James, is this her idea of a joke?
+
+1511
+01:26:28,433 --> 01:26:30,674
+Penny，亲爱的，进来吧。
+Penny darling, come inside.
+
+1512
+01:26:33,355 --> 01:26:35,016
+Mildred，不知为什么
+Mildred, for some reason
+
+1513
+01:26:35,107 --> 01:26:37,143
+他们似乎不想把首饰要回去。
+they don't seem to want their jewelry back.
+
+1514
+01:26:37,234 --> 01:26:38,815
+但我确定你会的。
+But I'm sure you will.
+
+1515
+01:26:38,902 --> 01:26:41,063
+我婚礼那天的纪念物。
+A memento of my wedding day.
+
+1516
+01:26:42,906 --> 01:26:44,988
+亲爱的 Penelope，你总是
+Dear Penelope, you always did
+
+1517
+01:26:45,075 --> 01:26:47,282
+有那么古怪的幽默感。
+have such a quaint sense of humor.
+
+1518
+01:26:47,369 --> 01:26:49,576
+我这辈子从没见过那些绿宝石。
+I never saw those emeralds in my life.
+
+1519
+01:26:53,125 --> 01:26:56,208
+- Mildred！ - Penny，求你了。
+- Mildred! - Penny, please.
+
+1520
+01:26:56,294 --> 01:26:59,411
+James，有些不对劲。
+James, something's wrong.
+
+1521
+01:26:59,506 --> 01:27:01,462
+非常严重的不对劲。
+Something's terribly wrong.
+
+1522
+01:27:01,550 --> 01:27:03,211
+我很害怕。
+I'm frightened.
+
+1523
+01:27:03,301 --> 01:27:04,666
+Penelope，等等！
+Penelope, wait!
+
+1524
+01:27:07,305 --> 01:27:10,342
+- Penelope！ Penelope，等等！ - Jimmy，让她走。
+- Penelope! Penelope, wait! - Jimmy, let her go.
+
+1525
+01:27:10,434 --> 01:27:12,328
+她知道自己出丑了，感到很尴尬。
+She knows she's made a fool of herself and she's embarrassed.
+
+1526
+01:27:12,352 --> 01:27:14,638
+- 我得阻止她。
+- 哦，如果你阻止她你会后悔的。
+- I've got to stop her. - Oh, you'll be sorry if you do.
+
+1527
+01:27:14,730 --> 01:27:16,140
+如果我不阻止她，我会后悔。
+I'll be sorry if I don't.
+
+1528
+01:28:04,029 --> 01:28:06,236
+整晚。
+All night long.
+
+1529
+01:28:06,323 --> 01:28:09,065
+我跟你说我担心得要命。
+I tell you I'm frantic with worry.
+
+1530
+01:28:09,159 --> 01:28:10,365
+如果你想起什么...
+If you think of anything...
+
+1531
+01:28:10,452 --> 01:28:12,443
+很明显她觉得你辜负了她。
+Well, it's obvious she thinks you've failed her.
+
+1532
+01:28:12,537 --> 01:28:13,743
+她很困惑。
+She's confused.
+
+1533
+01:28:13,830 --> 01:28:15,070
+而在她的困惑中
+And in her confusion
+
+1534
+01:28:15,165 --> 01:28:17,622
+她会转向她唯一信任的人。
+she'll turn to the one person she can trust.
+
+1535
+01:28:17,709 --> 01:28:19,825
+就是我。冷静点，Elcott。
+Yours truly. Just calm down, Elcott.
+
+1536
+01:28:19,920 --> 01:28:21,626
+我们正在尽一切努力。
+We're doing everything we can.
+
+1537
+01:28:21,713 --> 01:28:23,078
+如果你妻子觉得有危险，
+If your wife feels in any danger,
+
+1538
+01:28:23,173 --> 01:28:26,085
+无冒犯之意，她会来找我寻求保护。
+no offense, it's me that she'll come to for protection.
+
+1539
+01:28:44,861 --> 01:28:46,476
+Serena 小姐。
+Miss Serena.
+
+1540
+01:28:46,571 --> 01:28:48,812
+- 哦，多甜的名字。 - 谢谢。
+- Oh, what a sweet name. - Thank you.
+
+1541
+01:28:48,907 --> 01:28:51,023
+我总认为名字有很大影响...
+I always think that names have a great influence...
+
+1542
+01:29:05,549 --> 01:29:07,631
+你以为是谁... 哎呦！
+Who do you think... ow!
+
+1543
+01:29:07,717 --> 01:29:09,799
+好，让我来... 小心。
+Alright, let me... watch out.
+
+1544
+01:29:10,554 --> 01:29:13,045
+我不怕你，你这个大恶霸。
+I'm not afraid of you, you big bully.
+
+1545
+01:29:13,139 --> 01:29:16,131
+一个老太太拿走...（这个主意）
+The idea of an old woman taking a...
+
+1546
+01:29:16,893 --> 01:29:18,349
+可耻！
+Shame on you!
+
+1547
+01:29:36,454 --> 01:29:38,570
+防碎的，哈！
+Shatterproof, ha!
+
+1548
+01:29:38,665 --> 01:29:41,077
+把那该死的东西关掉！
+Shut that damn thing off!
+
+1549
+01:29:41,167 --> 01:29:42,532
+谢谢。
+Thank you.
+
+1550
+01:29:48,508 --> 01:29:53,298
+啊，我的可育鸡蛋和酸奶。我要告你。
+Oh, my fertile eggs and my yogurt. I'll sue you.
+
+1551
+01:29:53,388 --> 01:29:57,347
+现在看看是谁戴着这张可笑的面具。
+Now let's see who's under this ridiculous-looking mask.
+
+1552
+01:30:00,020 --> 01:30:02,136
+她给我十块钱的时候可没提过要捏鼻子這事。
+She didn't say nothin' about nose-tweaking
+
+1553
+01:30:02,230 --> 01:30:03,686
+她给我十块钱的时候可没提过。
+when she give me the ten bucks.
+
+1554
+01:30:03,773 --> 01:30:05,604
+她？谁？
+She? Who?
+
+1555
+01:30:05,692 --> 01:30:08,980
+她说是个恶作剧，我信了她。
+A practical joke, she said, and I believed her.
+
+1556
+01:30:09,070 --> 01:30:12,187
+她那双又大又悲伤的褐色眼睛，
+Her with those big, sad brown eyes,
+
+1557
+01:30:12,282 --> 01:30:14,819
+她还能那么会哭。
+and how she could cry.
+
+1558
+01:30:17,120 --> 01:30:18,985
+她长什么样？
+What did she look like?
+
+1559
+01:30:19,080 --> 01:30:23,915
+年轻、漂亮，穿着白色晚礼服，
+Young, pretty, white evening gown
+
+1560
+01:30:24,002 --> 01:30:26,960
+大概就是这样子。
+and about so big.
+
+1561
+01:30:29,257 --> 01:30:30,713
+Penelope。
+Penelope.
+
+1562
+01:30:36,056 --> 01:30:38,422
+- 哦！ - 亲爱的，是我。
+- Oh! - Darling, it's me.
+
+1563
+01:30:39,726 --> 01:30:41,057
+不是你。
+It isn't you.
+
+1564
+01:30:41,144 --> 01:30:44,227
+我们被抢了。就在后面，当我们都在这儿的时候。
+We've been robbed. Back there while we were all up here.
+
+1565
+01:30:45,440 --> 01:30:46,771
+Penelope。
+Penelope.
+
+1566
+01:30:55,075 --> 01:30:56,906
+Elcott，等一下。
+Elcott, wait a minute.
+
+1567
+01:30:56,993 --> 01:30:58,654
+我知道。跟着那辆出租车。
+I know. Follow the cab.
+
+1568
+01:30:58,745 --> 01:31:00,485
+不，不，我在找一个女孩。
+No, no, I'm looking for a girl.
+
+1569
+01:31:00,580 --> 01:31:01,820
+谁不是？
+Who ain't?
+
+1570
+01:31:01,915 --> 01:31:04,076
+她应该刚从银行出来。
+And she'd have just come out of the bank.
+
+1571
+01:31:04,167 --> 01:31:06,249
+- 甩得很迷人？ - 是的，是的。
+- With a real nice wiggle? - Yes, yes.
+
+1572
+01:31:06,336 --> 01:31:07,826
+她，她，她往哪边走了？
+Which, which-which way did she go?
+
+1573
+01:31:07,921 --> 01:31:09,411
+往市区方向。
+Downtown.
+
+1574
+01:31:14,344 --> 01:31:15,834
+往市区？
+Downtown?
+
+1575
+01:31:18,014 --> 01:31:19,754
+你盯着什么看，Mac？
+What you starin' at, Mac?
+
+1576
+01:31:21,101 --> 01:31:22,386
+那张脸。
+That face.
+
+1577
+01:31:25,480 --> 01:31:29,098
+哦，刚才那一刻，你看起来就像我太太。
+Oh, for-for a moment, you looked just like my wife.
+
+1578
+01:31:30,360 --> 01:31:32,601
+我还以为我娶的是条狗。
+And I thought mine was a dog.
+
+1579
+01:31:34,572 --> 01:31:36,028
+你说往市区？
+Downtown, you said?
+
+1580
+01:31:36,366 --> 01:31:38,982
+呃，带我去中心街，警察局总部。
+Uh, take me to centre street, police headquarters.
+
+1581
+01:31:41,788 --> 01:31:43,198
+Penelope？
+Penelope?
+
+1582
+01:31:44,374 --> 01:31:46,490
+我说得对。你来找我了。
+I was right. You came to me.
+
+1583
+01:31:46,584 --> 01:31:47,824
+我还能去找谁？
+Who else would I come to?
+
+1584
+01:31:47,919 --> 01:31:49,063
+你要我先走吗，不等你？
+You want me to go ahead without you?
+
+1585
+01:31:49,087 --> 01:31:50,668
+听着，你不会相信的，
+Listen, you're not gonna believe this,
+
+1586
+01:31:50,755 --> 01:31:53,041
+可有人刚抢了你丈夫的银行。
+but somebody just knocked over your husband's bank.
+
+1587
+01:31:53,133 --> 01:31:55,920
+嗯，你可能不信，但我信你。
+Well, you won't believe this, but I believe you.
+
+1588
+01:31:57,762 --> 01:31:59,718
+你抢了你丈夫的银行？
+You robbed your husband's bank?
+
+1589
+01:31:59,806 --> 01:32:00,921
+不止一次。两次。
+Twice.
+
+1590
+01:32:05,729 --> 01:32:09,813
+中士，我刚破了 Elcott 案。
+Sergeant, I just solved the Elcott case.
+
+1591
+01:32:10,692 --> 01:32:13,775
+长大后我想当个像你这样的警察。
+When I grow up, I wanna be a cop just like you.
+
+1592
+01:32:14,529 --> 01:32:16,465
+你现在得放了 Honeysuckle，是吧？
+You'll have to release honeysuckle now, won't you?
+
+1593
+01:32:16,489 --> 01:32:18,150
+以童子军的名誉发誓。
+Scout's honor.
+
+1594
+01:32:19,617 --> 01:32:21,824
+我来了，我来了。
+I'm going, I'm going.
+
+1595
+01:32:23,872 --> 01:32:29,117
+嗯，我想我们可能不会再见面了。
+Well, I, uh, I guess we won't be seeing one another anymore.
+
+1596
+01:32:29,210 --> 01:32:30,620
+你们不会要逮捕我吗？
+Aren't you gonna arrest me?
+
+1597
+01:32:30,712 --> 01:32:32,828
+除非银行行长提出起诉，
+Not unless the bank president presses charges,
+
+1598
+01:32:32,922 --> 01:32:34,537
+否则几乎不太可能。
+which is hardly likely.
+
+1599
+01:32:36,051 --> 01:32:37,712
+谢谢你，Horatio。
+Thank you, Horatio.
+
+1600
+01:32:38,845 --> 01:32:40,301
+不客气，Penelope。
+You're welcome, Penelope.
+
+1601
+01:32:43,183 --> 01:32:45,845
+好吧，这段犯罪生涯虽短，但很精彩。
+Well, it was a great criminal career while it lasted.
+
+1602
+01:32:54,402 --> 01:32:56,563
+算是最棒的之一。
+One of the best.
+
+1603
+01:33:18,426 --> 01:33:20,633
+Elcott 先生，进来吧。
+Mr. Elcott, come on in.
+
+1604
+01:33:26,726 --> 01:33:28,933
+我从没见你在五点之前喝东西。
+I've never seen you take a drink before 5:00.
+
+1605
+01:33:29,479 --> 01:33:31,219
+总有地方是五点钟。
+It's gotta be 5:00 someplace.
+
+1606
+01:33:33,733 --> 01:33:35,348
+可你不是 Penelope。
+But you're not Penelope.
+
+1607
+01:33:36,319 --> 01:33:37,604
+听到了吗？
+Hear that?
+
+1608
+01:33:37,695 --> 01:33:40,311
+这个人居然把他妻子送去看疯医生。
+And this guy sends his wife to the crazy doctor.
+
+1609
+01:33:47,080 --> 01:33:49,162
+我不认为威士忌是你的解药。
+I don't think whisky's your answer.
+
+1610
+01:33:51,292 --> 01:33:53,203
+Gregory。
+Gregory.
+
+1611
+01:33:53,294 --> 01:33:54,294
+Gregory？
+Gregory?
+
+1612
+01:33:54,379 --> 01:33:55,960
+我告诉他你会来找我。
+I told him you would turn to me.
+
+1613
+01:33:56,047 --> 01:33:59,164
+哦，我还能去找谁呢？
+Oh, who else could I turn to?
+
+1614
+01:33:59,259 --> 01:34:00,920
+感谢上天你平安无事。
+Thank heaven you're safe and sound.
+
+1615
+01:34:01,010 --> 01:34:02,750
+安全但不正常。
+Safe but not sound.
+
+1616
+01:34:02,846 --> 01:34:05,303
+Gregory，我真的很害怕。
+Gregory, I'm really frightened.
+
+1617
+01:34:05,390 --> 01:34:07,722
+我一定有很严重的问题。
+There must be something terribly wrong with me.
+
+1618
+01:34:07,809 --> 01:34:09,925
+我的意思是，我就是无法理解
+I mean, I just cannot get it through my head
+
+1619
+01:34:10,019 --> 01:34:12,556
+我并没有真的偷那些珠宝这件事。
+that I didn't actually steal all those jewels.
+
+1620
+01:34:12,647 --> 01:34:14,353
+然而我知道我不可能偷。
+And yet I know I couldn't have.
+
+1621
+01:34:14,440 --> 01:34:16,101
+你确实偷了那些珠宝。
+You did steal the jewels.
+
+1622
+01:34:18,862 --> 01:34:20,005
+他们让保险公司
+They stuck the insurance companies
+
+1623
+01:34:20,029 --> 01:34:21,394
+承担了这些索赔，吃了大亏，
+with their claims but good,
+
+1624
+01:34:21,489 --> 01:34:23,855
+所以自然他们不想要这些东西回去。
+so naturally, they didn't want the stuff back.
+
+1625
+01:34:31,040 --> 01:34:32,621
+那我就完全痊愈了。
+Then I'm completely cured.
+
+1626
+01:34:33,918 --> 01:34:35,078
+真的吗？
+You are?
+
+1627
+01:34:35,170 --> 01:34:37,035
+是的。我不是告诉过你吗？
+Yes. Didn't I tell you?
+
+1628
+01:34:37,130 --> 01:34:40,247
+我刚又把 James 的银行抢了一次。
+I just finished robbing James' bank again.
+
+1629
+01:34:40,341 --> 01:34:42,502
+可你已经完全康复了？
+But you're completely cured?
+
+1630
+01:34:42,594 --> 01:34:43,959
+当然了。
+Of course.
+
+1631
+01:34:44,053 --> 01:34:45,759
+因为当我做那事的时候
+Because the whole time I was doing it
+
+1632
+01:34:45,847 --> 01:34:47,428
+我哭得很厉害。
+I was crying like anything.
+
+1633
+01:34:47,515 --> 01:34:48,721
+你不明白吗？
+Don't you get it?
+
+1634
+01:34:48,808 --> 01:34:51,390
+看，偷东西不再让我开心了。
+You see, the stealing didn't make me cheerful anymore.
+
+1635
+01:34:51,477 --> 01:34:52,717
+它让我感觉很糟糕。
+It made me feel rotten.
+
+1636
+01:34:52,812 --> 01:34:55,178
+所以这意味着我不是窃盗癖。
+So that means I'm not a kleptomaniac.
+
+1637
+01:34:55,273 --> 01:34:56,729
+这不是很好吗？
+Isn't that wonderful?
+
+1638
+01:34:57,609 --> 01:34:59,315
+那真糟糕。
+That's terrible.
+
+1639
+01:34:59,402 --> 01:35:02,314
+不再偷东西。不再有爱好。
+No more stealing. No more hobbies.
+
+1640
+01:35:02,405 --> 01:35:04,191
+也不再有婚姻。
+No more marriage.
+
+1641
+01:35:04,282 --> 01:35:06,147
+只有感到糟糕。
+Just feeling rotten.
+
+1642
+01:35:06,242 --> 01:35:07,948
+这好吗？
+Is that wonderful?
+
+1643
+01:35:09,120 --> 01:35:10,656
+接下来怎么办？
+What next?
+
+1644
+01:35:10,997 --> 01:35:12,703
+嗯，你可以嫁给我。
+Well, you could marry me.
+
+1645
+01:35:12,790 --> 01:35:14,530
+我知道这听起来不道德，
+I know it sounds unethical,
+
+1646
+01:35:14,626 --> 01:35:15,991
+而且你可能会难以
+and you'd probably have difficulty
+
+1647
+01:35:16,085 --> 01:35:18,076
+把我从父亲般的角色调整为情人形象。
+readjusting me from a father figure
+
+1648
+01:35:18,171 --> 01:35:19,627
+把我从父亲形象调整为情人形象。
+to a lover image.
+
+1649
+01:35:20,423 --> 01:35:22,539
+而且我可能对你来说太高了。
+And I'm probably too tall for you.
+
+1650
+01:35:22,634 --> 01:35:24,170
+太老了。
+Too old.
+
+1651
+01:35:24,260 --> 01:35:26,000
+我敢肯定你没有足够的壁橱空间
+I'm sure you don't have enough closet space
+
+1652
+01:35:26,095 --> 01:35:27,960
+给我的衣服放在你公寓里。
+for my clothes in your apartment.
+
+1653
+01:35:28,389 --> 01:35:30,254
+我会打呼噜，而且...
+I do snore a lot and...
+
+1654
+01:35:31,851 --> 01:35:34,058
+我有胃溃疡。
+I have this ulcer.
+
+1655
+01:35:37,106 --> 01:35:39,597
+Dr. Knoblock！
+Dr. Knoblock!
+
+1656
+01:35:41,194 --> 01:35:42,855
+我需要帮助！
+I need help!
+
+1657
+01:35:44,572 --> 01:35:46,052
+Penelope，你怎么能这样对我？
+How could you do this to me, Penelope?
+
+1658
+01:35:46,115 --> 01:35:49,107
+你知道我受不了被拒绝。
+You know I can't stand rejection.
+
+1659
+01:35:57,210 --> 01:35:58,620
+Penelope。
+Penelope.
+
+1660
+01:36:00,213 --> 01:36:01,874
+Dr. Mannix。
+Dr. Mannix.
+
+1661
+01:36:03,216 --> 01:36:05,878
+呃，你，你得帮我。
+Uh, you, you've got to help me.
+
+1662
+01:36:05,969 --> 01:36:09,382
+我看哪里，眼里全是 Penelope。
+Everywhere I look, all I can see is Penelope.
+
+1663
+01:36:09,472 --> 01:36:12,179
+在银行、出租车上、在警察局。
+In the bank, in the cab, at the police station.
+
+1664
+01:36:12,267 --> 01:36:13,387
+就在刚才我进来时，
+And just now when I came in,
+
+1665
+01:36:13,476 --> 01:36:15,637
+连你在我眼里也像 Penelope。
+even you looked like Penelope to me.
+
+1666
+01:36:15,728 --> 01:36:18,060
+我知道这一切都和爱她、想念她混在一起
+I know it's all mixed up with loving her and missing her
+
+1667
+01:36:18,147 --> 01:36:20,058
+还有，那种内疚感
+and, and feeling guilty
+
+1668
+01:36:20,149 --> 01:36:23,186
+因为那家愚蠢的银行而把她挤到一边。
+about shoving her aside for that stupid bank.
+
+1669
+01:36:24,612 --> 01:36:26,898
+我可能不该把这些无聊事说给你听。
+I probably shouldn't be boring you with all this.
+
+1670
+01:36:26,990 --> 01:36:28,355
+哦，不，别停下来。
+Oh, no, don't stop now.
+
+1671
+01:36:28,449 --> 01:36:30,405
+你正说到精彩部分。
+You're just getting to the good part.
+
+1672
+01:36:30,493 --> 01:36:32,905
+啊，现在我真的迷失了。
+Ah, now I'm really gone.
+
+1673
+01:36:32,996 --> 01:36:34,987
+你甚至听起来像她。
+You even sound like her.
+
+1674
+01:36:35,081 --> 01:36:38,244
+要是有什么办法，要是我能找到她
+If there was only some way, if I could only find her
+
+1675
+01:36:38,334 --> 01:36:40,825
+告诉她我有多需要她。
+and tell her how much I need her.
+
+1676
+01:36:49,637 --> 01:36:51,343
+Dr. Mannix，你需要帮助。
+Dr. Mannix, you need help.
+
+1677
+01:36:51,431 --> 01:36:52,825
+现在大家都需要。
+Everybody does these days.
+
+1678
+01:36:52,849 --> 01:36:54,326
+唯一不同的是，我们这些适应得较好的人
+The only difference is, we well-adjusted
+
+1679
+01:36:54,350 --> 01:36:56,591
+还能及时意识到。
+maladjusted ones realize it in time.
+
+1680
+01:36:58,313 --> 01:37:00,474
+而且，最好的帮助
+And besides, the best help of all
+
+1681
+01:37:00,565 --> 01:37:02,476
+就是在家里才能得到的那种帮助。
+is the kind you can only get at home.
+
+1682
+01:37:14,787 --> 01:37:16,698
+忘记鞋子意味着什么？
+What does it mean when you forget your shoes?
+
+1683
+01:37:16,789 --> 01:37:19,326
+- 嗯...
+- 这意味着我们都治好了，亲爱的。
+- Well... - It means we're cured, darling.
+
+1684
+01:37:32,513 --> 01:37:39,055
+<i>♪ 想象一个生活像疯狂魔术师的女孩 ♪</i>
+<i>♪ Picture a girl whose life is as crazy as a mad magician ♪</i>
+
+1685
+01:37:39,145 --> 01:37:45,641
+<i>♪ 这就是 Penelope ♪ ♪ 这就是 Penelope... ♪</i>
+<i>♪ this is Penelope ♪ ♪ this is Penelope... ♪</i>
+
