@@ -5567,14 +5567,12 @@ And when I say crazy, I'm using the word medically.
 
 1110
 01:06:00,623 --> 01:06:02,143
-- 但就在前几天……
-- 算了。
+- 但就在前几天…… - 算了。
 - But just the other day... - Forget it.
 
 1111
 01:06:02,167 --> 01:06:04,624
-- 你说了……
-- 算了，算了！
+- 你说了…… - 算了，算了！
 - You said... - Forget it. Forget it!
 
 1112
@@ -5584,8 +5582,7 @@ Now let's get out of here and try to act very natural.
 
 1113
 01:06:24,939 --> 01:06:27,601
-- 他们把我们锁起来了！
-- 别担心。
+- 他们把我们锁起来了！ - 别担心。
 - They locked us in! - Don't worry.
 
 1114
@@ -5600,14 +5597,12 @@ That bell will bring everybody. That's a burglar alarm.
 
 1116
 01:06:31,946 --> 01:06:33,857
-- 要是他们搜我们怎么办？
-- 那又怎样？
+- 要是他们搜我们怎么办？ - 那又怎样？
 - What if they search us? - Well, what of it?
 
 1117
 01:06:33,948 --> 01:06:36,010
-- 我们没有偷东西。
-- 今天没偷东西。
+- 我们没有偷东西。 - 今天没偷东西。
 - We haven't stolen anything. - Not today, we haven't.
 
 1118
@@ -5617,8 +5612,7 @@ What do you think this is?
 
 1119
 01:06:37,285 --> 01:06:39,742
-- 哦，Penny。
-- 他们不敢搜我们。
+- 哦，Penny。 - 他们不敢搜我们。
 - Oh, penny. - They wouldn't dare search us.
 
 1120
@@ -5808,7 +5802,7 @@ They wanted to talk to me.
 
 1157
 01:09:09,437 --> 01:09:11,553
-——关于银行业的事。
+- 关于什么 - 关于银行业的事。
 - Well, what about? - About banking.
 
 1158
