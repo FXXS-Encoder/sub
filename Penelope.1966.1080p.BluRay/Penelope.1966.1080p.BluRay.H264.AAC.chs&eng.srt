@@ -6047,7 +6047,7 @@ I thought I had this case all figured out.
 
 1206
 01:11:20,151 --> 01:11:22,062
-准备好，中尉。
+- 准备好。- 好了，中尉。
 - Goes to show you. - Ready, lieutenant.
 
 1207
