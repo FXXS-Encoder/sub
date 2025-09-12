@@ -4874,7 +4874,8 @@ I thought I had this case all figured out.
 
 1206
 01:11:20,151 --> 01:11:22,062
-- Goes to show you. - Ready, lieutenant.
+- Goes to show you.
+- Ready, lieutenant.
 
 1207
 01:11:22,320 --> 01:11:24,060
@@ -5122,7 +5123,7 @@ Oh, no. No, wait.
 
 1268
 01:14:02,271 --> 01:14:04,478
-Wait, I-I-l admit it.
+Wait, I-I-I admit it.
 
 1269
 01:14:04,565 --> 01:14:06,726
@@ -6792,5 +6793,4 @@ What does it mean when you forget your shoes?
 1685
 01:37:39,145 --> 01:37:45,641
 <i>♪ this is Penelope ♪ ♪ this is Penelope... ♪</i>
-
 
